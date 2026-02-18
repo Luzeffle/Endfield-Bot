@@ -1,0 +1,104 @@
+URL: https://endfield.wiki.gg/wiki/Logistics_Units
+
+
+
+
+
+Automated Industry Complex
+
+
+
+
+
+
+Resourcing
+
+
+
+
+Logistics Units
+
+
+
+
+Depot Access
+
+
+
+
+Production I
+
+
+
+
+Production II
+
+
+
+
+
+
+Power
+
+
+
+
+Miscellaneous
+
+
+
+
+Combat & Support
+
+
+
+
+Planting
+
+
+
+
+
+
+
+
+Logistics facilities are used to transport materials from one facility to another. They are used to create a seamless network across the complex.
+
+
+
+Bridge
+
+
+Bridges, as its name suggests, bridges two independent belts or pipes so they can cross each other without interruption.
+
+
+
+Splitter
+
+
+Splitters, as its name suggests, can split products from belts or pipes into all the connected output evenly up to 3 output.
+
+
+
+Converger
+
+
+Convergers, as its name suggests, can converge products from up to 3 belts or pipes into one.
+
+Do keep in mind that both Transport Belt and Pipe both have a limited flow rate of 0.5 unit/s and 2 unit/s respectively, make sure to keep the total flow rate of the converged input does not exceed the limited flow rate to prevent clogging the production line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

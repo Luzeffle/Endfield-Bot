@@ -1,0 +1,795 @@
+URL: https://endfield.wiki.gg/wiki/Sundering_Steel
+
+Sundering Steel
+Icon
+Full
+Max
+File:Sundering Steel max model.png
+Internal name
+
+wpn_sword_0005
+In Other Languages
+Simplified Chinese
+
+
+钢铁余音
+Traditional Chinese
+
+
+鋼鐵餘音
+Japanese
+
+
+鋼鉄余音
+Korean
+
+
+강철의 여운
+Spanish
+
+
+Acero hendiente
+Russian
+
+
+Стальной раскол
+Information
+Type
+
+Sword
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+Sundering Steel
+ is a 5★ 
+Sword
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+One of the elite weaponry manufactured by Endfield for their operators. The sword features a seamless grip-and-guard hilt and stress-triggered energy storage mechanisms to enhance its damage potential.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+42
+
+
+120
+
+
+203
+
+
+286
+
+
+369
+
+
+411
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Combative: Anthem of Cinder
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Sundering Steel to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Sundering Steel to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Sundering Steel to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Sundering Steel to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Agility Boost [M]
+
+
+
+Physical DMG Boost [M]
+
+
+
+Combative: Anthem of Cinder
+
+
+
+
+
+
+
+
+
+Agility 
++16
+
+
+
+
+Physical DMG Dealt 
++4.44%
+
+
+
+
+ATK 
++5%
+. When the wielder deals a 
+Physical Status
+, the wielder gains ATK 
++7.5%
+ for 20.00s. 
+Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++28
+
+
+
+
+Physical DMG Dealt 
++8%
+
+
+
+
+ATK 
++6%
+. When the wielder deals a 
+Physical Status
+, the wielder gains ATK 
++9%
+ for 20.00s. 
+Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++41
+
+
+
+
+Physical DMG Dealt 
++11.56%
+
+
+
+
+ATK 
++7%
+. When the wielder deals a 
+Physical Status
+, the wielder gains ATK 
++10.5%
+ for 20.00s. 
+Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++54
+
+
+
+
+Physical DMG Dealt 
++15.11%
+
+
+
+
+ATK 
++8%
+. When the wielder deals a 
+Physical Status
+, the wielder gains ATK 
++12%
+ for 20.00s. 
+Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++67
+
+
+
+
+Physical DMG Dealt 
++18.67%
+
+
+
+
+ATK 
++9%
+. When the wielder deals a 
+Physical Status
+, the wielder gains ATK 
++13.5%
+ for 20.00s. 
+Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++80
+
+
+
+
+Physical DMG Dealt 
++22.22%
+
+
+
+
+ATK 
++10%
+. When the wielder deals a 
+Physical Status
+, the wielder gains ATK 
++15%
+ for 20.00s. 
+Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++92
+
+
+
+
+Physical DMG Dealt 
++25.78%
+
+
+
+
+ATK 
++11%
+. When the wielder deals a 
+Physical Status
+, the wielder gains ATK 
++16.5%
+ for 20.00s. 
+Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++105
+
+
+
+
+Physical DMG Dealt 
++29.33%
+
+
+
+
+ATK 
++12%
+. When the wielder deals a 
+Physical Status
+, the wielder gains ATK 
++18%
+ for 20.00s. 
+Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++124
+
+
+
+
+Physical DMG Dealt 
++34.67%
+
+
+
+
+ATK 
++14%
+. When the wielder deals a 
+Physical Status
+, the wielder gains ATK 
++21%
+ for 20.00s. 
+Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+Basic Info
+
+
+I know who you are. I know where you came from.
+You were one of them. You must be. I see the forge fire in your eyes. You stood vigils over the smelting furnaces for years.
+You came to the south because you could no longer face the Aggeloid nightmares. But you feared of being called a deserter. That was why you changed your name and joined us as an arsenal engineer. You found this simpler life at Endfield worth living. You helped fellow Endfielders survive their battles. They were grateful and praised the weapons you designed. Your work was balanced and operated smoothly. Your designs incorporated years of actual combat experience. You read Endfield science and research and it probably made you think about things. If the Fort had these technologies, you might have stayed at that place.
+Despite your reputation as a cranky old man, the girl likes you a lot. You always had a story to tell, stories that her parents never talked about. Stories about heroes, how they lived, how they fought without a care of their lives, and how their sacrifices went unsung and unremembered. You even learned a thing or two from her, right? This seamless design feature ... would be an oddity at the place where you once served.
+This was why you hesitated when the girl asked you to teach her how to swing a sword. At first, you thought of your dashing, youthful years. Fencing skills would help the girl better protect herself. But your mind changed. The girl had the entire Endfield arsenal as well as loving parents to support her. She did not need to know about fencing. You then convinced yourself that the girl needed no instructions from a deserter and ex-butcher who broke his oaths. The old road had been abandoned for years. No one should take it anymore. It calls for no one, and needs none.
+Thus, you applied for divisional transfer. You wanted to leave the arsenal and force yourself back to field service — you believe you should be able to stomach the frontlines of Endfield Industries.
+Please do not look at me like I'm some sort of a Sarkaz Djall mind-floggers. And no. I wasn't using any mind-reading instruments.
+I do have a message for you: Supervisor Perlica will not oppose any decision you make, but please, don't make the girl sad.
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,280 @@
+URL: https://endfield.wiki.gg/wiki/Combustion
+
+Under Construction
+This page is under construction and may be incomplete or subject to change.
+
+
+
+
+Combustion
+ is an 
+Arts Reaction
+ in 
+Arknights: Endfield
+.
+
+
+
+Contents
+
+
+
+
+1
+ 
+Effect
+
+
+
+
+1.1
+ 
+Friendly
+
+
+1.2
+ 
+Hostile
+
+
+
+
+
+
+2
+ 
+Sources
+
+
+3
+ 
+Interactions
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Effect
+
+
+Friendly
+
+
+Applying 
+Combustion
+ to an enemy deals 1 initial instance of 
+Heat DMG
+ and additionaly makes the enemy suffer 
+Heat DMG
+ as 
+damage over time
+. Forcibly applied Combustion does not deal the initial hit of 
+Heat DMG
+. If not otherwise specified, Combustion lasts for 10 seconds and will deal damage every second for a total of 10 hits. Triggering Combustion with a higher 
+Status Level
+ will increase the initial 
+Heat DMG
+ and the damage over time. The damage done also depends on the ATK, Arts Intensity, Heat DMG Bonus and level of the 
+Operator
+ that triggered the Arts Reaction.
+
+
+
+
+
+Combustion
+
+
+
+
+
+Status Level
+
+
+
+Initial DMG
+
+
+
+DMG over time
+
+
+
+Total DMG
+
+
+
+
+
+1
+
+
+
+160%
+
+
+
+24%
+
+
+
+400%
+
+
+
+
+
+2
+
+
+
+240%
+
+
+
+36%
+
+
+
+600%
+
+
+
+
+
+3
+
+
+
+320%
+
+
+
+48%
+
+
+
+800%
+
+
+
+
+
+4
+
+
+
+400%
+
+
+
+60%
+
+
+
+1000%
+
+
+
+Hostile
+
+
+Certain enemy skills can apply stacks of Heat Infliction to operators. At 4 stacks, the operator becomes Combusted: Temporarily suffer continuous Heat DMG that ignores DEF.
+― Tutorial
+
+
+Sources
+
+
+Applying 
+Heat Infliction
+ to an enemy with a non-Heat 
+Arts Infliction
+ triggers 
+Combustion
+. Additional ways to apply Combustion are:
+
+
+
+Interactions
+
+
+Navigation
+View or edit this template
+Arknights: Endfield
+ combat mechanics
+General
+
+
+Damage
+
+
+Skill Points
+
+
+Ultimate Energy
+
+
+Attribute
+
+
+Physical
+
+
+Vulnerable
+
+
+Lift
+
+
+Knock Down
+
+
+Crush
+
+
+Breach
+
+
+Arts
+Arts Infliction
+
+
+Heat Infliction
+
+
+Electric Infliction
+
+
+Cryo Infliction
+
+
+Nature Infliction
+
+
+Arts Reaction
+
+
+Combustion
+
+
+Electrification
+
+
+Solidification
+
+
+Corrosion
+
+
+
+
+
+
+

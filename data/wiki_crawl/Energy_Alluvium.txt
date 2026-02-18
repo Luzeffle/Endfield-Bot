@@ -1,0 +1,3235 @@
+URL: https://endfield.wiki.gg/wiki/Energy_Alluvium
+
+The 
+Operational Manual
+ is a menu in 
+Arknights: Endfield
+ that provides quick access to various content of the game.
+
+
+
+Contents
+
+
+
+
+1
+ 
+Overview
+
+
+2
+ 
+Node
+
+
+3
+ 
+Daily
+
+
+4
+ 
+Index
+
+
+
+
+4.1
+ 
+Energy Alluvium
+
+
+
+
+
+
+5
+ 
+Training
+
+
+6
+ 
+Simulation
+
+
+7
+ 
+Permanent
+
+
+
+
+
+
+Overview
+
+
+The Operational Manual is a system that integrates various features, such as Activity Nodes, Daily Tasks, and Tactical Training. Use it to get familiar with various activities on Talos-II.
+― Tutorial
+
+
+This menu guides the player to various missions, challenges and tutorials that help progressing through the game.
+
+This main menu has 6 sub menus:
+
+
+
+Node
+
+
+Daily
+
+
+Index
+
+
+Training
+
+
+Simulation
+
+
+Permanent
+
+
+Node
+
+
+The 
+Node
+ menu serves as a guide leading players through the game. A total of 12 Nodes with 6 missions each accompany the player, with one time rewards given for each mission and Node completed.
+
+
+
+Node 01
+Node 02
+Node 03
+Node 04
+Node 05
+Node 06
+Node 07
+Node 08
+Node 09
+Node 10
+Node 11
+Node 12
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+2K
+ 
+5
+ 
+5
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Rest at the TP Point 1 time
+
+
+
+Restore HP with 
+ 
+Buckflower Powder
+ 2 times
+
+
+
+Equip an 
+operator
+ with 1 piece of 
+gear
+
+
+
+
+
+
+120
+ 
+5
+
+
+
+
+120
+ 
+5
+
+
+
+
+120
+ 
+1K
+
+
+
+
+
+
+Equip 1 operator with tacticals
+
+
+
+Upgrade 4 Operators to Level 10
+
+
+
+Upgrade 2 
+weapons
+ to Level 10
+
+
+
+
+
+120
+ 
+5
+
+
+
+
+120
+ 
+5
+
+
+
+
+120
+ 
+1K
+
+
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+5K
+ 
+5
+ 
+5
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Complete 1 
+Basic Training
+ stages
+
+
+
+Complete Operator Guide: Endministrator
+
+
+
+Assemble 2 pieces of gray quality 
+Gear
+
+
+
+
+
+
+140
+ 
+10
+
+
+
+
+140
+ 
+2
+
+
+
+
+140
+ 
+10
+
+
+
+
+
+
+Submit 1 Aurylene at 
+TP Point
+
+
+
+
+Upgrade 1 Operator to Level 20
+
+
+
+Complete the main mission [Chapter I Process II: Paving the Way]
+
+
+
+
+
+140
+ 
+2
+
+
+
+
+140
+ 
+5
+
+
+
+
+140
+ 
+2K
+
+
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+8K
+ 
+18
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Upgrade 4 Operators to Level 20
+
+
+
+Complete 
+Protocol Space: Promotions
+ 1 time
+
+
+
+Complete 3 
+simulations
+
+
+
+
+
+
+160
+ 
+15
+
+
+
+
+160
+ 
+3
+
+
+
+
+160
+ 
+15
+
+
+
+
+
+
+Assemble 4 pieces of green quality 
+gear
+
+
+
+
+Create and save 1 blueprint
+
+
+
+Repair any shared facility 1 time
+
+
+
+
+
+160
+ 
+3
+
+
+
+
+160
+ 
+8
+
+
+
+
+160
+ 
+3K
+
+
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+12K
+ 
+12
+ 
+12
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Promote 1 Operator to E1
+
+
+
+Send 1 friend request
+
+
+
+Unlock 1 
+Recycling Station
+
+
+
+
+
+
+180
+ 
+18
+
+
+
+
+180
+ 
+18
+
+
+
+
+180
+ 
+4
+
+
+
+
+
+
+In 
+Dijiang
+, edit the Reception Room Operator CV Wall 1 time
+
+
+
+Buy gifts from the Stock Redistribution system and give 1 gift to any operator aboard Dijiang
+
+
+
+In Valley IV, buy staple goods 1 time
+
+
+
+
+
+180
+ 
+10
+
+
+
+
+180
+ 
+3.5K
+
+
+
+
+180
+ 
+4
+
+
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+15K
+ 
+8
+ 
+8
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Upgrade 1 operator to Level 30
+
+
+
+In Valley IV, reach Regional Development Level 3
+
+
+
+Raise any 
+outpost
+ to Outpost Prosperity Level 2
+
+
+
+
+
+180
+ 
+20
+
+
+
+
+180
+ 
+5
+
+
+
+
+180
+ 
+20
+
+
+
+
+
+
+Use the Crafting feature and craft 5 different items
+
+
+
+In Valley IV, raise a Stock Redistributor's stock coverage to Level 2
+
+
+
+Open 5 storage crates
+
+
+
+
+
+180
+ 
+5
+
+
+
+
+180
+ 
+12
+
+
+
+
+180
+ 
+4K
+
+
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+20K
+ 
+36
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Upgrade 1 operator to Level 40
+
+
+
+In Valley IV, reach Regional Development Level 5
+
+
+
+Submit 10 Aurylenes at TP Points
+
+
+
+
+
+180
+ 
+20
+
+
+
+
+180
+ 
+5
+
+
+
+
+180
+ 
+20
+
+
+
+
+
+
+Purchase elastic goods in Valley IV 1 time
+
+
+
+Research 13 Basic AIC Plan (factory tech tree) technologies
+
+
+
+In Valley IV, add 2 Stock Redistributors into the system
+
+
+
+
+
+180
+ 
+5
+
+
+
+
+180
+ 
+12
+
+
+
+
+180
+ 
+4K
+
+
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+25K
+ 
+24
+ 
+24
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Upgrade 2 operators to Level 40
+
+
+
+Upgrade 1 weapon to Level 40
+
+
+
+In Dijiang, upgrade any cabin 1 time
+
+
+
+
+
+180
+ 
+24
+
+
+
+
+180
+ 
+6
+
+
+
+
+180
+ 
+24
+
+
+
+
+
+
+Assemble 4 pieces of blue quality gear
+
+
+
+Equip 1 operator with 3 pieces of blue or better quality gear, and activate a set effect
+
+
+
+In Valley IV, raise any 
+depot node
+ to Level 2 and complete Pack and Deliver 1 time
+
+
+
+
+
+180
+ 
+6
+
+
+
+
+180
+ 
+15
+
+
+
+
+180
+ 
+4.5K
+
+
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+30K
+ 
+45
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Promote 1 operator to E2
+
+
+
+Tune 1 weapon to T2
+
+
+
+In Valley IV, reach Regional Development Level 6
+
+
+
+
+
+180
+ 
+28
+
+
+
+
+180
+ 
+8
+
+
+
+
+180
+ 
+28
+
+
+
+
+
+
+Unlock 2 depot nodes
+
+
+
+Unlock 5 Recycling Stations
+
+
+
+Submit 20 Aurylenes at TP Points
+
+
+
+
+
+180
+ 
+8
+
+
+
+
+180
+ 
+20
+
+
+
+
+180
+ 
+5K
+
+
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+5
+ 
+5
+ 
+35K
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Promote 2 operators to E2
+
+
+
+Tune 2 weapons to T2
+
+
+
+Raise any outpost to Outpost Prosperity Level 3
+
+
+
+
+
+180
+ 
+32
+
+
+
+
+180
+ 
+10
+
+
+
+
+180
+ 
+32
+
+
+
+
+
+
+Research 32 Basic AIC Plan (factory tech tree) technologies
+
+
+
+Clear 
+Energy Alluvium
+ 1 time
+
+
+
+Reach Exploration Level 4
+
+
+
+
+
+180
+ 
+10
+
+
+
+
+180
+ 
+24
+
+
+
+
+180
+ 
+6K
+
+
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+6
+ 
+8
+ 
+40
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Promote 4 operators to E2
+
+
+
+Upgrade 2 operators to Level 60
+
+
+
+Upgrade 1 weapon to Level 60
+
+
+
+
+
+180
+ 
+16
+
+
+
+
+180
+ 
+5
+
+
+
+
+180
+ 
+40
+
+
+
+
+
+
+Upgrade 1 operator's skill to Level 6
+
+
+
+Assemble 4 pieces of purple quality gear
+
+
+
+Reach Exploration Level 5
+
+
+
+
+
+180
+ 
+5
+
+
+
+
+180
+ 
+6
+
+
+
+
+180
+ 
+800
+
+
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+24
+ 
+50K
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Promote 1 operator to E3
+
+
+
+Tune 1 weapon to T3
+
+
+
+In Wuling, reach Regional Development Level 4
+
+
+
+
+
+180
+ 
+24
+
+
+
+
+180
+ 
+8
+
+
+
+
+180
+ 
+12
+
+
+
+
+
+
+Reach Exploration Level 6
+
+
+
+Complete 
+RE-Crisis
+ 1 time
+
+
+
+Complete 1 enviroment monitoring job
+
+
+
+
+
+180
+ 
+15K
+
+
+
+
+180
+ 
+60
+
+
+
+
+180
+ 
+8
+
+
+
+
+
+
+Node Rewards
+
+
+
+
+
+Complete all missions in the node to claim.
+
+
+
+
+750
+ 
+1
+ 
+8
+ 
+80K
+
+
+
+
+
+
+Missions
+
+
+
+
+
+Promote 1 Operator to E4
+
+
+
+Tune 1 Weapon to T4
+
+
+
+Etch an 
+essence
+ 1 time
+
+
+
+
+
+180
+ 
+5
+
+
+
+
+180
+ 
+5
+
+
+
+
+180
+ 
+5
+
+
+
+
+
+
+Assemble 4 pieces of gold quality gear
+
+
+
+Research 10 Wuling AIC Plan (factory tech tree) technologies
+
+
+
+Complete 
+Crisis Drills
+ 1 time
+
+
+
+
+
+180
+ 
+5
+
+
+
+
+180
+ 
+30K
+
+
+
+
+180
+ 
+5
+
+
+
+
+Daily
+
+
+The 
+Daily
+ menu shows missions that can be completed daily for rewards everyday. 
+ 
+Emergency Sanity Booster
+ obtained from the rewards expire at the end of the week. If the player does not reach 100 Activity Points before the daily reset, then one Vacation Tag will be activated, up to a maximum of three. Upon reaching 100 Activity Points and claiming the rewards one activated Vacation Tag will be automatically used to double the 
+ 
+Pass Experience
+ received. Other rewards are not affected by this.
+
+
+
+
+
+
+
+Activity
+
+
+
+Rewards
+
+
+
+
+
+20
+
+
+
+210
+ 
+40
+ 
+1
+
+
+
+
+
+
+40
+
+
+
+220
+ 
+40
+ 
+5
+
+
+
+
+
+
+60
+
+
+
+240
+ 
+40
+ 
+2
+
+
+
+
+
+
+80
+
+
+
+240
+ 
+40
+ 
+9K
+
+
+
+
+
+
+100
+
+
+
+240
+ 
+40
+ 
+1
+ 
+2K
+
+
+
+
+
+
+
+
+Activity
+
+
+
+Mission
+
+
+
+
+
+20
+
+
+
+Log into the game
+
+
+
+
+
+10
+
+
+
+Spend 60 
+Sanity
+ points
+
+
+
+
+
+10
+
+
+
+Spend 120 Sanity points
+
+
+
+
+
+20
+
+
+
+Defeat 20 
+enemies
+
+
+
+
+
+
+20
+
+
+
+Level up an 
+Operator
+ 1 time
+
+
+
+
+
+20
+
+
+
+Level up a 
+Weapon
+ 1 time
+
+
+
+
+
+40
+
+
+
+Assemble 
+Gear
+ 1 time
+
+
+
+
+
+20
+
+
+
+Acquire 5 
+Gatherables
+
+
+
+
+
+
+20
+
+
+
+Perform crafting 1 time
+
+
+
+
+
+40
+
+
+
+Give 1 
+Gift
+ to 1 Operator
+
+
+
+
+
+80
+
+
+
+Complete Daily Task 1 time
+
+
+
+Index
+
+
+The 
+Index
+ menu provides quick access to various Sanity consuming activities. With the exception of Energy Alluvium, all other content takes place in instanced areas called 
+Protocol Space
+.
+
+
+
+Protocol Spaces are scattered throughout Talos-II. These isolated spatial pockets can be explored by a competent team. Study the basic details, threat levels, and enemy intel of the Protocol Space before exploration. Some Protocol Spaces also offer salvageable resources. Explore them accordingly to gather the desired resources.
+― Tutorial
+
+
+These 
+Protocol Spaces
+ serve as the main source to obtain various progression materials for upgrading and promoting 
+Operators
+ or 
+Weapons
+. Completing a Protocol Spaces gives a fixed amount of rewards depending on the type and Level of the Rift cleared. Upon completing the Rift the player will be asked if they want to claim the rewards at the cost of 
+ 
+Sanity
+. Leaving or failing a Rift does not consume Sanity. Once the player has interacted with a Protocol Space in the world, they can enter the Protocol Space via the Index menu or by selecting the Protocol Space on the map without having to travel to the Protocol Space location in the world.
+
+Some Protocol Spaces have special mechanics, such as continuous HP loss but HP restoration for killing enemies or shorter Combo Skill cooldowns. Players may want to adjust their squad to take advantage of the mechanics provided by the Protocol Space.
+
+The menu is divided into different categories:
+
+
+
+
+
+Operator Progression
+
+
+
+
+
+Name
+
+
+
+Mechanics
+
+
+
+Stages
+
+
+
+Rewards
+
+
+
+Location
+
+
+
+
+
+Set A
+
+
+
+Set B
+
+
+
+
+
+Protocol Space: Operator EXP
+
+
+
+
+Level 2 and higher:
+Operators enjoy shorter combo skill cooldown and gain a temporary ATK buff after casting their combo skills.
+
+
+
+
+
+Derivative Memories
+
+
+Derivative Trials
+
+
+Derivative Suffering
+
+
+Derivative Destruction
+
+
+Manifested Nightmares
+
+
+
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+Valley Pass
+
+
+
+
+
+Level 3 and higher:
+Enemies have slow HP regeneration
+
+
+
+
+
+Protocol Space: Promotions
+
+
+
+
+Level 1 and higher:
+Natural SP recovery is much slower. Skill-based SP recovery is greatly increased.
+
+
+
+
+
+Tacit Brook
+
+
+Tacit Canal
+
+
+Tacit Mere
+
+
+Tacit Undercurrent
+
+
+Tacit Maelstrom
+
+
+
+
+
+
+
+
+
+
+
+
+The Hub
+
+
+
+
+
+Protocol Space: T-Creds
+
+
+
+
+Level 1 and higher:
+Be wary of the poisonous mist. All operators will continuously lose HP.
+Defeating enemies restores some HP.
+
+
+
+
+
+Blessing of Tin
+
+
+Blessing of Ferrium
+
+
+Blessing of Cuprium
+
+
+Blessing of Argenta
+
+
+Blessing of Oros
+
+
+
+
+
+
+
+
+Valley Pass
+
+
+
+
+
+Protocol Space: Skill Up
+
+
+
+
+Level 1 and higher:
+Enemies have more HP.
+Enemies can take more Stagger.
+Finishers deal much more DMG to enemies.
+
+
+
+
+
+Shadow of the Tower
+
+
+Speck of the Tower
+
+
+Remorse of the Tower
+
+
+Echoes of the Tower
+
+
+Mirage of the Tower
+
+
+
+
+
+
+
+
+
+
+
+
+The Hub
+
+
+
+
+
+
+
+Weapon Progression
+
+
+
+
+
+Name
+
+
+
+Mechanics
+
+
+
+Stages
+
+
+
+Rewards
+
+
+
+Location
+
+
+
+
+
+Set A
+
+
+
+Set B
+
+
+
+
+
+Protocol Space: Weapon EXP
+
+
+
+
+Level 1 and 2:
+Arts Reactions deal more DMG to enemies and inflict a temporary debuff that causes them to suffer more DMG.
+
+
+
+
+
+Gunsmith's Dig
+
+
+Gunsmith's Reserve
+
+
+Gunsmith's Hermitage
+
+
+Gunsmith's Utopia
+
+
+Gunsmith's Mound
+
+
+
+
+ 
+ 
+
+
+
+
+The Hub
+
+
+
+
+
+Level 3 and higher:
+Enemies have DMG Reduction.
+Arts Inflictions and/or Arts Reactions can remove the enemies' DMG Reduction.
+Arts Reactions can inflict a temporary debuff on enemies that makes them take more DMG.
+
+
+
+
+
+Protocol Space: Weapon Tune
+
+
+
+
+Level 1 and 2:
+Physical Statuses deal more DMG to enemies and inflict a temporary debuff that causes them to suffer more DMG.
+
+
+
+
+
+Forge Trials Lv.1
+
+
+Forge Trials Lv.2
+
+
+Forge Trials Lv.3
+
+
+Forge Trials Lv.4
+
+
+Forge Trials Lv.5
+
+
+
+
+
+
+
+
+
+
+
+
+The Hub
+
+
+
+
+
+Level 3 and higher:
+Enemies have DMG Reduction.
+Vulnerable and/or Physical Statuses can remove the enemies' DMG Reduction.
+Physical Statuses can inflict a temporary debuff on enemies that makes them take more DMG.
+
+
+
+
+
+
+
+RE-Crisis
+
+
+
+
+
+Type
+
+
+
+Name
+
+
+
+First Clear Rewards
+
+
+
+Standard Rewards
+
+
+
+Location
+
+
+
+
+
+Fixed
+
+
+
+Random
+
+
+
+
+
+RE-Crisis: Rhodagn
+
+
+
+
+Crisis Reflection: Rhodagn
+
+
+
+
+50
+ 
+3.35K
+ 
+9
+ 
+5
+ 
+7
+ 
+200
+
+
+
+
+None
+
+
+
+
+Valley Pass
+
+
+
+
+
+Crisis Extension: Rhodagn
+
+
+
+
+50
+ 
+4.05K
+ 
+5
+ 
+1
+ 
+9
+ 
+200
+
+
+
+
+
+
+Crisis Calamity: Rhodagn
+
+
+
+
+50
+ 
+5.75K
+ 
+5
+ 
+1
+ 
+9
+ 
+200
+
+
+
+
+
+
+Crisis Pandemonium: Rhodagn
+
+
+
+
+50
+ 
+3
+ 
+200
+
+
+
+
+9
+ 
+720
+
+
+
+
+ 
+
+
+
+
+
+
+RE-Crisis: Triaggelos
+
+
+
+
+Crisis Reflection: Triaggelos
+
+
+
+
+50
+ 
+4.05K
+ 
+5
+ 
+1
+ 
+9
+ 
+200
+
+
+
+
+None
+
+
+
+
+Origin Lodespring
+
+
+
+
+
+Crisis Extension: Triaggelos
+
+
+
+
+50
+ 
+5.75K
+ 
+5
+ 
+1
+ 
+9
+ 
+200
+
+
+
+
+
+
+Crisis Calamity: Triaggelos
+
+
+
+
+50
+ 
+3
+ 
+200
+
+
+
+
+ 
+720
+
+
+
+
+ 
+
+
+
+
+
+
+RE-Crisis: Marble Aggelomoirai
+
+
+
+
+Crisis Reflection: Marble Aggelomoirai
+
+
+
+
+50
+ 
+4.05K
+ 
+5
+ 
+1
+ 
+9
+ 
+200
+
+
+
+
+None
+
+
+
+
+Power Plateau
+
+
+
+
+
+Crisis Extension: Marble Aggelomoirai
+
+
+
+
+50
+ 
+5.75K
+ 
+5
+ 
+1
+ 
+9
+ 
+200
+
+
+
+
+
+
+Crisis Calamity: Marble Aggelomoirai
+
+
+
+
+50
+ 
+3
+ 
+200
+
+
+
+
+ 
+720
+
+
+
+
+ 
+
+
+
+
+
+
+Crisis Drills
+
+
+
+
+
+Name
+
+
+
+First Clear Rewards
+
+
+
+Standard Rewards
+
+
+
+Location
+
+
+
+
+
+Fixed
+
+
+
+Random
+
+
+
+
+
+Hazardous Material Collection Site
+
+
+
+
+50
+ 
+3
+ 
+200
+
+
+
+
+6
+
+
+
+
+ 
+
+
+
+
+Origin Lodespring
+
+
+
+
+
+Hazardous Material Landfill
+
+
+
+
+50
+ 
+3
+ 
+200
+
+
+
+
+6
+
+
+
+
+ 
+
+
+
+
+Power Plateau
+
+
+
+
+
+Hazardous Material Management Room
+
+
+
+
+50
+ 
+3
+ 
+200
+
+
+
+
+6
+
+
+
+
+ 
+
+
+
+
+Jingyu Valley
+
+
+
+
+
+Hazardous Material Institute
+
+
+
+
+50
+ 
+3
+ 
+200
+
+
+
+
+6
+
+
+
+
+ 
+
+
+
+
+Jingyu Valley
+
+
+
+
+
+Hazardous Material Containment Vault
+
+
+
+
+50
+ 
+3
+ 
+200
+
+
+
+
+6
+
+
+
+
+ 
+
+
+
+
+Wuling City
+
+
+
+
+
+Energy Alluvium
+
+
+Energy Alluvium may appear at certain locations of Talos-II. Approach an Energy Alluvium to activate it and view its details.
+― Tutorial
+
+
+Energy Alluvium
+ can be found in set locations in the world of 
+Arknights: Endfield
+. Interacting with one gives the player the choice to start a challenge. A large amount of enemies will spawn in several waves, defeating all of them rewards the player with a first time clear reward. Enemies will also have a chance to drop their respective items and 
+Essences
+. The level of enemies spawned are affected by the Exploration Level.
+
+After reaching 
+Exploration Level
+ 4, all Energy Alluviums will turn into 
+Severe Energy Alluvium
+. On top of the items dropped by the enemies, the Severe Energy Alluvium will also give the option to obtain extra rewards (mainly 
+ 
+Flawless Essence
+) at a cost of 
+ 
+Sanity
+. It's also possible to use 
+ 
+Valley Engraving Permit
+ (or 
+ 
+Wuling Engraving Permit
+ in 
+Wuling
+) to guarantee certain stats on the Essences obtained.
+
+
+
+
+
+Severe Energy Alluvium
+
+
+
+
+
+Exploration Level
+
+
+
+Sanity Cost
+
+
+
+Number of Flawless Essences received
+
+
+
+
+
+4
+
+
+
+50
+
+
+
+1x
+
+
+
+
+
+5
+
+
+
+60
+
+
+
+1x - 2x
+
+
+
+
+
+6
+
+
+
+70
+
+
+
+2x - 3x
+
+
+
+
+
+7
+
+
+
+80
+
+
+
+3x
+
+
+
+
+
+
+
+Location
+
+
+
+Enemies
+
+
+
+Essences
+
+
+
+
+
+Valley IV
+
+
+
+
+
+The Hub
+
+
+
+×1
+ 
+×1
+ 
+×3
+ 
+×6
+ 
+×3
+ 
+×14
+
+
+
+
+File:Flawless Essence: Efficacy.png
+ 
+File:Flawless Essence: Flow.png
+ 
+File:Flawless Essence: Detonate.png
+ 
+File:Flawless Essence: Combative.png
+ 
+File:Flawless Essence: Crusher.png
+ 
+File:Flawless Essence: Pursuit.png
+ 
+File:Flawless Essence: Suppression.png
+ 
+ 
+File:Flawless Essence: Assault.png
+
+
+
+
+
+
+Originium Science Park
+
+
+
+×1
+ 
+×1
+ 
+×4
+ 
+×2
+ 
+×2
+ 
+×4
+ 
+×12
+ 
+×2
+
+
+
+
+File:Flawless Essence: Efficacy.png
+ 
+File:Flawless Essence: Fracture.png
+ 
+File:Flawless Essence: Medicant.png
+ 
+File:Flawless Essence: Infliction.png
+ 
+File:Flawless Essence: Combative.png
+ 
+File:Flawless Essence: Inspiring.png
+ 
+File:Flawless Essence: Pursuit.png
+ 
+File:Flawless Essence: Suppression.png
+ 
+
+
+
+
+
+
+Origin Lodespring
+
+
+
+×1
+ 
+×1
+ 
+×1
+ 
+×1
+ 
+×1
+ 
+×2
+ 
+×4
+ 
+×14
+
+
+
+
+File:Flawless Essence: Efficacy.png
+ 
+File:Flawless Essence: Twilight.png
+ 
+File:Flawless Essence: Detonate.png
+ 
+File:Flawless Essence: Infliction.png
+ 
+File:Flawless Essence: Brutality.png
+ 
+File:Flawless Essence: Combative.png
+ 
+File:Flawless Essence: Suppression.png
+ 
+ 
+File:Flawless Essence: Assault.png
+
+
+
+
+
+
+Power Plateau
+
+
+
+×1
+ 
+×1
+ 
+×1
+ 
+×1
+ 
+×1
+ 
+×1
+ 
+×4
+ 
+×10
+
+
+
+
+File:Flawless Essence: Flow.png
+ 
+File:Flawless Essence: Fracture.png
+ 
+File:Flawless Essence: Medicant.png
+ 
+File:Flawless Essence: Infliction.png
+ 
+File:Flawless Essence: Brutality.png
+ 
+File:Flawless Essence: Inspiring.png
+ 
+File:Flawless Essence: Crusher.png
+ 
+File:Flawless Essence: Pursuit.png
+ 
+
+
+
+
+
+
+Wuling
+
+
+
+
+
+Wuling City
+
+
+
+×2
+ 
+×2
+ 
+×1
+ 
+×2
+ 
+×1
+ 
+×10
+
+
+
+
+File:Flawless Essence: Flow.png
+ 
+File:Flawless Essence: Twilight.png
+ 
+File:Flawless Essence: Detonate.png
+ 
+File:Flawless Essence: Fracture.png
+ 
+File:Flawless Essence: Medicant.png
+ 
+File:Flawless Essence: Brutality.png
+ 
+File:Flawless Essence: Crusher.png
+ 
+ 
+File:Flawless Essence: Assault.png
+
+
+
+
+Training
+
+
+The 
+Training
+ menu provides access to various instanced simulations that teach players combat fundamentals and Operator kits. Completing a training simulation rewards the player with a small amount of 
+ 
+Oroberyl
+ and 
+ 
+T-Creds
+. The menu is divided into a 
+Basic Training
+ and an 
+Operator Guide
+ section, which teach about combat basics and specific Operators respectively.
+
+
+
+
+
+
+
+Training
+
+
+
+Mechanic
+
+
+
+
+
+Attack Interruption
+
+
+
+
+Interrupting charge ups
+
+
+
+
+
+Dodge & Perfect Dodge
+
+
+
+
+Dodge
+
+
+
+
+
+
+Stagger & Stagger Nodes
+
+
+
+
+Stagger
+
+
+
+
+
+
+Lift Practice
+
+
+
+
+Lift
+
+
+
+
+
+
+Crush Practice
+
+
+
+
+Crush
+
+
+
+
+
+
+Knock Down Practice
+
+
+
+
+Knock Down
+
+
+
+
+
+
+Breach Practice
+
+
+
+
+Breach
+
+
+
+
+
+
+Inflict and Burst
+
+
+
+
+Arts Inflictions
+ and 
+Arts Bursts
+
+
+
+
+
+
+Combusting RXN
+
+
+
+
+Combustion
+
+
+
+
+
+
+Solidifying RXN
+
+
+
+
+Solidification
+
+
+
+
+
+
+Electrifying RXN
+
+
+
+
+Electrification
+
+
+
+
+
+
+Corroding RXN
+
+
+
+
+Corrosion
+
+
+
+
+Simulation
+
+
+Notice
+This page contains content that is 
+outdated
+ and may no longer reflect the current state of the game.
+
+
+Simulation
+ serves as tutorials for players to understand and master various AIC facilities and mechanics.
+
+There are 25 simulations in 
+Valley IV
+, with another 10 in 
+Jinlong
+.
+
+Basic AIC:
+
+
+
+Electric Mining Rig
+
+
+Material Production
+
+
+Logistics Connections
+
+
+Shredding Unit
+
+
+Belt-free Transfer
+
+
+Meds Production
+
+
+Moulding Unit
+
+
+Fitting Unit
+
+
+Gearing Unit
+
+
+Filling Unit
+
+
+Packaging Unit
+
+
+Industrial Explosive
+
+
+Thermal Bank
+
+
+Splitter
+
+
+Bus
+
+
+Planting Unit and Seed-Picking Unit
+
+
+Belt Bridge
+
+
+Electric Mining Rig Mk II
+
+
+Converger
+
+
+Grinding Unit
+
+
+Bus and Belts
+
+
+Improved Cannery
+
+
+Buck Capsule (A)
+
+
+SC Battery
+
+
+Belt Integration
+
+
+Jinlong AIC:
+
+
+
+Pipes and Fluids
+
+
+Reactor Crucible
+
+
+Filling Unit (FM)
+
+
+Planting Unit and Pipe Splitter
+
+
+Hydro Mining Rig
+
+
+Sprinkler
+
+
+Water Treatment Unit
+
+
+Moulding Unit (FM)
+
+
+Pipe Logistics
+
+
+Reactor Expansion
+
+
+Permanent
+
+
+Main article: 
+Etchspace Salvage
+
+
+Main article: 
+Umbral Monument
+
+
+
+
+
+
+

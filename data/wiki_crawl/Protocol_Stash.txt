@@ -1,0 +1,314 @@
+URL: https://endfield.wiki.gg/wiki/Protocol_Stash
+
+Protocol Stash
+In Other Languages
+Simplified Chinese
+
+
+协议储存箱
+Traditional Chinese
+
+
+協議儲存箱
+Japanese
+
+
+協約貯蔵箱
+Korean
+
+
+프로토콜 저장함
+Spanish
+
+
+Reserva de protocolo
+Russian
+
+
+Протокольный запасник
+General Information
+Type
+
+Facilities
+Rarity
+
+1
+Power Use
+
+5
+
+
+Protocol Stash
+ is an 
+AIC
+ 
+Depot Access
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+It took Endfield engineers nearly a decade to achieve tele-protocol of small items within limited range.
+
+
+Usage
+
+
+A storage facility with several item storage slots. Once connected to the power grid and given enough power, it can teleport items to the Depot. Hence, the stash is often placed at the end of production lines.
+
+
+
+Power Use : 5
+
+
+Acquisition
+
+
+Requirement : 
+Basic AIC Plan - Basic AIC I - Field Stash
+
+
+
+
+
+
+Facility
+
+
+
+Cost
+
+
+
+Product
+
+
+
+Time
+
+
+
+
+
+Construct
+
+
+
+
+20
+
+
+
+
+1
+
+
+
+
+-
+
+
+
+Navigation
+
+
+View or edit this template
+Facilities
+Resourcing
+ 
+Portable Originium Rig
+ • 
+ 
+Electric Mining Rig
+ • 
+ 
+Electric Mining Rig Mk II
+ • 
+ 
+Fluid Pump
+Logistics Units
+ 
+Item Control Port
+ • 
+ 
+Splitter
+ • 
+ 
+Belt Bridge
+ • 
+ 
+Converger
+ • 
+ 
+Pipe Control Port
+ • 
+ 
+Pipe Splitter
+ • 
+ 
+Pipe Bridge
+ • 
+ 
+Pipe Converger
+Depot Access
+ 
+Protocol Stash
+ • 
+ 
+Depot Loader
+ • 
+ 
+Depot Unloader
+ • 
+ 
+Fluid Tank
+ • 
+ 
+Depot Bus Section
+ • 
+ 
+Depot Bus Port
+Production I
+ 
+Refining Unit
+ • 
+ 
+Shredding Unit
+ • 
+ 
+Fitting Unit
+ • 
+ 
+Moulding Unit
+ • 
+ 
+Planting Unit
+ • 
+ 
+Seed-Picking Unit
+Production II
+ 
+Gearing Unit
+ • 
+ 
+Filling Unit
+ • 
+ 
+Packaging Unit
+ • 
+ 
+Grinding Unit
+ • 
+ 
+Reactor Crucible
+ • 
+ 
+Forge of the Sky
+ • 
+ 
+Separating Unit
+Power
+ 
+Electric Pylon
+ • 
+ 
+Relay Tower
+ • 
+ 
+Xiranite Pylon
+ • 
+ 
+Xiranite Relay
+ • 
+ 
+Thermal Bank
+Miscellaneous
+ 
+Easy Stash
+ • 
+ 
+Memo Beacon
+ • 
+ 
+Zipline Pylon
+ • 
+ 
+Zipline Tower
+ • 
+ 
+Sprinkler
+ • 
+ 
+Fluid Supply Unit
+Combat & Support
+ 
+Gun Tower
+ • 
+ 
+Medical Tower
+ • 
+ 
+Grenade Tower
+ • 
+ 
+LN Tower
+ • 
+ 
+Heavy Gun Tower
+ • 
+ 
+Omnidirectional Sonic Tower
+ • 
+ 
+Beam Tower
+ • 
+ 
+Surge Tower
+ • 
+ 
+Sentry Tower
+ • 
+ 
+HE Grenade Tower
+ • 
+ 
+Marsh Gas Mk I
+Planting
+ 
+Buckflower Plot
+ • 
+ 
+Citrome Plot
+ • 
+ 
+Sandleaf Plot
+ • 
+ 
+Aketine Plot
+ • 
+ 
+Jincao Plot
+ • 
+ 
+Yazhen Plot
+ • 
+ 
+Reed Rye Plot
+ • 
+ 
+Tartpepper Plot
+ • 
+ 
+Redjade Ginseng Plot
+ • 
+ 
+Amber Rice Plot
+
+
+
+
+
+
+

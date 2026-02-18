@@ -1,0 +1,2771 @@
+URL: https://endfield.wiki.gg/wiki/Ardelia
+
+
+
+
+
+★★★★★★
+Ardelia
+
+
+
+
+Greetings, Endministrator. The name's Ardelia and I'm a geologist from Rhodes Island. My current focus is the correlations between geological disasters and the Ætherside. I've heard about you for quite a while, Endmin, and I have so many questions for you. Oh, there's something else... Can I address you as my Professor?
+
+
+
+
+
+
+Class
+
+
+
+ 
+Supporter
+
+
+
+
+
+
+Weapon
+
+
+
+ Arts Unit
+
+
+
+
+
+Element
+
+
+
+ 
+Nature
+
+
+
+
+
+
+Faction
+
+
+
+ 
+Rhodes Island
+
+
+
+
+
+
+Tags
+
+
+
+HP Treatment
+ 
+Corrode
+ 
+Susceptibility
+
+
+
+
+
+
+Main Attribute
+
+
+
+ Intellect
+
+
+
+
+
+Sub Attribute
+
+
+
+ Will
+
+
+
+
+
+How to obtain
+
+
+
+Standard Headhunting
+
+
+
+Operator
+File
+Dialogue
+Gallery
+
+
+Ardelia
+Internal name
+
+chr_0025_ardelia
+In Other Languages
+Simplified Chinese
+
+
+艾尔黛拉
+Traditional Chinese
+
+
+艾爾黛拉
+Japanese
+
+
+アルデリア
+Korean
+
+
+아델리아
+Spanish
+
+
+Ardelia
+Russian
+
+
+Арделия
+Character Voices
+Japanese
+
+Kanemoto Hisako
+Chinese
+
+Jiang Wen
+English
+
+Lindsay Sheppard
+Korean
+
+Kim Ha-ru
+Basic Info
+Gender
+
+Female
+Date of Birth
+
+October 18
+Race
+
+Caprinae
+Infection Status
+
+Oripathy negative, based on medical examination reports.
+Physical Exam
+Physical Strength
+
+Normal
+Tactical Acumen
+
+Normal
+Combat Skill
+
+Standard
+Originium Arts Assimilation
+
+Outstanding
+Expertise & Hobbies
+Expertise 1: Natural Lore
+
+
+Natural Lore: Geological Surveyor
+
+
+Drop a plumb bob that points straight to the heart of this land.
+Expertise 2: Adventure
+
+
+Adventure: Mountain Hiker
+
+
+Though aching and dazed, she labors hard to register the summit of the rocky outcrop.
+Hobbies 1: Lifestyle
+
+
+Lifestyle: Pastry Chef
+
+
+She's mixing some butter and chocolate to make an extra-large lava cake. "Patience, people! Everyone's getting a slice."
+Hobbies 2: Nature
+
+
+Nature: Ecological Affinity
+
+
+The splattering of rain upon the land is the language by which the world renews itself. Everything gets a new look when tomorrow dawns.
+Gift Preference
+
+
+ Valley Industry's Choice
+Recommended Weapons
+Matching Skills 
+🛈
+
+
+ 
+Dreams of the Starry Beach
+ 
+Chivalric Virtues
+ 
+Opus: Etch Figure
+Matching Stats 
+🛈
+
+
+ 
+Stanza of Memorials
+ 
+OBJ Arts Identifier
+
+
+Contents
+
+
+
+
+1
+ 
+Profile
+
+
+2
+ 
+Stats
+
+
+
+
+2.1
+ 
+Attributes
+
+
+2.2
+ 
+Promotion
+
+
+2.3
+ 
+Potential
+
+
+
+
+
+
+3
+ 
+Combat Skills
+
+
+
+
+3.1
+ 
+Skill upgrades
+
+
+
+
+
+
+4
+ 
+Talents
+
+
+
+
+4.1
+ 
+Talent upgrades
+
+
+
+
+
+
+5
+ 
+Base Skills
+
+
+
+
+5.1
+ 
+Base Skill upgrades
+
+
+
+
+
+
+6
+ 
+Changelog
+
+
+7
+ 
+Navigation
+
+
+
+
+
+
+Profile
+
+
+"This world has so many mysteries to uncover. We should get to know it better just like... like how we should learn more about ourselves. Don't you agree, Professor?"
+Ardelia is a 
+Rhodes Island
+ operator assigned to 
+Endfield Industries
+ where she serves as an expert geologist under the framework agreement between the two companies.
+Ardelia's early work centered on volcanoes, but today her research extends into 
+Ætherside
+ and geological disasters. She spends most of her time in the field, venturing alone into disaster sites to collect samples, analyze structures, and develop theories that have become the cornerstone of Endfield's 
+Blight
+ countermeasures.
+Always humble and polite, she carries an inner strength that never seems to run dry. To her, happiness is simple: climbing another mountain, walking another path, hearing the voices of the world, and uncovering the hidden wonders of this planet.
+And if you can become good friends with Ardelia, then Mr. Dolly is sure to like you too.
+"Mr. Dolly? Don't run off! Come say hi to the Professor."
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ HP
+
+
+500
+
+
+1566
+
+
+2689
+
+
+3811
+
+
+4934
+
+
+5495
+
+
+
+
+
+
+ ATK
+
+
+30
+
+
+93
+
+
+159
+
+
+225
+
+
+291
+
+
+323
+
+
+
+
+
+
+ STR
+
+
+
+9
+
+
+
+
+31
+
+
+
+
+54
+
+
+
+
+77
+
+
+
+
+100
+
+
+
+
+112
+
+
+
+
+
+
+
+
+ AGL
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+27
+
+
+
+
+
+
+
+
+46
+
+
+
+
+
+
+
+
+65
+
+
+
+
+
+
+
+
+84
+
+
+
+
+
+
+
+
+93
+
+
+
+
+
+
+
+
+
+
+ INT
+
+
+
+
+
+20
+
+
+
+
+
+
+
+
+46
+
+
+
+
+
+
+
+
+75
+
+
+
+
+
+
+
+
+103
+
+
+
+
+
+
+
+
+131
+
+
+
+
+
+
+
+
+145
+
+
+
+
+
+
+
+
+
+
+ WIL
+
+
+
+
+
+15
+
+
+
+
+
+
+
+
+37
+
+
+
+
+
+
+
+
+60
+
+
+
+
+
+
+
+
+83
+
+
+
+
+
+
+
+
+106
+
+
+
+
+
+
+
+
+118
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Critical Rate
+
+
+0.05
+
+
+
+
+
+
+ Attack Speed
+
+
+1
+
+
+
+
+
+
+ Attack Range
+
+
+10 Meters
+
+
+
+
+
+
+Promotion
+
+
+
+
+
+
+Elite 1
+
+
+Raise Ardelia to level 20:
+8
+3
+1.6K
+
+
+
+
+
+
+Elite 2
+
+
+Raise Ardelia to level 40:
+25
+5
+6.5K
+
+
+
+
+
+
+Elite 3
+
+
+Raise Ardelia to level 60:
+24
+5
+18K
+
+
+
+
+
+
+Elite 4
+
+
+Raise Ardelia to level 80:
+36
+20
+8
+100K
+
+
+
+
+
+
+Potential
+
+
+Dolly Paradise
+Battle skill 
+Dolly Rush
+ improved: 
+Consuming
+ 
+Corrosion
+ now applies 
+Physical Susceptibility
+ and 
+Arts Susceptibility
+ with effects 
++8%
+.
+Game Rewards
+Talent 
+Friendly Presence
+ improved: When the controlled operator touches the 
+Shadow of Mr. Dolly
+, Ardelia also treats another allied operator with the lowest percentage HP with half of the treatment effects.
+Explosive Eruption
+Ultimate 
+Wooly Party
+ improved: Duration 
++1
+s; chance to create 
+Shadow of Mr. Dolly
+ is increased to 
+1.2
+ times the original.
+Rock Blossom
+Ultimate 
+Wooly Party
+ improved: Ultimate Energy cost 
+-15%
+.
+Volcanic Steam
+Combo skill 
+Eruption Column
+ improved: Length of cooldown 
+-2
+s; DMG multiplier is increased to 
+1.2
+ times the original; duration of 
+Corrosion
+ applied 
++4
+s.
+Total Cost
+5
+
+
+
+
+
+
+
+
+Combat Skills
+
+
+
+
+
+
+
+
+Rocky Whispers
+
+
+Basic Attack
+
+
+
+
+
+
+
+
+BASIC ATTACK:
+ 
+An attack with up to 4 sequences that deals 
+Nature DMG
+. As the controlled operator, 
+Final Strike
+ also deals 
+18
+ Stagger. 
+
+DIVE ATTACK:
+ 
+Basic attack performed in mid-air becomes a dive attack that deals 
+Nature DMG
+ to nearby enemies. 
+
+FINISHER:
+ 
+Basic attack performed near a Staggered enemy becomes a finisher that deals massive 
+Nature DMG
+ and recovers some SP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BATK SEQ 1 Multiplier
+
+
+ 30%
+
+
+ 33%
+
+
+ 36%
+
+
+ 39%
+
+
+ 42%
+
+
+ 45%
+
+
+ 48%
+
+
+ 51%
+
+
+ 54%
+
+
+ 58%
+
+
+ 62%
+
+
+ 68%
+
+
+
+
+
+
+BATK SEQ 2 Multiplier
+
+
+ 40%
+
+
+ 44%
+
+
+ 48%
+
+
+ 52%
+
+
+ 56%
+
+
+ 60%
+
+
+ 64%
+
+
+ 68%
+
+
+ 72%
+
+
+ 77%
+
+
+ 83%
+
+
+ 90%
+
+
+
+
+
+
+BATK SEQ 3 Multiplier
+
+
+ 53%
+
+
+ 58%
+
+
+ 63%
+
+
+ 68%
+
+
+ 74%
+
+
+ 79%
+
+
+ 84%
+
+
+ 89%
+
+
+ 95%
+
+
+ 101%
+
+
+ 109%
+
+
+ 118%
+
+
+
+
+
+
+BATK SEQ 4 Multiplier
+
+
+ 55%
+
+
+ 61%
+
+
+ 66%
+
+
+ 72%
+
+
+ 77%
+
+
+ 83%
+
+
+ 88%
+
+
+ 94%
+
+
+ 99%
+
+
+ 106%
+
+
+ 114%
+
+
+ 124%
+
+
+
+
+
+
+Finisher ATK Multiplier
+
+
+ 400%
+
+
+ 440%
+
+
+ 480%
+
+
+ 520%
+
+
+ 560%
+
+
+ 600%
+
+
+ 640%
+
+
+ 680%
+
+
+ 720%
+
+
+ 770%
+
+
+ 830%
+
+
+ 900%
+
+
+
+
+
+
+Dive ATK Multiplier
+
+
+ 80%
+
+
+ 88%
+
+
+ 96%
+
+
+ 104%
+
+
+ 112%
+
+
+ 120%
+
+
+ 128%
+
+
+ 136%
+
+
+ 144%
+
+
+ 154%
+
+
+ 166%
+
+
+ 180%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dolly Rush
+
+
+Battle Skill
+
+
+
+
+
+
+
+
+SKILL DESCRIPTION:
+ Hops on Mr. Dolly and rams the target to deal 
+Nature DMG
+. If the target has 
+Corrosion
+, then 
+consume
+ the 
+Corrosion
+ and apply 
+Physical Susceptibility
+ and 
+Arts Susceptibility
+ to the target.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SP Cost
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+
+
+
+
+DMG Multiplier
+
+
+ 142%
+
+
+ 156%
+
+
+ 171%
+
+
+ 185%
+
+
+ 199%
+
+
+ 213%
+
+
+ 228%
+
+
+ 242%
+
+
+ 256%
+
+
+ 274%
+
+
+ 295%
+
+
+ 320%
+
+
+
+
+
+
+Stagger
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+
+
+
+
+Susceptibility
+
+
+ 12%
+
+
+ 12%
+
+
+ 12%
+
+
+ 13%
+
+
+ 13%
+
+
+ 13%
+
+
+ 14%
+
+
+ 14%
+
+
+ 16%
+
+
+ 17%
+
+
+ 18%
+
+
+ 20%
+
+
+
+
+
+
+Susceptibility Duration (s)
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eruption Column
+
+
+Combo Skill
+
+
+
+
+
+
+
+
+COMBO TRIGGER:
+ When the controlled operator performs a 
+Final Strike
+ on an enemy with 
+no
+ stacks of 
+Vulnerability
+ or 
+Arts Infliction
+. 
+SKILL DESCRIPTION:
+ Launches a homing Volcanic Cloud at a target enemy that deals 
+Nature DMG
+ when close enough to the target. The Volcanic Cloud explodes after a short delay, dealing half of the 
+Nature DMG
+ and forcibly applying temporary 
+Corrosion
+ to nearby enemies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cooldown
+
+
+ 18
+
+
+ 18
+
+
+ 18
+
+
+ 18
+
+
+ 18
+
+
+ 18
+
+
+ 18
+
+
+ 18
+
+
+ 18
+
+
+ 18
+
+
+ 18
+
+
+ 17
+
+
+
+
+
+
+DMG Multiplier
+
+
+ 45%
+
+
+ 49%
+
+
+ 54%
+
+
+ 58%
+
+
+ 62%
+
+
+ 67%
+
+
+ 71%
+
+
+ 76%
+
+
+ 80%
+
+
+ 86%
+
+
+ 93%
+
+
+ 100%
+
+
+
+
+
+
+Explosion DMG Multiplier
+
+
+ 111%
+
+
+ 122%
+
+
+ 133%
+
+
+ 144%
+
+
+ 155%
+
+
+ 167%
+
+
+ 178%
+
+
+ 189%
+
+
+ 200%
+
+
+ 214%
+
+
+ 230%
+
+
+ 250%
+
+
+
+
+
+
+Stagger
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+
+
+
+
+Corrode Duration (s)
+
+
+ 7
+
+
+ 7
+
+
+ 7
+
+
+ 7
+
+
+ 7
+
+
+ 7
+
+
+ 7
+
+
+ 7
+
+
+ 7
+
+
+ 7
+
+
+ 7
+
+
+ 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wooly Party
+
+
+Ultimate
+
+
+
+
+
+
+
+
+SKILL DESCRIPTION:
+ Ardelia enters a mobile channeling state and summons the aid of Mr. Dolly. Multiple copies of Mr. Dolly are thrown in random directions. Each copy deals 
+Nature DMG
+. Each enemy can only take 1 damaging hit every 0.3s.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate Energy Cost
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+
+
+
+
+DMG Multiplier
+
+
+ 73%
+
+
+ 81%
+
+
+ 88%
+
+
+ 95%
+
+
+ 103%
+
+
+ 110%
+
+
+ 117%
+
+
+ 125%
+
+
+ 132%
+
+
+ 141%
+
+
+ 152%
+
+
+ 165%
+
+
+
+
+
+
+Stagger
+
+
+ 2
+
+
+ 2
+
+
+ 2
+
+
+ 2
+
+
+ 2
+
+
+ 2
+
+
+ 2
+
+
+ 2
+
+
+ 2
+
+
+ 3
+
+
+ 3
+
+
+ 3
+
+
+
+
+
+
+Duration (s)
+
+
+ 3
+
+
+ 3
+
+
+ 3
+
+
+ 3
+
+
+ 3
+
+
+ 3
+
+
+ 3
+
+
+ 3
+
+
+ 3
+
+
+ 3
+
+
+ 3
+
+
+ 3
+
+
+
+
+
+
+
+
+
+
+Skill upgrades
+
+
+6
+1
+1K
+
+
+12
+2
+2.7K
+
+
+16
+1
+3.2K
+
+
+21
+1
+4.2K
+
+
+27
+2
+5.4K
+
+
+6
+1
+8.2K
+
+
+8
+1
+10.5K
+
+
+15
+2
+18K
+
+
+Rocky Whispers
+1
+15
+6
+3
+24K
+Dolly Rush
+1
+15
+6
+3
+24K
+Eruption Column
+1
+15
+6
+3
+24K
+Wooly Party
+1
+15
+6
+3
+24K
+
+
+Rocky Whispers
+2
+24
+16
+6
+30K
+Dolly Rush
+2
+24
+16
+6
+30K
+Eruption Column
+2
+24
+16
+6
+30K
+Wooly Party
+2
+24
+16
+6
+30K
+
+
+Rocky Whispers
+3
+50
+36
+12
+65K
+Dolly Rush
+3
+50
+36
+12
+65K
+Eruption Column
+3
+50
+36
+12
+65K
+Wooly Party
+3
+50
+36
+12
+65K
+
+
+
+
+Talents
+
+
+
+
+
+
+ Keen Mind
+
+
+
+
+
+
+
+
+
+
+Operator Intellect +10.
+
+
+
+
+
+
+
+
+
+Operator Intellect +15.
+
+
+
+
+
+
+
+
+
+Operator Intellect +15.
+
+
+
+
+
+
+
+
+
+Operator Intellect +20.
+
+
+
+
+
+
+
+
+
+ Friendly Presence
+
+
+
+
+
+
+
+
+
+
+The battle skill 
+Dolly Rush
+ creates 3 
+Shadows of Mr. Dolly
+ after hitting the enemy. The copies of Mr. Dolly scattered by the ultimate 
+Wooly Party
+ also have a 10% chance to create 
+Shadows of Mr. Dolly
+ when they fall to the ground. When the controlled operator touches a 
+Shadow of Mr. Dolly
+, Ardelia restores the said operator's HP by 
+[45 + Will×0.38]
+.
+
+If the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.
+
+
+Shadows of Mr. Dolly last for 10s and up to 10 can exist in the battlefield.
+
+
+
+
+
+
+
+
+
+
+
+
+The battle skill 
+Dolly Rush
+ creates 3 
+Shadows of Mr. Dolly
+ after hitting the enemy. The copies of Mr. Dolly scattered by the ultimate 
+Wooly Party
+ also have a 10% chance to create 
+Shadows of Mr. Dolly
+ when they fall to the ground. When the controlled operator touches a 
+Shadow of Mr. Dolly
+, Ardelia restores the said operator's HP by 
+[63 + Will×0.53]
+.
+
+If the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.
+
+
+Shadows of Mr. Dolly last for 10s and up to 10 can exist in the battlefield.
+
+
+
+
+
+
+
+
+
+
+
+
+The battle skill 
+Dolly Rush
+ creates 3 
+Shadows of Mr. Dolly
+ after hitting the enemy. The copies of Mr. Dolly scattered by the ultimate 
+Wooly Party
+ also have a 10% chance to create 
+Shadows of Mr. Dolly
+ when they fall to the ground. When the controlled operator touches a 
+Shadow of Mr. Dolly
+, Ardelia restores the said operator's HP by 
+[90 + Will×0.75]
+.
+
+If the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.
+
+
+Shadows of Mr. Dolly last for 10s and up to 10 can exist in the battlefield.
+
+
+
+
+
+
+
+
+
+
+
+
+ Mountainpeak Surfer
+
+
+
+
+
+
+
+
+
+
+Battle skill 
+Dolly Rush
+ improved: Triggering the additional effect while an enemy with 
+Corrosion
+ is nearby immediately casts the battle skill again.
+
+This effect only triggers once per active battle skill casting.
+
+
+
+
+
+
+
+
+
+
+
+
+ Outfitting
+
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip blue quality gear
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip purple quality gear
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip gold quality gear
+
+
+
+
+
+
+
+Talent upgrades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+1K
+
+
+
+
+
+
+10
+1.8K
+
+
+
+
+
+
+10
+6K
+
+
+
+
+
+
+20
+12K
+
+
+
+
+
+
+
+
+
+
+
+
+36
+7.2K
+
+
+
+
+
+
+85
+26K
+
+
+
+
+
+–
+
+
+
+–
+
+
+
+
+
+
+
+
+
+–
+
+
+
+
+85
+26K
+
+
+
+
+
+–
+
+
+
+–
+
+
+
+
+
+
+
+
+
+
+1.6K
+
+
+
+
+
+
+6.5K
+
+
+
+
+
+
+18K
+
+
+
+
+
+–
+
+
+
+
+
+
+Base Skills
+
+
+
+
+
+
+ Tales of the Land
+
+
+
+
+
+
+
+
+
+
+Assign to Reception Room to grant operator clue collecting efficiency +20%
+
+
+
+
+
+
+
+
+
+Assign to Reception Room to grant operator clue collecting efficiency +30%
+
+
+
+
+
+
+
+
+
+ Mr. Dolly's Game
+
+
+
+
+
+
+
+
+
+
+Assign to Reception Room to slow Mood Drop of all operators in it by 14%
+
+
+
+
+
+
+
+
+
+Assign to Reception Room to slow Mood Drop of all operators in it by 18%
+
+
+
+
+
+
+
+Base Skill upgrades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+1.6K
+
+
+
+
+
+–
+
+
+
+
+12
+8K
+
+
+
+
+
+–
+
+
+
+
+
+
+
+
+
+–
+
+
+
+
+12
+3K
+
+
+
+
+
+–
+
+
+
+
+20
+20K
+
+
+
+
+
+
+Changelog
+
+
+
+
+Zeroth Directive
+
+
+Potential Dolly Paradise
+
+Additional 
+Physical Susceptibility
+ and 
+Arts Susceptibility
+ reduced from +10% to +8%.
+
+
+Battle Skill Dolly Rush
+
+Susceptibility reduced from 15% - 25% to 12% - 20%.
+
+
+Base Skill Factory Pioneer changed to Tales of the Land
+
+Old: Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +10% / +20%.
+
+
+New: Assign to Reception Room to grant operator clue collecting efficiency +20% / +30%.
+
+
+Base Skill Inspire changed to Mr. Dolly's Game
+
+Old: Assign to Control Nexus to grant all operators' Mood Regen +8% / +12%.
+
+
+New: Assign to Reception Room to slow Mood Drop of all operators in it by 14% / 18%.
+
+
+Beta Test II
+ introduced.
+
+
+Navigation
+
+
+View or edit this template
+Operators
+ Guard
+
+
+Endministrator
+
+
+Lifeng
+
+
+Chen Qianyu
+
+
+Estella
+
+
+ Defender
+
+
+Ember
+
+
+Snowshine
+
+
+Catcher
+
+
+ Supporter
+
+
+Ardelia
+
+
+Gilberta
+
+
+Xaihi
+
+
+Antal
+
+
+ Caster
+
+
+Perlica
+
+
+Wulfgard
+
+
+Fluorite
+
+
+ Striker
+
+
+Laevatain
+
+
+Last Rite
+
+
+Yvonne
+
+
+Avywenna
+
+
+Da Pan
+
+
+ Vanguard
+
+
+Pogranichnik
+
+
+Alesh
+
+
+Arclight
+
+
+Akekuri
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,602 @@
+URL: https://endfield.wiki.gg/wiki/Waterlamp
+
+Waterlamp
+Internal name
+
+eny_0094_hsfly
+In Other Languages
+Simplified Chinese
+
+
+水灯虫
+Traditional Chinese
+
+
+水燈蟲
+Japanese
+
+
+水灯虫
+Korean
+
+
+수등충
+Spanish
+
+
+Lámpara de agua
+Russian
+
+
+Плавучий фонарь
+General Information
+Type
+
+
+Common
+Race
+
+
+Wildlife
+Attack pattern
+
+None
+Location
+
+Ground
+
+
+The 
+Waterlamp
+ is a 
+Common enemy
+ in 
+Arknights: Endfield
+.
+
+
+
+Enemy description
+A wild arthropod that lives in aquatic environments. The waterlamp gives off a faint glow and its body fluids contain irritants that may induce allergic reactions and even burns. Be careful when tackling this creature.
+
+
+Contents
+
+
+
+
+1
+ 
+Overview
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Resistances
+
+
+1.3
+ 
+Distribution
+
+
+
+
+
+
+2
+ 
+Changelog
+
+
+3
+ 
+Navigation
+
+
+
+
+
+
+Overview
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+ HP
+
+
+111
+
+
+795
+
+
+5029
+
+
+19800
+
+
+47629
+
+
+73373
+
+
+
+
+
+
+ ATK
+
+
+26
+
+
+124
+
+
+386
+
+
+958
+
+
+1442
+
+
+1652
+
+
+
+
+
+
+ DEF
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+
+
+
+
+
+
+
+
+ Stagger HP
+
+
+ Stagger Recovery
+
+
+ Finisher ATK Mult
+
+
+ Finisher SP Gain
+
+
+
+
+
+
+80
+
+
+6 Seconds
+
+
+1x
+
+
+25
+
+
+
+
+
+
+
+
+
+
+ Attack Range
+
+
+ Weight
+
+
+
+
+
+
+6 Meters
+
+
+1
+
+
+
+
+
+
+
+
+
+
+Abilities
+
+
+
+
+
+
+
+
+An enemy that spews acids stored in its head. Operators hit by this attack will suffer reduced DEF. Though not very threatening, care should be taken in any case.
+
+
+
+
+
+
+
+
+Resistances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1x
+
+
+1x
+
+
+0.8x
+
+
+1x
+
+
+0.8x
+
+
+1x
+
+
+
+
+
+
+Distribution
+
+
+
+
+
+
+Location(s)
+
+
+
+
+
+
+
+
+Jingyu Valley
+
+
+Wuling City
+
+
+
+
+
+
+
+
+
+
+
+
+Drops
+
+
+
+
+
+
+
+
+
+
+
+
+Changelog
+
+
+
+
+01/29 - Optimization & Quick Update Notice
+
+
+Reduced HP to 111, 795, 5029, 19800, 47629, 73373 from 111, 935, 5917, 19800, 47629, 73373
+
+
+
+
+Navigation
+
+
+View or edit this template
+Enemies
+Aggeloi
+
+
+Marble Aggelomoirai (palecore)
+
+
+Marble Aggelomoirai (palesent)
+
+
+Marble Appendage
+
+
+Triaggelos
+
+
+Tidalklast
+
+
+Walking Chrysopolis
+
+
+Effigy
+
+
+Sentinel
+
+
+Tidewalker
+
+
+Tidewalker δ
+
+
+Heavy Ram
+
+
+Heavy Ram α
+
+
+Heavy Sting
+
+
+Heavy Sting α
+
+
+Poison Ivy
+
+
+Falsewings
+
+
+Falsewings α
+
+
+Hedron
+
+
+Hedron δ
+
+
+Mudflow
+
+
+Mudflow δ
+
+
+Prism
+
+
+Ram
+
+
+Ram α
+
+
+Sting
+
+
+Sting α
+
+
+Landbreakers
+
+
+Rhodagn the Bonekrushing Fist
+
+
+Bonekrusher Ballista
+
+
+Bonekrusher Executioner
+
+
+Bonekrusher Siegeknuckles
+
+
+Elite Executioner
+
+
+Bonekrusher Arsonist
+
+
+Bonekrusher Pyromancer
+
+
+Bonekrusher Ambusher
+
+
+Bonekrusher Infiltrator
+
+
+Bonekrusher Raider
+
+
+Bonekrusher Ripptusk
+
+
+Bonekrusher Vanguard
+
+
+Elite Ambusher
+
+
+Elite Raider
+
+
+Elite Ripptusk
+
+
+Hazefyre Claw
+
+
+Hazefyre Tuskbeast
+
+
+Cangzei Pirates
+
+
+Grove Archer
+
+
+Road Plunderer
+
+
+Wildlife
+
+
+Axe Armorbeast
+
+
+Glaring Rakerbeast
+
+
+Hazefyre Axe Armorbeast
+
+
+Spotted Rakerbeast
+
+
+Imbued Quillbeast
+
+
+Quillbeast
+
+
+Tunneling Nidwyrm
+
+
+Acid Originium Slug
+
+
+Acid Originium Slug α
+
+
+Blazemist Originium Slug
+
+
+Brutal Pincerbeast
+
+
+Firemist Originium Slug
+
+
+Indigenous Pincerbeast
+
+
+Waterlamp
+
+
+
+
+
+
+
+
+

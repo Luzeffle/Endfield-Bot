@@ -1,0 +1,830 @@
+URL: https://endfield.wiki.gg/wiki/Seeker_of_Dark_Lung
+
+Seeker of Dark Lung
+Icon
+Full
+Max
+File:Seeker of Dark Lung max model.png
+Internal name
+
+wpn_claym_0011
+In Other Languages
+Simplified Chinese
+
+
+探骊
+Traditional Chinese
+
+
+探驪
+Japanese
+
+
+探龍
+Korean
+
+
+검은 추적자
+Spanish
+
+
+Buscadora del Lung oscuro
+Russian
+
+
+Искатель темного луна
+Information
+Type
+
+Great Sword
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+Seeker of Dark Lung
+ is a 5★ 
+Great Sword
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+A standard greatsword developed by Hongshan Swordmancers. The weapon is furnished with a new specialized coating that offers excellent protection, even if the weapon were to be used in extreme and hostile environments.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+42
+
+
+120
+
+
+203
+
+
+286
+
+
+369
+
+
+411
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Detonate: Seeker of the Esoteric
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Seeker of Dark Lung to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Seeker of Dark Lung to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Seeker of Dark Lung to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Seeker of Dark Lung to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Strength Boost [M]
+
+
+
+Ultimate Gain Efficiency Boost [M]
+
+
+
+Detonate: Seeker of the Esoteric
+
+
+
+
+
+
+
+
+
+Strength 
++16
+
+
+
+
+Ultimate Gain Efficiency 
++4.76%
+
+
+
+
+Main Attribute 
++5%
+. When the wielder applies an 
+Arts Burst
+, the wielder gains ATK 
++6%
+ for 30.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++28
+
+
+
+
+Ultimate Gain Efficiency 
++8.57%
+
+
+
+
+Main Attribute 
++6%
+. When the wielder applies an 
+Arts Burst
+, the wielder gains ATK 
++7.2%
+ for 30.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++41
+
+
+
+
+Ultimate Gain Efficiency 
++12.38%
+
+
+
+
+Main Attribute 
++7%
+. When the wielder applies an 
+Arts Burst
+, the wielder gains ATK 
++8.4%
+ for 30.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++54
+
+
+
+
+Ultimate Gain Efficiency 
++16.19%
+
+
+
+
+Main Attribute 
++8%
+. When the wielder applies an 
+Arts Burst
+, the wielder gains ATK 
++9.6%
+ for 30.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++67
+
+
+
+
+Ultimate Gain Efficiency 
++20%
+
+
+
+
+Main Attribute 
++9%
+. When the wielder applies an 
+Arts Burst
+, the wielder gains ATK 
++10.8%
+ for 30.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++80
+
+
+
+
+Ultimate Gain Efficiency 
++23.81%
+
+
+
+
+Main Attribute 
++10%
+. When the wielder applies an 
+Arts Burst
+, the wielder gains ATK 
++12%
+ for 30.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++92
+
+
+
+
+Ultimate Gain Efficiency 
++27.62%
+
+
+
+
+Main Attribute 
++11%
+. When the wielder applies an 
+Arts Burst
+, the wielder gains ATK 
++13.2%
+ for 30.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++105
+
+
+
+
+Ultimate Gain Efficiency 
++31.43%
+
+
+
+
+Main Attribute 
++12%
+. When the wielder applies an 
+Arts Burst
+, the wielder gains ATK 
++14.4%
+ for 30.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++124
+
+
+
+
+Ultimate Gain Efficiency 
++37.14%
+
+
+
+
+Main Attribute 
++14%
+. When the wielder applies an 
+Arts Burst
+, the wielder gains ATK 
++16.8%
+ for 30.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+Basic Info
+
+
+"Still couldn't match the test data?"
+The research assistant's head was bowed as he felt his mentor's judgmental gaze fall heavily upon him.
+The gaze was quickly followed by an even heavier sigh.
+"Hooo. Ziyuan, help me with my memories. Was it three years ago when I made you the RA to the Xiranite Power Conversion project?"
+The RA nodded and gave more details in a low voice.
+"Yes. Three years, four months, and eight days."
+"Then what about your senior in the lab next door? And then there's Mingshu who's also working on Xiranite. Heard anything about their research progress?"
+"Yeah... I did."
+"I'm afraid I got nothing much left to say. Perhaps you can ... consider your next steps. I'm still your mentor, so I'll gladly reserve a recommendation for a project transfer."
+The hour was already late when the RA left the research building. The last classes had ended and he could see groups of young apprentices along the streets.
+The RA took the usual way to Fangxing Avenue. He turned at the second corner and took around seven to eight steps before arriving at the tiny noodle stall.
+"Braised meat noodles. No scallions."
+The RA took his usual place and ordered his usual noodles. And as usual, the stall owner served the bowl of noodles without a word.
+The RA took a bite and frowned. The noodle was too tough, and the meat too greasy. 
+"The flavors changed... What happened? Did you hire another chef?"
+The stall owner glanced and smiled. He responded, a rare occasion at that.
+"Boy, everything in this stall, from the noodles to the toppings, are made by me. And I made that bowl from yesterday as well. Perhaps it wasn't my noodles. It was you who changed... And if you're no longer interested in the noodles, why bother coming at all?"
+The RA remained silent and then shook his head.
+"You don't understand, sir... I spent three years on one thing... I kept at it for three whole years. They may have drew the curtains on it, but I'm not going to miss any step of the process... Plus, the noodles from yesterday were better."
+"Hah. You're real stubborn, kid, you know that? You just couldn't give it up, so you tried finding issues with the noodles."
+The RA gave a bitter smile and chose not to continue the argument.
+"Maybe I couldn't give it up, but what could I do...?"
+"The other RAs made significant progress in just a few months. They ventured in the dragon's lair and found its pearl... As for me... I'm still stuck at the same place after slogging at a single project for three years...
+"I better switch to another project before this gets any worse."
+The RA did not care if the stall owner understood how research works. He unloaded his pent-up bitterness and complaints that he dared not mention to his mentor or fellow RAs. 
+The stall owner stopped smiling and looked at him with a serious expression on his face.
+"So you want to quit because you couldn't find the pearl."
+"I..." the RA was speechless and could not respond to the question.
+"You look like material scientist... Do you remember how many sets of experimental data you've gathered in these three years? How many alternatives you tried? And the number of references you compiled?"
+"I think I did ... 353 runs, 172 material alternatives, 561 papers — Wait. No. 562, including the latest," he remembered the figures with some difficulty, but listing them suddenly gave him a sense of relief.
+"Impressive. That's a lot of data right there. I'd say you've created quite the treasure."
+"The results might be important, but the lessons learned along the way are just as vital as well..."
+The RA was a little taken aback by these words, and exclaimed these words rather thoughtfully:
+"I've been a Tianshi disciple for nearly eight years, but it was your simple words that helped me realize something so simple... Thank you very much, sir."
+The stall owner shook his hands and looked as though he recalled something from the past. His gaze looked into the great distance.
+"That's enough flattery, lad. Nobody likes that here... I just feel bad when I see a fine youth such as yourself think it's the end of the world, especially when it's obvious that there are many wonderful years ahead of you...
+"My disciples are different. They actually did run into a solid wall. But still they persisted on charging through and carving out their own path..."
+A smile suddenly creased across the stall owner's face, but it quickly disappeared like the hot steaming fumes given off by freshly-served noodles.
+"But luck wasn't on their side... Ten years ago, those cheeky brats had the galls to tell me: 'We'll submit the graduation theses once we seal that rift, sir.' None of those blighted little punks ever came back..." 
+"Ten years ago...? What are you talking about...? Wait, you can't be that...?"
+"I'll ending the story now... Just some sad, stupid tale from a stupid time.
+"Hey, kid! Stop gawking at me and finish your noodles, damn your eyes!
+"If the noodles drink in all the soup and goes soggy, you'll know!"
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

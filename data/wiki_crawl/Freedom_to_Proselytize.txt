@@ -1,0 +1,803 @@
+URL: https://endfield.wiki.gg/wiki/Freedom_to_Proselytize
+
+Freedom to Proselytize
+Icon
+Full
+Max
+File:Freedom to Proselytize.png
+File:Freedom to Proselytize max model.png
+Internal name
+
+wpn_funnel_0012
+In Other Languages
+Simplified Chinese
+
+
+布道自由
+Traditional Chinese
+
+
+佈道自由
+Japanese
+
+
+布教の自由
+Korean
+
+
+선교의 자유
+Spanish
+
+
+Libertad para proselitizar
+Russian
+
+
+Свободное служение
+Information
+Type
+
+Arts Unit
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+Freedom to Proselytize
+ is a 5★ 
+Arts Unit
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+An Arts Unit designed by Mieszko Industries for Cabal of Tranquility. Every step from product design, verification, manufacturing, to tuning has been carried out under the guidance of a Cabal cleric.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+42
+
+
+120
+
+
+203
+
+
+286
+
+
+369
+
+
+411
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Medicant: Redemption of Faith
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Freedom to Proselytize to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Freedom to Proselytize to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Freedom to Proselytize to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Freedom to Proselytize to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Will Boost [M]
+
+
+
+Treatment Efficiency Boost [M]
+
+
+
+Medicant: Redemption of Faith
+
+
+
+
+
+
+
+
+
+Will 
++16
+
+
+
+
+Treatment Efficiency 
++4.76%
+.
+
+
+
+Main Attribute 
++5%
+. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another 
+[60 + Will×0.5]
+ HP. Effect only triggers once 
+every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Will 
++28
+
+
+
+
+Treatment Efficiency 
++8.57%
+.
+
+
+
+Main Attribute 
++6%
+. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another 
+[72 + Will×0.6]
+ HP. Effect only triggers once 
+every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Will 
++41
+
+
+
+
+Treatment Efficiency 
++12.38%
+.
+
+
+
+Main Attribute 
++7%
+. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another 
+[84 + Will×0.7]
+ HP. Effect only triggers once 
+every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Will 
++54
+
+
+
+
+Treatment Efficiency 
++16.19%
+.
+
+
+
+Main Attribute 
++8%
+. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another 
+[96 + Will×0.8]
+ HP. Effect only triggers once 
+every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Will 
++67
+
+
+
+
+Treatment Efficiency 
++20%
+.
+
+
+
+Main Attribute 
++9%
+. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another 
+[108 + Will×0.9]
+ HP. Effect only triggers once 
+every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Will 
++80
+
+
+
+
+Treatment Efficiency 
++23.81%
+.
+
+
+
+Main Attribute 
++10%
+. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another 
+[120 + Will×1]
+ HP. Effect only triggers once 
+every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Will 
++92
+
+
+
+
+Treatment Efficiency 
++27.62%
+.
+
+
+
+Main Attribute 
++11%
+. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another 
+[132 + Will×1.1]
+ HP. Effect only triggers once 
+every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Will 
++105
+
+
+
+
+Treatment Efficiency 
++31.43%
+.
+
+
+
+Main Attribute 
++12%
+. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another 
+[144 + Will×1.2]
+ HP. Effect only triggers once 
+every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Will 
++124
+
+
+
+
+Treatment Efficiency 
++37.14%
+.
+
+
+
+Main Attribute 
++14%
+. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another 
+[168 + Will×1.4]
+ HP. Effect only triggers once 
+every 15.00s.
+
+
+
+
+Basic Info
+
+
+The cleric named "Sessionite" thus entered the wildlands.
+And he arrived at an abandoned village. The creek had long dried up and the soil was cracked.
+And the Fortes, suffering hunger and thirst, asked him for salvation.
+"You need knowledge that will lead you to where the water flows and the thick grasses grow."
+"I shall teach you how to read these lands."
+And so his hand gleamed with the light of the Originium Network,
+And he imparted upon them knowledge that came from those from afar.
+After seven days and seven nights,
+The enlightened Fortes learned how to dig a water well in the barrens,
+And thus the water flowed and the grasses grew forever more.
+The cleric named "Resurgonite" thus entered the wildlands.
+And he arrived at an abandoned village. The creek had long dried up and the soil was cracked.
+And the Fortes, suffering hunger and thirst, asked him for salvation.
+"You need strength to retake the watering hole that you once called yours."
+"I shall grant you weapons to protect your kin."
+And then he removed the guns he carried on his back,
+And together with the relics of the old, he gave them to the Fortes he met.
+After seven days and seven nights,
+The armed Fortes drove the Landbreakers that occupied the upper flows of the river and chased them out of these lands,
+And thus the water flowed and the grasses grew forever more.
+The cleric named "Veritarite" thus entered the wildlands.
+And he arrived at an abandoned village. The creek had long dried up and the soil was cracked.
+And the Fortes, suffering hunger and thirst, asked him for salvation.
+"You must converge your faith as one, and pray for a rain of abundance."
+"I shall be with you, and lead you to wait for the destined season of rain."
+And then he codified the Law and the commandments, and taught them unity and forbearance,
+And he patiently encouraged every Forte whose despair was great in their hearts, and gave them peace and hope.
+After seven days and seven nights,
+A torrent of life-giving rain fell for the persevering Fortes,
+And thus the water flowed and the grasses grew forever more.
+If you are the thirsty Forte,
+Which of these clerics' teachings will you accept?
+— The Parable of the Three Clerics, engraved at one corner of the Sanctilamina Cathedralis Tranquillae
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

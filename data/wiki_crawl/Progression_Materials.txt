@@ -1,0 +1,235 @@
+URL: https://endfield.wiki.gg/wiki/Item/Progression_Materials
+
+
+
+
+
+Items
+
+
+
+
+
+
+Progression Materials
+
+
+
+
+Naturals
+
+
+
+
+Gatherables
+
+
+
+
+Valuables
+
+
+
+
+
+
+AIC Products
+
+
+
+
+Usables
+
+
+
+
+Functionals
+
+
+
+
+Gifts
+
+
+
+
+Progression materials are items that are used to level up 
+Operators
+ and 
+Weapons
+. They can be used to ugprade Operator skills and promote them, as well as tune Weapons.
+
+
+
+Contents
+
+
+
+
+1
+ 
+Operator EXP
+
+
+2
+ 
+Operator Upgrades
+
+
+3
+ 
+Weapon EXP
+
+
+4
+ 
+Weapon Upgrades
+
+
+
+
+
+
+Operator EXP
+
+
+Operator EXP comes from two sources: 
+Compact Scripts
+, and 
+Protologs
+.
+
+
+
+Compact Scripts can only be used for Operators with Level below 60.
+
+
+Protologs can only be used for Operators with Level 60 or above.
+
+
+Both Scripts and Protologs can be obtained from various ways, mainly the 
+Rift: Combat EXP
+.
+
+
+
+Operator Upgrades
+
+
+There are two types of Operator Upgrades: Promotions and Skill Upgrades.
+
+
+
+Promotions use 
+ 
+Protodisk
+ (for E1/E2) or 
+ 
+Protoset
+ (for E3/E4).
+
+
+Skill Upgrades use 
+ 
+Protoprism
+ (for Skill Level below 7) or 
+ 
+Protohedron
+ (for Skill Level 7 or above).
+
+
+Protodisk and Protoset can be obtained from 
+Rift: Promotions
+, while Protoprism and Protohedron can be obtained from 
+Rift: Skill Up
+.
+
+
+
+Weapon EXP
+
+
+Weapon EXP comes from 
+ 
+Arms Inspector
+, 
+ 
+Arms INSP Kit
+ and 
+ 
+Arms INSP Set
+, which can be obtained from various ways, mainly through 
+Rift: Weapon Up
+.
+
+
+
+Weapon Upgrades
+
+
+Unlike Operators, Weapons have only one Upgrade: 
+Tuning
+, which can be done with 
+ 
+Cast Die
+ (for T1/T2) or 
+ 
+Heavy Cast Die
+ (for T3/T4).
+Both can be obtained from 
+Rift: Weapon Tune
+.
+
+
+
+
+
+
+
+Operator EXP
+Item "
+Compact Script I
+" not found in database
+Item "
+Compact Script II
+" not found in database
+Item "
+Compact Script III
+" not found in database
+Item "
+Protolog I
+" not found in database
+Item "
+Protolog II
+" not found in database
+
+
+
+
+
+
+Operator Upgrades
+
+
+
+
+
+
+Weapon EXP
+
+
+
+
+
+
+Weapon Upgrades
+Item "
+Essence Softener
+" not found in database
+
+
+
+
+
+
+

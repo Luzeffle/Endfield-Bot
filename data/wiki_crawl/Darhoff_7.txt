@@ -1,0 +1,676 @@
+URL: https://endfield.wiki.gg/wiki/Darhoff_7
+
+Darhoff 7
+Icon
+Full
+Max
+File:Darhoff 7 max model.png
+Internal name
+
+wpn_claym_0010
+In Other Languages
+Simplified Chinese
+
+
+达尔霍夫7
+Traditional Chinese
+
+
+達爾霍夫7
+Japanese
+
+
+ダルホフ7
+Korean
+
+
+다호프 7
+Spanish
+
+
+Darhoff 7
+Russian
+
+
+Дархофф 7
+Information
+Type
+
+Great Sword
+Rarity
+
+
+Source
+
+Exploring and Gathering
+
+
+Darhoff 7
+ is a 3★ 
+Great Sword
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+One of the standard-issue operator weapons manufactured by Endfield Industries. This weapon is designed by Endfield Arsenal Engineer Darhoff. Its designs offer a viable option for those taking part in assault operations.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+29
+
+
+83
+
+
+140
+
+
+197
+
+
+254
+
+
+283
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Assault: Armament Prep
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Darhoff 7 to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Darhoff 7 to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Darhoff 7 to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Darhoff 7 to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Main Attribute Boost [S]
+
+
+
+Assault: Armament Prep
+
+
+
+
+
+
+
+
+
+Main attribute 
++10
+
+
+
+
+ATK 
++12
+.
+
+
+
+
+
+
+
+
+
+Main attribute 
++18
+
+
+
+
+ATK 
++14.4
+.
+
+
+
+
+
+
+
+
+
+Main attribute 
++26
+
+
+
+
+ATK 
++16.8
+.
+
+
+
+
+
+
+
+
+
+Main attribute 
++34
+
+
+
+
+ATK 
++19.2
+.
+
+
+
+
+
+
+
+
+
+Main attribute 
++42
+
+
+
+
+ATK 
++21.6
+.
+
+
+
+
+
+
+
+
+
+Main attribute 
++51
+
+
+
+
+ATK 
++24
+.
+
+
+
+
+
+
+
+
+
+Main attribute 
++59
+
+
+
+
+ATK 
++26.4
+.
+
+
+
+
+
+
+
+
+
+Main attribute 
++67
+
+
+
+
+ATK 
++28.8
+.
+
+
+
+
+
+
+
+
+
+Main attribute 
++79
+
+
+
+
+ATK 
++33.6
+.
+
+
+
+Basic Info
+
+
+We believe that a task force composed of 12 operators must include at least 2 to 3 heavy melee weapon specialists. These operators must be extremely competent combatants with great mental fortitude and extensive combat experience. These operators would perform dangerous roles that include assault of hostile positions and strong points. Given the increasing threat posed by the Aggeloi to Endfield facilities, we must establish new training standards, raise the levels of our combat simulation programs, and restructure our field operator teams. The following is a proposal to achieve these objectives...
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

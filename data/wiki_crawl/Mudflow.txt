@@ -1,0 +1,605 @@
+URL: https://endfield.wiki.gg/wiki/Mudflow
+
+Mudflow
+Internal name
+
+eny_0087_wgslime
+In Other Languages
+Simplified Chinese
+
+
+浊流天使
+Traditional Chinese
+
+
+濁流天使
+Japanese
+
+
+濁流アンゲロス
+Korean
+
+
+탁류아겔로스
+Spanish
+
+
+Flujo de lodo
+Russian
+
+
+Мутноток
+General Information
+Type
+
+
+Common
+Race
+
+
+Aggeloi
+Attack pattern
+
+None
+Location
+
+Ground
+
+
+The 
+Mudflow
+ is a 
+Common enemy
+ in 
+Arknights: Endfield
+.
+
+
+
+Enemy description
+The "Tholeroygran" (archive ID: ACM311) is the first fluid-based pattern to be discovered. The morphology of the halo is unstable and the internal temperature is typically lower than its constituent materials.
+
+
+Contents
+
+
+
+
+1
+ 
+Overview
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Resistances
+
+
+1.3
+ 
+Distribution
+
+
+
+
+
+
+2
+ 
+Changelog
+
+
+3
+ 
+Navigation
+
+
+
+
+
+
+Overview
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+ HP
+
+
+180
+
+
+1292
+
+
+8173
+
+
+32175
+
+
+77396
+
+
+119231
+
+
+
+
+
+
+ ATK
+
+
+26
+
+
+124
+
+
+386
+
+
+958
+
+
+1442
+
+
+1652
+
+
+
+
+
+
+ DEF
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+
+
+
+
+
+
+
+
+ Stagger HP
+
+
+ Stagger Recovery
+
+
+ Finisher ATK Mult
+
+
+ Finisher SP Gain
+
+
+
+
+
+
+60
+
+
+6 Seconds
+
+
+1x
+
+
+25
+
+
+
+
+
+
+
+
+
+
+ Attack Range
+
+
+ Weight
+
+
+
+
+
+
+2.1 Meters
+
+
+1
+
+
+
+
+
+
+
+
+
+
+Abilities
+
+
+
+
+
+
+
+
+This enemy can quickly close the distance from afar. Its attacks can apply Cryo Infliction to operators upon hit.
+
+
+
+
+
+
+
+
+Resistances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1x
+
+
+1x
+
+
+0.8x
+
+
+0.8x
+
+
+1x
+
+
+1x
+
+
+
+
+
+
+Distribution
+
+
+
+
+
+
+Location(s)
+
+
+
+
+
+
+
+
+Jingyu Valley
+
+
+Wuling City
+
+
+
+
+
+
+
+
+
+
+
+
+Drops
+
+
+
+
+
+
+
+
+
+
+
+
+Changelog
+
+
+
+
+01/29 - Optimization & Quick Update Notice
+
+
+Reduced HP to 180, 1292, 8173, 32175, 77396, 119231 from 180, 1520, 9615, 32175, 77396, 119231
+
+
+Increased incoming Cryo damage to 0.8 from 0.65
+
+
+
+
+Navigation
+
+
+View or edit this template
+Enemies
+Aggeloi
+
+
+Marble Aggelomoirai (palecore)
+
+
+Marble Aggelomoirai (palesent)
+
+
+Marble Appendage
+
+
+Triaggelos
+
+
+Tidalklast
+
+
+Walking Chrysopolis
+
+
+Effigy
+
+
+Sentinel
+
+
+Tidewalker
+
+
+Tidewalker δ
+
+
+Heavy Ram
+
+
+Heavy Ram α
+
+
+Heavy Sting
+
+
+Heavy Sting α
+
+
+Poison Ivy
+
+
+Falsewings
+
+
+Falsewings α
+
+
+Hedron
+
+
+Hedron δ
+
+
+Mudflow
+
+
+Mudflow δ
+
+
+Prism
+
+
+Ram
+
+
+Ram α
+
+
+Sting
+
+
+Sting α
+
+
+Landbreakers
+
+
+Rhodagn the Bonekrushing Fist
+
+
+Bonekrusher Ballista
+
+
+Bonekrusher Executioner
+
+
+Bonekrusher Siegeknuckles
+
+
+Elite Executioner
+
+
+Bonekrusher Arsonist
+
+
+Bonekrusher Pyromancer
+
+
+Bonekrusher Ambusher
+
+
+Bonekrusher Infiltrator
+
+
+Bonekrusher Raider
+
+
+Bonekrusher Ripptusk
+
+
+Bonekrusher Vanguard
+
+
+Elite Ambusher
+
+
+Elite Raider
+
+
+Elite Ripptusk
+
+
+Hazefyre Claw
+
+
+Hazefyre Tuskbeast
+
+
+Cangzei Pirates
+
+
+Grove Archer
+
+
+Road Plunderer
+
+
+Wildlife
+
+
+Axe Armorbeast
+
+
+Glaring Rakerbeast
+
+
+Hazefyre Axe Armorbeast
+
+
+Spotted Rakerbeast
+
+
+Imbued Quillbeast
+
+
+Quillbeast
+
+
+Tunneling Nidwyrm
+
+
+Acid Originium Slug
+
+
+Acid Originium Slug α
+
+
+Blazemist Originium Slug
+
+
+Brutal Pincerbeast
+
+
+Firemist Originium Slug
+
+
+Indigenous Pincerbeast
+
+
+Waterlamp
+
+
+
+
+
+
+
+
+

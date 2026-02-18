@@ -1,0 +1,849 @@
+URL: https://endfield.wiki.gg/wiki/Filling_Unit
+
+Filling Unit
+In Other Languages
+Simplified Chinese
+
+
+灌装机
+Traditional Chinese
+
+
+灌裝機
+Japanese
+
+
+充填機
+Korean
+
+
+충진기
+Spanish
+
+
+Unidad de relleno
+Russian
+
+
+Модуль наполнения
+General Information
+Type
+
+Facilities
+Rarity
+
+3
+Power Use
+
+20
+
+
+Filling Unit
+ is an 
+AIC
+ 
+Production II
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+The patented sterile packaging technology has greatly reduced the probability of product contamination.
+
+
+Contents
+
+
+
+
+1
+ 
+Usage
+
+
+
+
+1.1
+ 
+Fluid Mode
+
+
+
+
+
+
+2
+ 
+Acquisition
+
+
+3
+ 
+Navigation
+
+
+
+
+
+
+Usage
+
+
+A facility capable of filling containers with various materials.
+
+
+
+Power Use : 20
+
+
+
+
+
+
+Cost
+
+
+
+Product
+
+
+
+Time
+
+
+
+
+
+5
+30/min
+ 
+5
+30/min
+
+
+
+
+1
+6/min
+
+
+
+
+10s
+
+
+
+
+
+10
+60/min
+ 
+10
+60/min
+
+
+
+
+1
+6/min
+
+
+
+
+10s
+
+
+
+
+
+10
+60/min
+ 
+10
+60/min
+
+
+
+
+1
+6/min
+
+
+
+
+10s
+
+
+
+
+
+5
+30/min
+ 
+5
+30/min
+
+
+
+
+1
+6/min
+
+
+
+
+10s
+
+
+
+
+
+10
+60/min
+ 
+10
+60/min
+
+
+
+
+1
+6/min
+
+
+
+
+10s
+
+
+
+
+
+10
+60/min
+ 
+10
+60/min
+
+
+
+
+1
+6/min
+
+
+
+
+10s
+
+
+
+Fluid Mode
+
+
+
+
+
+
+Cost
+
+
+
+Product
+
+
+
+Time
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+1
+30/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+Acquisition
+
+
+Requirement : 
+Basic AIC Plan - Basic AIC II - Solid Filling
+
+
+Production : PAC: Facility Construction
+
+
+
+
+
+
+Facility
+
+
+
+Cost
+
+
+
+Product
+
+
+
+Time
+
+
+
+
+
+Construct
+
+
+
+
+20
+
+
+
+
+1
+
+
+
+
+-
+
+
+
+Navigation
+
+
+View or edit this template
+Facilities
+Resourcing
+ 
+Portable Originium Rig
+ • 
+ 
+Electric Mining Rig
+ • 
+ 
+Electric Mining Rig Mk II
+ • 
+ 
+Fluid Pump
+Logistics Units
+ 
+Item Control Port
+ • 
+ 
+Splitter
+ • 
+ 
+Belt Bridge
+ • 
+ 
+Converger
+ • 
+ 
+Pipe Control Port
+ • 
+ 
+Pipe Splitter
+ • 
+ 
+Pipe Bridge
+ • 
+ 
+Pipe Converger
+Depot Access
+ 
+Protocol Stash
+ • 
+ 
+Depot Loader
+ • 
+ 
+Depot Unloader
+ • 
+ 
+Fluid Tank
+ • 
+ 
+Depot Bus Section
+ • 
+ 
+Depot Bus Port
+Production I
+ 
+Refining Unit
+ • 
+ 
+Shredding Unit
+ • 
+ 
+Fitting Unit
+ • 
+ 
+Moulding Unit
+ • 
+ 
+Planting Unit
+ • 
+ 
+Seed-Picking Unit
+Production II
+ 
+Gearing Unit
+ • 
+ 
+Filling Unit
+ • 
+ 
+Packaging Unit
+ • 
+ 
+Grinding Unit
+ • 
+ 
+Reactor Crucible
+ • 
+ 
+Forge of the Sky
+ • 
+ 
+Separating Unit
+Power
+ 
+Electric Pylon
+ • 
+ 
+Relay Tower
+ • 
+ 
+Xiranite Pylon
+ • 
+ 
+Xiranite Relay
+ • 
+ 
+Thermal Bank
+Miscellaneous
+ 
+Easy Stash
+ • 
+ 
+Memo Beacon
+ • 
+ 
+Zipline Pylon
+ • 
+ 
+Zipline Tower
+ • 
+ 
+Sprinkler
+ • 
+ 
+Fluid Supply Unit
+Combat & Support
+ 
+Gun Tower
+ • 
+ 
+Medical Tower
+ • 
+ 
+Grenade Tower
+ • 
+ 
+LN Tower
+ • 
+ 
+Heavy Gun Tower
+ • 
+ 
+Omnidirectional Sonic Tower
+ • 
+ 
+Beam Tower
+ • 
+ 
+Surge Tower
+ • 
+ 
+Sentry Tower
+ • 
+ 
+HE Grenade Tower
+ • 
+ 
+Marsh Gas Mk I
+Planting
+ 
+Buckflower Plot
+ • 
+ 
+Citrome Plot
+ • 
+ 
+Sandleaf Plot
+ • 
+ 
+Aketine Plot
+ • 
+ 
+Jincao Plot
+ • 
+ 
+Yazhen Plot
+ • 
+ 
+Reed Rye Plot
+ • 
+ 
+Tartpepper Plot
+ • 
+ 
+Redjade Ginseng Plot
+ • 
+ 
+Amber Rice Plot
+
+
+
+
+
+
+

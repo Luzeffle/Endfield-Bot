@@ -1,0 +1,605 @@
+URL: https://endfield.wiki.gg/wiki/Heavy_Ram
+
+Heavy Ram
+Internal name
+
+eny_0023_aghornb
+In Other Languages
+Simplified Chinese
+
+
+刚角天使
+Traditional Chinese
+
+
+剛角天使
+Japanese
+
+
+剛角アンゲロス
+Korean
+
+
+쌍뿔아겔로스
+Spanish
+
+
+Carnero grande
+Russian
+
+
+Крупный рогач
+General Information
+Type
+
+
+Advanced
+Race
+
+
+Aggeloi
+Attack pattern
+
+None
+Location
+
+Ground
+
+
+The 
+Heavy Ram
+ is a 
+Advanced enemy
+ in 
+Arknights: Endfield
+.
+
+
+
+Enemy description
+The "Thrylissoron" (archive ID: ACL072) is a non-standard variant of ACL071. It can manipulate its environment and make tactical decisions.
+
+
+Contents
+
+
+
+
+1
+ 
+Overview
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Resistances
+
+
+1.3
+ 
+Distribution
+
+
+
+
+
+
+2
+ 
+Changelog
+
+
+3
+ 
+Navigation
+
+
+
+
+
+
+Overview
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+ HP
+
+
+831
+
+
+5961
+
+
+37721
+
+
+148502
+
+
+357214
+
+
+550298
+
+
+
+
+
+
+ ATK
+
+
+66
+
+
+310
+
+
+965
+
+
+2395
+
+
+3604
+
+
+4130
+
+
+
+
+
+
+ DEF
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+
+
+
+
+
+
+
+
+ Stagger HP
+
+
+ Stagger Recovery
+
+
+ Finisher ATK Mult
+
+
+ Finisher SP Gain
+
+
+
+
+
+
+160
+
+
+7 Seconds
+
+
+1.25x
+
+
+35
+
+
+
+
+
+
+
+
+
+
+ Attack Range
+
+
+ Weight
+
+
+
+
+
+
+3.2 Meters
+
+
+1.5
+
+
+
+
+
+
+
+
+
+
+Abilities
+
+
+
+
+
+
+
+
+This enemy has no special abilities.
+
+
+
+
+
+
+
+
+Resistances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.8x
+
+
+0.8x
+
+
+1x
+
+
+1x
+
+
+0.8x
+
+
+1x
+
+
+
+
+
+
+Distribution
+
+
+
+
+
+
+Location(s)
+
+
+
+
+
+
+
+
+The Hub
+
+
+Aburrey Quarry
+
+
+Origin Lodespring
+
+
+
+
+
+
+
+
+
+
+
+
+Drops
+
+
+
+
+
+
+
+
+
+
+
+
+Changelog
+
+
+
+
+01/29 - Optimization & Quick Update Notice
+
+
+Reduced HP to 831, 5961, 37721, 148502, 357214, 550298 from 831, 7013, 44378, 148502, 357214, 550298
+
+
+
+
+Navigation
+
+
+View or edit this template
+Enemies
+Aggeloi
+
+
+Marble Aggelomoirai (palecore)
+
+
+Marble Aggelomoirai (palesent)
+
+
+Marble Appendage
+
+
+Triaggelos
+
+
+Tidalklast
+
+
+Walking Chrysopolis
+
+
+Effigy
+
+
+Sentinel
+
+
+Tidewalker
+
+
+Tidewalker δ
+
+
+Heavy Ram
+
+
+Heavy Ram α
+
+
+Heavy Sting
+
+
+Heavy Sting α
+
+
+Poison Ivy
+
+
+Falsewings
+
+
+Falsewings α
+
+
+Hedron
+
+
+Hedron δ
+
+
+Mudflow
+
+
+Mudflow δ
+
+
+Prism
+
+
+Ram
+
+
+Ram α
+
+
+Sting
+
+
+Sting α
+
+
+Landbreakers
+
+
+Rhodagn the Bonekrushing Fist
+
+
+Bonekrusher Ballista
+
+
+Bonekrusher Executioner
+
+
+Bonekrusher Siegeknuckles
+
+
+Elite Executioner
+
+
+Bonekrusher Arsonist
+
+
+Bonekrusher Pyromancer
+
+
+Bonekrusher Ambusher
+
+
+Bonekrusher Infiltrator
+
+
+Bonekrusher Raider
+
+
+Bonekrusher Ripptusk
+
+
+Bonekrusher Vanguard
+
+
+Elite Ambusher
+
+
+Elite Raider
+
+
+Elite Ripptusk
+
+
+Hazefyre Claw
+
+
+Hazefyre Tuskbeast
+
+
+Cangzei Pirates
+
+
+Grove Archer
+
+
+Road Plunderer
+
+
+Wildlife
+
+
+Axe Armorbeast
+
+
+Glaring Rakerbeast
+
+
+Hazefyre Axe Armorbeast
+
+
+Spotted Rakerbeast
+
+
+Imbued Quillbeast
+
+
+Quillbeast
+
+
+Tunneling Nidwyrm
+
+
+Acid Originium Slug
+
+
+Acid Originium Slug α
+
+
+Blazemist Originium Slug
+
+
+Brutal Pincerbeast
+
+
+Firemist Originium Slug
+
+
+Indigenous Pincerbeast
+
+
+Waterlamp
+
+
+
+
+
+
+
+
+

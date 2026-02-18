@@ -1,0 +1,789 @@
+URL: https://endfield.wiki.gg/wiki/Forgeborn_Scathe
+
+Forgeborn Scathe
+Icon
+Full
+Max
+File:Forgeborn Scathe max model.png
+Internal name
+
+wpn_sword_0006
+In Other Languages
+Simplified Chinese
+
+
+熔铸火焰
+Traditional Chinese
+
+
+熔鑄火焰
+Japanese
+
+
+フレイムフォージ
+Korean
+
+
+용조의 불꽃
+Spanish
+
+
+Azote forjado
+Russian
+
+
+Гнев кузни
+Information
+Type
+
+Sword
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+Forgeborn Scathe
+ is a 6★ 
+Sword
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+One of the razor-edged weaponry forged by Witching Hour. Special smelting processes resulted in a wholly red blade. The Arts Unit is actually a special liquefied Originium that resembles the first drop of blood shed by the Icefields.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+52
+
+
+149
+
+
+252
+
+
+355
+
+
+458
+
+
+510
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Twilight: Blazing Wail
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Forgeborn Scathe to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Forgeborn Scathe to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Forgeborn Scathe to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Forgeborn Scathe to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Intellect Boost [L]
+
+
+
+Attack Boost [L]
+
+
+
+Twilight: Blazing Wail
+
+
+
+
+
+
+
+
+
+Intellect 
++20
+
+
+
+
+Attack 
++5%
+
+
+
+
+Heat DMG Dealt 
++16%
+. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt 
++75%
+ for 20.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Intellect 
++36
+
+
+
+
+Attack 
++9%
+
+
+
+
+Heat DMG Dealt 
++19.2%
+. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt 
++90%
+ for 20.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Intellect 
++52
+
+
+
+
+Attack 
++13%
+
+
+
+
+Heat DMG Dealt 
++22.4%
+. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt 
++105%
+ for 20.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Intellect 
++68
+
+
+
+
+Attack 
++17%
+
+
+
+
+Heat DMG Dealt 
++25.6%
+. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt 
++120%
+ for 20.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Intellect 
++84
+
+
+
+
+Attack 
++21%
+
+
+
+
+Heat DMG Dealt 
++28.8%
+. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt 
++135%
+ for 20.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Intellect 
++100
+
+
+
+
+Attack 
++25%
+
+
+
+
+Heat DMG Dealt 
++32%
+. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt 
++150%
+ for 20.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Intellect 
++116
+
+
+
+
+Attack 
++29%
+
+
+
+
+Heat DMG Dealt 
++35.2%
+. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt 
++165%
+ for 20.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Intellect 
++132
+
+
+
+
+Attack 
++33%
+
+
+
+
+Heat DMG Dealt 
++38.4%
+. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt 
++180%
+ for 20.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Intellect 
++156
+
+
+
+
+Attack 
++39%
+
+
+
+
+Heat DMG Dealt 
++44.8%
+. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt 
++210%
+ for 20.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+Basic Info
+
+
+It was late at night. You saw smoke billowing from the next door workshop. The ringing of hammer striking the anvil could be heard within a three block radius. It was deliberate. It was loud.
+"What is she trying to prove?" you didn't want to care, but suddenly remembered the maniac next door mumbling about the near-completion of her work. Thus, you turned around and headed next door while putting on your jacket, all the while mumbling this to yourself, "Talos forbid if she actually forges it."
+Glowing embers floated through the gap of the workshop door. You now regret putting on the jacket as the place was terrifyingly hot. The light of the fire also lured in the tramp who lived three blocks away. She wore something cooler, and started scoffing at you right from the get-go.
+"Idiot. Look at you, all bundled up. When was the last time you lit your smithy's furnace?" The tramp always talked like this since she could crawl. She envenomed her weapons with her spit.
+You ignored her and pushed open the door. The entire house was awash by the fiery glow of the forge. The maniac stood besides it, and unleashed a hysterical riot of a laughter when she saw you two enter her workshop.
+"You're too late! I shall be the one giving life to this weapon!" The maniac was wholly drenched in sweat. You saw only fanatical zealotry on her face.
+The tramp got closer to the forge and studied the roiling hot ferrium. Her tone turned somber as she delivered these words: "This is bad. She's going to forge it."
+Envy surged from your guts. You felt like vomiting.
+You hated each other's guts, but the three of you were once the best of friends. You forgot how the hate actually started, or you grew up together. Even all those evenings you spent drinking together escaped your memories. The only thing you recalled was that prophecy spreading throughout Seš'qa: "A legendary weapon shall be born this winter. And only three smiths could hope to achieve this feat." As luck (or misfortune) would have it, the three of you happen to be the best smiths of the city.
+Since then, all three of you became obsessed with forging the legendary weapon before the other two. Every meeting became a scheme and an attempt to beat the other senseless and throw them out of the city.
+Both you and the tramp had nothing to say at this moment. A skilled smith need only look at the fire to know the immense power it held. The maniac worked the bellows to raise the furnace temperature, but try as she might, the furnace refused to get any hotter. She sighed and wiped away the sweat from her face.
+The tramp's face darkened as she gloated: "You are going to fail."
+The maniac, however, did not even bat an eye at you. She simply laughed: "Far from it!" And with that, she slit open her throat. Hot blood gushed out like lava and flowed into the furnace.
+You and the tramp stretched out your hands together but it was too late. The maniac fell into the furnace and a deafening explosion echoed throughout the town. Fire spluttered out of the furnace chamber and spread throughout the entire workshop. The flames roared with greater fury and threatened to end the night itself. Even the skies feared what was about to happen, and desperately unloaded a great snow to put out the fire.
+As the temperature continued its rapid rise, you looked at the tramp for a word. But decades of tacit understanding tell you that nothing needed to be said.
+You approached the fire, ignored the painful burns, and worked the bellows once more. The nascent weapon within the forge hummed and complained. It was not hot enough. The temperature is too low. It demanded a flame with enough heat to sear a hole through the skies. The tramp sneered as you saw the blaze dancing in her eyes, a conflagration of fury, pain, regret, and ambition. Fire burst from her eyes and swallowed her whole. You had no time to grieve for the snowstorm of the night was relentless. It would do anything to put out their fires.
+You were the idiot of the group who never mastered the Arts. The only recourse you had was better and more precise controls over the bellows for firing up the heat. Years of experience made you a master of keeping the fire going. The bellows swelled and emptied as the fire danced and howled. The flaming tongues licked your skin and it slowly gave way like molten wax. But the mere thought of the weapon maturing into its form gave you incredible elation and made you beam with satisfaction.
+Did it hurt? It was far less painful than the last fight you had when the maniac tore a piece off your face with her teeth.
+Before the flames completely devoured you, you finally remembered how they laughed with merriment back in the tavern.
+The flames might not endure against the night-long blizzard, and there would be no trace of the three of you after the workshop fire. Nevertheless, you knew that a fireplace would remain, and within it they would find a sword capable of cleaving anything in the world apart.
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

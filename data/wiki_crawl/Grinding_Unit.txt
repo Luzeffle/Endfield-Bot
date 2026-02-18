@@ -1,0 +1,480 @@
+URL: https://endfield.wiki.gg/wiki/Grinding_Unit
+
+Grinding Unit
+In Other Languages
+Simplified Chinese
+
+
+研磨机
+Traditional Chinese
+
+
+研磨機
+Japanese
+
+
+研磨機
+Korean
+
+
+연마기
+Spanish
+
+
+Unidad pulverizadora
+Russian
+
+
+Модуль измельчения
+General Information
+Type
+
+Facilities
+Rarity
+
+4
+Power Use
+
+50
+
+
+Grinding Unit
+ is an 
+AIC
+ 
+Production II
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+This facility was based on a traditional crop processing machinery from Yan.
+
+
+Usage
+
+
+A facility that performs fine grinding of powdered materials.
+
+
+
+Power Use : 50
+
+
+
+
+
+
+Cost
+
+
+
+Product
+
+
+
+Time
+
+
+
+
+
+2
+60/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+2
+60/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+2
+60/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+2
+60/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+2
+60/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+2
+60/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+
+
+2
+60/min
+ 
+1
+30/min
+
+
+
+
+1
+30/min
+
+
+
+
+2s
+
+
+
+Acquisition
+
+
+Requirement : 
+Basic AIC Plan - Basic AIC III - Grinding
+
+
+Production : PAC: Facility Construction
+
+
+
+
+
+
+Facility
+
+
+
+Cost
+
+
+
+Product
+
+
+
+Time
+
+
+
+
+
+Construct
+
+
+
+
+10
+
+
+
+
+1
+
+
+
+
+-
+
+
+
+Navigation
+
+
+View or edit this template
+Facilities
+Resourcing
+ 
+Portable Originium Rig
+ • 
+ 
+Electric Mining Rig
+ • 
+ 
+Electric Mining Rig Mk II
+ • 
+ 
+Fluid Pump
+Logistics Units
+ 
+Item Control Port
+ • 
+ 
+Splitter
+ • 
+ 
+Belt Bridge
+ • 
+ 
+Converger
+ • 
+ 
+Pipe Control Port
+ • 
+ 
+Pipe Splitter
+ • 
+ 
+Pipe Bridge
+ • 
+ 
+Pipe Converger
+Depot Access
+ 
+Protocol Stash
+ • 
+ 
+Depot Loader
+ • 
+ 
+Depot Unloader
+ • 
+ 
+Fluid Tank
+ • 
+ 
+Depot Bus Section
+ • 
+ 
+Depot Bus Port
+Production I
+ 
+Refining Unit
+ • 
+ 
+Shredding Unit
+ • 
+ 
+Fitting Unit
+ • 
+ 
+Moulding Unit
+ • 
+ 
+Planting Unit
+ • 
+ 
+Seed-Picking Unit
+Production II
+ 
+Gearing Unit
+ • 
+ 
+Filling Unit
+ • 
+ 
+Packaging Unit
+ • 
+ 
+Grinding Unit
+ • 
+ 
+Reactor Crucible
+ • 
+ 
+Forge of the Sky
+ • 
+ 
+Separating Unit
+Power
+ 
+Electric Pylon
+ • 
+ 
+Relay Tower
+ • 
+ 
+Xiranite Pylon
+ • 
+ 
+Xiranite Relay
+ • 
+ 
+Thermal Bank
+Miscellaneous
+ 
+Easy Stash
+ • 
+ 
+Memo Beacon
+ • 
+ 
+Zipline Pylon
+ • 
+ 
+Zipline Tower
+ • 
+ 
+Sprinkler
+ • 
+ 
+Fluid Supply Unit
+Combat & Support
+ 
+Gun Tower
+ • 
+ 
+Medical Tower
+ • 
+ 
+Grenade Tower
+ • 
+ 
+LN Tower
+ • 
+ 
+Heavy Gun Tower
+ • 
+ 
+Omnidirectional Sonic Tower
+ • 
+ 
+Beam Tower
+ • 
+ 
+Surge Tower
+ • 
+ 
+Sentry Tower
+ • 
+ 
+HE Grenade Tower
+ • 
+ 
+Marsh Gas Mk I
+Planting
+ 
+Buckflower Plot
+ • 
+ 
+Citrome Plot
+ • 
+ 
+Sandleaf Plot
+ • 
+ 
+Aketine Plot
+ • 
+ 
+Jincao Plot
+ • 
+ 
+Yazhen Plot
+ • 
+ 
+Reed Rye Plot
+ • 
+ 
+Tartpepper Plot
+ • 
+ 
+Redjade Ginseng Plot
+ • 
+ 
+Amber Rice Plot
+
+
+
+
+
+
+

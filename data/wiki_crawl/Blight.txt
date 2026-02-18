@@ -1,0 +1,1289 @@
+URL: https://endfield.wiki.gg/wiki/Blight
+
+Notice
+This page contains content that is 
+outdated
+ and may no longer reflect the current state of the game.
+
+
+ 
+The Blight is a form of mysterious Æther-related phenomenon.
+
+
+The 
+Blight
+ is an anomaly that manifests when the 
+Ætherside
+ overlaps into real-space. The Blight exerts various negative effects on any matter it comes in contact with. 
+
+
+
+Contents
+
+
+
+
+1
+ 
+Overview
+
+
+
+
+1.1
+ 
+Zhangli
+
+
+
+
+
+
+2
+ 
+Gameplay
+
+
+3
+ 
+Depth Readings
+
+
+
+
+3.1
+ 
+Valley IV
+
+
+3.2
+ 
+Jinlong
+
+
+
+
+
+
+4
+ 
+Relevant Files
+
+
+5
+ 
+Trivia
+
+
+6
+ 
+Navigation
+
+
+
+
+
+
+Overview
+
+
+The Blight is a general term for describing hazardous subterranean, surface, atmospheric, and orbital phenomena of 
+Talos-II
+. Such phenomena can be divided into two categories: (1) Active Blight and (2) Static Blight, of which Static Blight is often regarded as the residual remains left when an Active Blight episode has subsided.
+
+Classical cases of Active Blight, such as Blightfloods commonly seen on the surface or Blight Tides in bodies of water, tend to exhibit optical properties unique to the Blight often seen as fluorescent displays of strange colors. The phenomenon of Active Blight can inflict dissociative and/or inversive destruction of variable rates to any object it contacts or swallows. In other words, Active Blight can deprive matter and/or time from the physical space it manifests in. This destruction can either be rapid and absolute or slow and slight. After a period of time (the shortest duration on record is 217 ms while the longest is over 149 years), Active Blight will slowly decay into Static Blight that resembles a layer of fluid asphalt covering the remains of the destruction wrought by Active Blight.
+
+The Blight exerts unique effects on sentient lifeforms. Survivors of Blight events often report auditory and/or visual hallucinations, sudden episodes of stress, or other mental conditions even in the complete absence of Blight-induced brain injury (BLIBI). NOTE: Almost all cases of BLIBI fail to survive.
+
+
+Having gathered more than a century's worth of samples and data, we can now confirm Active Blight appears in places where Depth readings hit a positive number. Probability distribution of Active Blight incidence is typically a bell-shaped curve against an x-axis of Depth readings from 0 to 1.
+― "Blight", Nexus Files
+
+
+Zhangli
+
+
+Wuling is located in the third Severing Fault Zone (SFZ), a region where Ætherside activities remain frequent. The local Blight would assume a form known as Zhangli. The existing solution is to purify the Zhangli with an array of 120 Tianshi Pillars deployed in various locations of Wuling. In recent years, however, Blight flow has infiltrated the soil, contaminating the aquifers as well as the farms irrigated by them. What are your suggestions and ideas to solve such issues?
+― Select Questions from Past Wuling Tianshi Bureau Entrance Exams (Part 1)
+
+
+In 
+Wuling
+, Blight manifests in a form known as 
+Zhangli
+. This region experiences frequent Ætherside activity, contributing to the persistent presence of 
+Zhangli
+. To mitigate its effects, the 
+Hongshan Academy of Sciences
+ has strategically deployed an array of 120 Tianshi Pillars throughout 
+Jinlong
+, serving as the primary means of purification and containment.
+
+
+
+Gameplay
+
+
+Active Blight can be found in various places of Talos-II. They can block roads and impede exploration efforts. Active Blight masses must be eliminated for exploration to continue. Operators who touch Active Blight will suffer Blight effects. These operators will quickly reach their Blight tolerance limit and disconnect. Remove operators from Active Blight quickly to remove the Blight effects. Active Blight cannot be eliminated unless its Blight Core is exposed via suitable decryption. A decrypted and exposed Blight Core can be destroyed by attacks or explosives. Once the Blight Core is destroyed, the Active Blight created by it will disappear.
+― Tutorial
+
+
+Depth Readings
+
+
+When accessing a subarea of any particular region, the subarea's name will be displayed alongside the location's Depth readings. These readings are measured with a 
+Confidence Interval
+, where the first number is the reading and the second number is the possible variation. For example, in Valley IV's Core AIC Area the reading is 0.1018 ± 0.0153. This means the aetherside depth reading is anywhere from 0.0865 to 0.1171. The greater the variation, the greater the uncertainty, and the greater the uncertainty, the less precise the measurement.
+
+
+
+Valley IV
+
+
+
+
+
+
+The Hub
+
+
+
+
+
+
+Area
+
+
+Depth
+
+
+
+
+
+
+Core AIC Area
+
+
+0.1018 ± 0.0153
+
+
+
+
+
+
+ Bridge Approach
+
+
+ 0.1255 ± 0.1179
+
+
+
+
+
+
+ Hub Base
+
+
+ 0.1031 ± 0.0136
+
+
+
+
+
+
+ Old Factory
+
+
+ 0.1124 ± 0.0180
+
+
+
+
+
+
+ AIC Research Center
+
+
+ 0.1038 ± 0.0101
+
+
+
+
+
+
+ Construction Site
+
+
+ 0.1016 ± 0.0180
+
+
+
+
+
+
+ Plateau Heights
+
+
+ 0.1057 ± 0.0102
+
+
+
+
+
+
+ Workers Dorm
+
+
+ 0.1066 ± 0.0097
+
+
+
+
+
+
+ Originium Byproduct Processing Center
+
+
+ 0.0074 ± 0.0017
+
+
+
+
+
+
+ Old Water Plant
+
+
+ 0.0865 ± 0.0189
+
+
+
+
+
+
+ Logistics Platform
+
+
+ 0.1027 ± 0.0166
+
+
+
+
+
+
+ Hub West
+
+
+ 0.1234 ± 0.0175
+
+
+
+
+
+
+ Rockhill Passage
+
+
+ 0.1031 ± 0.0179
+
+
+
+
+
+
+ Shorecove Camp
+
+
+ 0.1534 ± 0.0253
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Valley Pass
+
+
+
+
+
+
+Area
+
+
+Depth
+
+
+
+
+
+
+Temporary Shelter
+
+
+0.1368 ± 0.0121
+
+
+
+
+
+
+ Abandoned Trail
+
+
+ 0.1813 ± 0.0146
+
+
+
+
+
+
+ Valley Transfer
+
+
+ 0.2282 ± 0.0203
+
+
+
+
+
+
+ Arsenal
+
+
+ 0.1399 ± 0.0165
+
+
+
+
+
+
+ Valley Fort
+
+
+ 0.1655 ± 0.0180
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aburrey Quarry
+
+
+
+
+
+
+Area
+
+
+Depth
+
+
+
+
+
+
+Quarry Entrance
+
+
+0.1288 ± 0.0134
+
+
+
+
+
+
+ Lifter Central
+
+
+ 0.1624 ± 0.0156
+
+
+
+
+
+
+ Stockpile Area
+
+
+ 0.1301 ± 0.0190
+
+
+
+
+
+
+ Staff Lounge
+
+
+ 0.1306 ± 0.0119
+
+
+
+
+
+
+ Deep Management Post
+
+
+ 0.2020 ± 0.0163
+
+
+
+
+
+
+ Quarry Site
+
+
+ 0.2627 ± 0.0120
+
+
+
+
+
+
+ Listening Post
+
+
+ 0.1032 ± 0.0174
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Originium Science Park
+
+
+
+
+
+
+Area
+
+
+Depth
+
+
+
+
+
+
+Route 5
+
+
+0.2378 ± 0.0085
+
+
+
+
+
+
+ Control Center
+
+
+ 0.0431 ± 0.0017
+
+
+
+
+
+
+ The Depression
+
+
+ 0.1174 ± 0.0111
+
+
+
+
+
+
+ Transport Nexus
+
+
+ 0.2049 ± 0.0091
+
+
+
+
+
+
+ Originium Science Park
+
+
+ 0.2252 ± 0.0852
+
+
+
+
+
+
+ Kohl Plant
+
+
+ 0.1039 ± 0.0103
+
+
+
+
+
+
+ Research Center
+
+
+ 0.1884 ± 0.0837
+
+
+
+
+
+
+ Eco Farm
+
+
+ 0.0696 ± 0.0040
+
+
+
+
+
+
+ Infra-Station
+
+
+ 0.0992 ± 0.0100
+
+
+
+
+
+
+ Cliffside Trail
+
+
+ 0.2112 ± 0.0107
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Origin Lodespring
+
+
+
+
+
+
+Area
+
+
+Depth
+
+
+
+
+
+
+Landbreaker Camp
+
+
+0.1398 ± 0.0149
+
+
+
+
+
+
+ Mountain Passage
+
+
+ 0.1278 ± 0.0131
+
+
+
+
+
+
+ Mining Camp
+
+
+ 0.1374 ± 0.0109
+
+
+
+
+
+
+ Temporary Stockpile
+
+
+ 0.1747 ± 0.0884
+
+
+
+
+
+
+ Cliffside Mining Area
+
+
+ 0.0486 ± 0.0018
+
+
+
+
+
+
+ Blightcliff Observation Post
+
+
+ 0.2078 ± 0.0131
+
+
+
+
+
+
+ Meteorological Station
+
+
+ 0.1481 ± 0.0117
+
+
+
+
+
+
+ Old Mines
+
+
+ 0.1551 ± 0.1300
+
+
+
+
+
+
+ Containment Zone Intersection
+
+
+ 0.1301 ± 0.1290
+
+
+
+
+
+
+ Logistics Area
+
+
+ 0.1702 ± 0.1340
+
+
+
+
+
+
+ Originium Passage
+
+
+ -0.1004 ± 0.0010
+
+
+
+
+
+
+ Cradle of the Ages
+
+
+ -0.3220 ± 0.0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power Plateau
+
+
+
+
+
+
+Area
+
+
+Depth
+
+
+
+
+
+
+Originium Power Plant
+
+
+0.2072 ± 0.0055
+
+
+
+
+
+
+ Shattered Fringe
+
+
+ 0.3706 ± 0.1379
+
+
+
+
+
+
+ Planned Construction Area
+
+
+ 0.2521 ± 0.0174
+
+
+
+
+
+
+ United Parking Lot
+
+
+ 0.2496 ± 0.0013
+
+
+
+
+
+
+ Bridge Approach Camp
+
+
+ 0.2712 ± 0.0202
+
+
+
+
+
+
+ Bonekrusher Warcamp
+
+
+ 0.2892 ± 0.0228
+
+
+
+
+
+
+ Evacuation Zone
+
+
+ 0.2643 ± 0.0180
+
+
+
+
+
+
+ Æther Test Site
+
+
+ 0.3993 ± 0.1684
+
+
+
+
+
+
+
+
+
+
+Jinlong
+
+
+
+
+
+
+Wuling Outskirts
+
+
+
+
+
+
+Area
+
+
+Depth
+
+
+
+
+
+
+Yuxi Ford
+
+
+0.0995 ±0.0079
+
+
+
+
+
+
+ Environment Monitoring Station
+
+
+ 0.1205 ± 0.0615
+
+
+
+
+
+
+ Zhailing Islet
+
+
+ 0.1931 ± 0.0446
+
+
+
+
+
+
+ Backhill Path
+
+
+ 0.1045 ± 0.0080
+
+
+
+
+
+
+ Hengjin Village
+
+
+ 0.0582 ± 0.0139
+
+
+
+
+
+
+ Cangyun Cavern
+
+
+ 0.0767 ± 0.0084
+
+
+
+
+
+
+ Shiwei Village
+
+
+ 0.1030 ± 0.0151
+
+
+
+
+
+
+ Cuojian Shallows
+
+
+ 0.3411 ± 0.0899
+
+
+
+
+
+
+ Fusuo Grove
+
+
+ 0.1511 ± 0.0251
+
+
+
+
+
+
+ Cuojian Ford
+
+
+ 0.1500 ± 0.0212
+
+
+
+
+
+
+ Yudong Ford
+
+
+ 0.1203 ± 0.0140
+
+
+
+
+
+
+ Ping Islet
+
+
+ 0.1107 ± 0.0133
+
+
+
+
+
+
+ Yudi Marsh
+
+
+ 0.1487 ± 0.0196
+
+
+
+
+
+
+ Jingzong Grove
+
+
+ 0.0913 ± 0.0058
+
+
+
+
+
+
+ Jingzong Ford
+
+
+ 0.1004 ± 0.0107
+
+
+
+
+
+
+
+
+
+
+Relevant Files
+
+
+
+
+OVERVIEW OF THE BLIGHT IN VALLEY IV
+
+
+Like other areas in Talos-II, we also observed the phenomenon known as the Blight at 
+Valley IV
+. Recent observations indicated that the Blight rupture event in Valley IV can be contained. The scale and spread of local Blight ruptures might not affect our construction activities in this area, but ruptures are becoming more frequent. Though we do not know why, we should pay proper attention to this trend.
+
+CLASSIFICATION OF BLIGHT RUPTURES
+
+
+We still lack a formal rating system for classifying the severity of Blight rupture events, and I personally incline towards a classification system based on the "scale of the destruction and impact" of the rupture event. MINOR ruptures are events that leave the geography untouched and typically result in lower levels of damage and destruction. MAJOR ruptures refer to Blight disasters that cause permanent changes to terrain features and render affected areas unfit for habitation and development. The recent Blight rupture of Valley IV should be classified as a MINOR rupture event.
+
+BLIGHT-INDUCED DAMAGE TO MACHINERY AND HOW TO HANDLE THEM
+
+
+Recent cases have indicated that the Blight exerts permanent changes to the physical and chemical properties of machine parts and components that result in irreversible damage to various machinery. Following a Blight Rupture event, all Blight-affected machine parts/components shall be replaced and scrapped. As for large machinery, if its Blight-affected parts/components cannot be removed completely, the entirety of the said machinery shall be decommissioned and entered into the scrapping process.
+
+Care must be taken when handling and repairing a piece of Blight-affected machinery. Do not get too close and do not touch the said machinery. Perform Blight-neutralizing treatment from a distance and ensure ALL Blight contamination has been removed before dismantling. These steps are only applicable for treating Blight contamination caused by minor rupture events. We have zero successful cases for the decontamination of machinery affected by major rupture events.
+
+LIST OF SCENARIOS NECESSITATING THE CESSATION OF ALL WORK ACTIVITIES
+
+
+Large scale Blight ruptures usually result in large tracts of land being covered by the Blight. To minimize loss of personnel and/or assets, the priority is to immediately cease all work and construction activities in all affected areas.
+
+SOP FOR WORKING IN BLIGHTED ZONES
+
+
+Following a Blight rupture event, if work activities in an affected zone are necessary due to special reasons, all personnel must don a full PPE suit and be provided with Blight counters to constantly monitor Blight levels in the zone. Hazard ratings of Blight contamination slowly decrease with time. To ensure safety, work activities should only be resumed when Blight decays to levels low enough that it no longer exerts biological effects.
+
+Since the effects of Blight on the human body have yet to be fully understood, work activities can only be performed in the most extreme of emergencies.
+
+
+
+― Karl's Notes
+
+
+
+
+Endministrator
+, we received the documents you sent us. They're now being analyzed by the best employee from the Blight and Associated Anomaly Research Task Force nominated last season.
+
+Your intuitions and senses are incredibly sharp. These documents made up for our lack of data collection, which also happens to be our weakness in Blight and Rift studies.
+
+First, I must pay my utmost respect to our UWST friends. They made incredible sacrifices to gather this trove of data from the uninhabited Northern Barrens. I believe these data proved one of my hypotheses - The natural background rate of Rift manifestation is increasing.
+
+Now concerning the 
+Giant Blightmorph
+ mentioned in the documents, I believe some of these records could be used to support my Canteen Hypothesis. I raised this particular possibility while chatting with Yvonne in the canteen (hence the name, Canteen Hypothesis). In this hypothesis, I proposed that future Blight events will occur with greater frequency and intensity. Thousands of years later, low intensity Blight may no longer exist on Talos-II. Blight events would be catastrophic disasters that can topple entire mountains or flood entire coastlines. The lands would be dominated by massive, indestructible entities of living terror. Humanity would become unimaginable and twisted aberrations of their former selves...
+
+Of course, this is just a hypothesis and there is nothing to worry about. I believe your work will help prevent this terrible future. According to the documents you gathered, even monsters described in academic literature, however fantastical they may be, could in fact be defeated by human resilience. I am willing to place my faith in our potential - The potential of Endfield Industries.
+
+
+
+― Blight and Rift Investigation Report
+
+
+
+
+Strange, unnatural thoughts occasionally appear in my head as I look at the Blight.
+
+My musings may not be entirely accurate, but the Blight reminds me of water. Whenever I gaze into the Blight, I think of calm lakes or stormy seas before other wilder fantasies start emerging. During the infancy of the human race, the very first humans would see their own reflections in the water... So I tried to put myself in their shoes, studied this "water", and saw a contorted reflection of myself... The very first thought that came to mind was if another "world" existed on the other side.
+
+When humanity learned to swim and saw what lay under the surface with their own eyes, they abandoned all of their romantic fantasies of the world beneath the waves. If there comes a day when we delve into the Blight and Ætherside, I pray the truth will not shatter these small, mundane fantasies I have about them.
+
+Perhaps the Blight thought the same?
+
+
+
+― Crew Mate's Fantasy (3)
+
+
+
+
+■■/■■, Sunny
+
+Many recent patients reported diarrhea. It reminds me of something bad I've heard. My surgeon's training at the Band mentioned something about "Blight that lies dormant in the body". When consuming Blight-contaminated food, Blight particles will go down the esophagus and reach the stomach where they attach themselves to the stomach lining and initiate an incubation period lasting around 12 months. During incubation, the victim will not experience any discomfort and most of our diagnostic measures will fail to detect the particles as they encapsulate themselves with stable materials. When incubation ends, the encapsulated particles will detach, rupture, and release more Blight particles with higher levels of activity. These released materials then cause a wide range of acute bowel disorders.
+
+I hope I'm just getting a little paranoid, but I applied for a Blight scanner anyway. The patients are my responsibility.
+
+
+
+― Surgeon's Log
+
+
+Trivia
+
+
+The Blight affecting Hongshan is possibly the same Blight which affected Dahuang during the Arknights CNY event 
+Here A People Sows
+.
+
+
+Navigation
+
+
+View or edit this template
+Setting
+Overview
+
+
+Talos-II
+
+
+OMV Dijiang
+
+
+Originium
+
+
+Ætherside
+
+
+Blight
+
+
+Race
+
+
+Cosmic Gate
+
+
+Terra
+
+
+First Aggeloi War
+
+
+Civilization Band
+
+
+Automated Industry Complex
+ (AIC)
+
+
+Protocol-Originium
+
+
+Xiranite
+
+
+Reconveners
+
+
+Landbreakers
+
+
+Nefarith
+
+
+Aggeloi
+
+
+Factions
+
+
+Endfield Industries
+
+
+Rhodes Island
+
+
+United Workers' Syndicates of Talos-II
+ (UWST)
+
+
+Hongshan Academy of Sciences
+ (HAS)
+
+
+Talos-II General Chamber of Commerce
+ (TGCC)
+
+
+Order of Steel Oath
+
+
+Cabal of Tranquility
+
+
+Hannabit Circuit
+
+
+Seš'qa
+
+
+Samifjod
+
+
+Free Cities
+
+La Fantoma
+
+
+Kjersch
+
+
+Alloycarrot
+
+
+New Wrankwood
+
+
+Neo Tsukushi
+
+
+Manufacturers
+
+
+Raythean Industries
+
+
+Mieszko Industries
+
+
+Northmarch Support Hub
+
+
+Portable Æthertech Labs
+
+
+Fort Forgefane
+
+
+Witching Hour
+
+
+Locations
+
+
+Valley IV
+
+
+Wuling
+
+
+Wuling City
+
+
+Talos City
+
+
+Mat' Gorodov
+
+
+Industrial Mothership
+
+
+
+
+
+
+
+
+

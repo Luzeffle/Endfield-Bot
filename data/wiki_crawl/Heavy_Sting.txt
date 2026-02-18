@@ -1,0 +1,611 @@
+URL: https://endfield.wiki.gg/wiki/Heavy_Sting
+
+Heavy Sting
+Internal name
+
+eny_0027_agscorp
+In Other Languages
+Simplified Chinese
+
+
+重刺天使
+Traditional Chinese
+
+
+重刺天使
+Japanese
+
+
+槍棘アンゲロス
+Korean
+
+
+삼미아겔로스
+Spanish
+
+
+Aguijón fuerte
+Russian
+
+
+Крупный скорпион
+General Information
+Type
+
+
+Advanced
+Race
+
+
+Aggeloi
+Attack pattern
+
+None
+Location
+
+Ground
+
+
+The 
+Heavy Sting
+ is a 
+Advanced enemy
+ in 
+Arknights: Endfield
+.
+
+
+
+Enemy description
+The "Varykentron" (archive ID: ARL141) is a non-standard variant of ARL121. It would occasionally perform whip attacks with its tail instead of using its ranged energy attack.
+
+
+Contents
+
+
+
+
+1
+ 
+Overview
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Resistances
+
+
+1.3
+ 
+Distribution
+
+
+
+
+
+
+2
+ 
+Changelog
+
+
+3
+ 
+Navigation
+
+
+
+
+
+
+Overview
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+ HP
+
+
+734
+
+
+5266
+
+
+33320
+
+
+131177
+
+
+315539
+
+
+486097
+
+
+
+
+
+
+ ATK
+
+
+49
+
+
+233
+
+
+723
+
+
+1796
+
+
+2703
+
+
+3097
+
+
+
+
+
+
+ DEF
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+
+
+
+
+
+
+
+
+ Stagger HP
+
+
+ Stagger Recovery
+
+
+ Finisher ATK Mult
+
+
+ Finisher SP Gain
+
+
+
+
+
+
+140
+
+
+7 Seconds
+
+
+1.25x
+
+
+35
+
+
+
+
+
+
+
+
+
+
+ Attack Range
+
+
+ Weight
+
+
+
+
+
+
+7 Meters
+
+
+1.5
+
+
+
+
+
+
+
+
+
+
+Abilities
+
+
+
+
+
+
+
+
+This enemy attacks by causing Originium pillars to erupt under the operators.
+
+
+When approached, this enemy will summon stone pillars around itself for protection.
+
+
+
+
+
+
+
+
+Resistances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.8x
+
+
+0.8x
+
+
+1x
+
+
+1x
+
+
+0.8x
+
+
+1x
+
+
+
+
+
+
+Distribution
+
+
+
+
+
+
+Location(s)
+
+
+
+
+
+
+
+
+The Hub
+
+
+Aburrey Quarry
+
+
+Origin Lodespring
+
+
+
+
+
+
+
+
+
+
+
+
+Drops
+
+
+
+
+
+
+
+
+
+
+
+
+Changelog
+
+
+
+
+01/29 - Optimization & Quick Update Notice
+
+
+Reduced HP to 734, 5266, 33320, 131177, 315539, 486097 from 734, 6195, 39200, 131177, 315539, 486097
+
+
+Increased incoming Cryo damage to 0.8 from 0.65
+
+
+
+
+Navigation
+
+
+View or edit this template
+Enemies
+Aggeloi
+
+
+Marble Aggelomoirai (palecore)
+
+
+Marble Aggelomoirai (palesent)
+
+
+Marble Appendage
+
+
+Triaggelos
+
+
+Tidalklast
+
+
+Walking Chrysopolis
+
+
+Effigy
+
+
+Sentinel
+
+
+Tidewalker
+
+
+Tidewalker δ
+
+
+Heavy Ram
+
+
+Heavy Ram α
+
+
+Heavy Sting
+
+
+Heavy Sting α
+
+
+Poison Ivy
+
+
+Falsewings
+
+
+Falsewings α
+
+
+Hedron
+
+
+Hedron δ
+
+
+Mudflow
+
+
+Mudflow δ
+
+
+Prism
+
+
+Ram
+
+
+Ram α
+
+
+Sting
+
+
+Sting α
+
+
+Landbreakers
+
+
+Rhodagn the Bonekrushing Fist
+
+
+Bonekrusher Ballista
+
+
+Bonekrusher Executioner
+
+
+Bonekrusher Siegeknuckles
+
+
+Elite Executioner
+
+
+Bonekrusher Arsonist
+
+
+Bonekrusher Pyromancer
+
+
+Bonekrusher Ambusher
+
+
+Bonekrusher Infiltrator
+
+
+Bonekrusher Raider
+
+
+Bonekrusher Ripptusk
+
+
+Bonekrusher Vanguard
+
+
+Elite Ambusher
+
+
+Elite Raider
+
+
+Elite Ripptusk
+
+
+Hazefyre Claw
+
+
+Hazefyre Tuskbeast
+
+
+Cangzei Pirates
+
+
+Grove Archer
+
+
+Road Plunderer
+
+
+Wildlife
+
+
+Axe Armorbeast
+
+
+Glaring Rakerbeast
+
+
+Hazefyre Axe Armorbeast
+
+
+Spotted Rakerbeast
+
+
+Imbued Quillbeast
+
+
+Quillbeast
+
+
+Tunneling Nidwyrm
+
+
+Acid Originium Slug
+
+
+Acid Originium Slug α
+
+
+Blazemist Originium Slug
+
+
+Brutal Pincerbeast
+
+
+Firemist Originium Slug
+
+
+Indigenous Pincerbeast
+
+
+Waterlamp
+
+
+
+
+
+
+
+
+

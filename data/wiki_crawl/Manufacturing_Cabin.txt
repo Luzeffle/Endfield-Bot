@@ -1,0 +1,449 @@
+URL: https://endfield.wiki.gg/wiki/Manufacturing_Cabin
+
+This page is a 
+stub
+. You can help 
+Endfield Talos Wiki
+ by 
+expanding it
+.
+
+
+Contents
+
+
+
+
+1
+ 
+Description
+
+
+
+
+1.1
+ 
+Morale
+
+
+1.2
+ 
+Trust
+
+
+
+
+
+
+2
+ 
+Control Nexus
+
+
+3
+ 
+Growth Chamber
+
+
+4
+ 
+Manufacturing Cabin
+
+
+5
+ 
+Protocol Exchange
+
+
+
+
+
+
+Description
+
+
+Aerospace Materials are needed to construct and level up cabins aboard Dijiang. The player can get them from 
+Recycling Stations
+ they encounter during exploration.
+
+
+
+Morale
+
+
+The player must assign at least 1 Operator to a functional cabin to make it work. Every Operator assigned can raise the productivity of the cabin. The mood of Operators assigned to functional cabins will slowly decrease with time. An Operator with zero mood will automatically head to the Central Ring to rest, and will not any assignment effects during resting. At max mood, the operator will automatically return to the assigned functional cabin and resume working.
+
+
+
+Trust
+
+
+Raising Operators' trust unlocks more skills and profile data. Operators with higher trust also interact with the player differently aboard Dijiang. Interacting with Operators aboard Dijiang will give the player the option to talk to them or offer them gifts. Gifts will raise the Operators' trust, especially when the gifts are something they really like. More gifts can be obtained by talking to the Supply Chain Specialist aboard Dijiang and using the Protocol Exchange. The player will also earn trust slowly with time with Operators assigned to the Control Nexus or functional cabins. Even if they are not aboard Dijiang, these operators will continue to build up trust. The trust will be added to the operators once the player boards Dijiang.
+
+
+
+Control Nexus
+
+
+The Control Nexus is the management center of Dijiang. Use the 
+Central Dashboard
+ in the Control Nexus to view data of the entire ship and manage operator assignments of various cabins. Level up the Control Nexus to unlock more functional cabins aboard the ship.
+― Tutorial
+
+
+
+
+
+
+Growth Chamber
+
+
+The 
+Growth Chamber
+ can be used to grow progression materials for operator promotions, skill upgrades, and weapon tuning. Growing materials at the Growth Chamber also requires a special 
+seed
+ materials. You can extract 
+seeds
+ from existing materials but this also consumes them.
+― Tutorial
+
+
+
+
+all times at 100% growth efficiency
+
+
+
+
+
+Fungus
+
+
+
+Plant
+
+
+
+Mineral
+
+
+
+
+
+Input
+
+
+Output
+
+
+Grow time
+
+
+Input
+
+
+Output
+
+
+Grow time
+
+
+Input
+
+
+Output
+
+
+Grow time
+
+
+
+
+
+
+
+3
+
+
+17:21:40
+
+
+
+
+3
+
+
+17:21:40
+
+
+
+
+3
+
+
+17:21:40
+
+
+
+
+
+
+
+3
+
+
+27:46:40
+
+
+
+
+3
+
+
+27:46:40
+
+
+
+
+3
+
+
+27:46:40
+
+
+
+
+
+
+
+3
+
+
+61:06:40
+
+
+
+
+3
+
+
+61:06:40
+
+
+
+
+3
+
+
+61:06:40
+
+
+
+
+
+
+
+1
+
+
+125:00:00
+
+
+
+
+1
+
+
+125:00:00
+
+
+
+
+1
+
+
+125:00:00
+
+
+
+
+
+
+
+1
+
+
+125:00:00
+
+
+
+
+1
+
+
+125:00:00
+
+
+
+
+1
+
+
+125:00:00
+
+
+
+Manufacturing Cabin
+
+
+The 
+Manufacturing Cabin
+ can produce operator progression materials when given enough time. Select a manufacturing plan (MFG Plan) and the amount of items to make and operator(s) assigned to the 
+Manufacturing Cabin
+ will begin their work. 
+NOTE: Manufacturing Cabins have a 
+MFG Load
+ and different items use up different amounts of MFG Load. Level up the Manufacturing Cabin to unlock more MFG Plans.
+― Tutorial
+
+
+
+
+
+
+Item
+
+
+
+
+MFG Load
+
+
+
+
+Manufacturing time
+
+
+
+
+
+
+ 
+Item "
+Compact Script I
+" not found in database
+ 
+
+
+
+
+1
+
+
+
+
+06:30
+
+
+
+
+
+ 
+Item "
+Compact Script II
+" not found in database
+ 
+
+
+
+
+3
+
+
+
+
+32:16
+
+
+
+
+
+ 
+Item "
+Protolog I
+" not found in database
+ 
+
+
+
+
+3
+
+
+
+
+32:16
+
+
+
+
+
+ 
+Item "
+Compact Script III
+" not found in database
+ 
+
+
+
+
+15
+
+
+
+
+04:51:00
+
+
+
+
+
+ 
+Item "
+Protolog II
+" not found in database
+ 
+
+
+
+
+30
+
+
+
+
+09:42:00
+
+
+
+Protocol Exchange
+
+
+Talk to the Supply Chain Specialist aboard Dijiang to exchange 
+Protocol Exchange Certificates
+ (PROXC) for various items. 
+Buy out every item
+ from the current phase to unlock the next phase of goods. Complete outpost orders to earn more 
+Protocol Exchange Certificates
+ (PROXC). 
+NOTE: There is a limit for the amount of PROXC you can own. Any 
+PROXC that exceeds this limit will expire on a regularly basis
+. Always remember to spend your PROXC.
+― Tutorial
+
+
+
+
+
+
+

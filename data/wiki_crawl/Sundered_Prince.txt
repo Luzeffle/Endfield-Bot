@@ -1,0 +1,836 @@
+URL: https://endfield.wiki.gg/wiki/Sundered_Prince
+
+Sundered Prince
+Icon
+Full
+Max
+File:Sundered Prince max model.png
+Internal name
+
+wpn_claym_0008
+In Other Languages
+Simplified Chinese
+
+
+破碎君王
+Traditional Chinese
+
+
+破碎君王
+Japanese
+
+
+破砕君主
+Korean
+
+
+분쇄의 군주
+Spanish
+
+
+Príncipe desgarrado
+Russian
+
+
+Растерзанный принц
+Information
+Type
+
+Great Sword
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+Sundered Prince
+ is a 6★ 
+Great Sword
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+A special limited-release weapon from the Witching Hour. The appearance of the greatsword is probably based on an ancient legend. It seems capable of ripping wails of anguish out of the realm of dreams.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+50
+
+
+144
+
+
+243
+
+
+342
+
+
+441
+
+
+490
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Crusher: Princely Deterrence
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Sundered Prince to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Sundered Prince to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Sundered Prince to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Sundered Prince to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Strength Boost [L]
+
+
+
+Critical Rate Boost [L]
+
+
+
+Crusher: Princely Deterrence
+
+
+
+
+
+
+
+
+
+Strength 
++20
+
+
+
+
+Critical Rate 
++2.5%
+
+
+
+
+When the wielder performs a 
+Final Strike
+ on the enemy, the wielder gains ATK 
++10%
+ for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the 
+Final Strike
+ so that it deals Stagger 
++12%
+ to the enemy. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Strength 
++36
+
+
+
+
+Critical Rate 
++4.5%
+
+
+
+
+When the wielder performs a 
+Final Strike
+ on the enemy, the wielder gains ATK 
++12%
+ for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the 
+Final Strike
+ so that it deals Stagger 
++14.4%
+ to the enemy. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Strength 
++52
+
+
+
+
+Critical Rate 
++6.5%
+
+
+
+
+When the wielder performs a 
+Final Strike
+ on the enemy, the wielder gains ATK 
++14%
+ for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the 
+Final Strike
+ so that it deals Stagger 
++16.8%
+ to the enemy. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Strength 
++68
+
+
+
+
+Critical Rate 
++8.5%
+
+
+
+
+When the wielder performs a 
+Final Strike
+ on the enemy, the wielder gains ATK 
++16%
+ for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the 
+Final Strike
+ so that it deals Stagger 
++19.2%
+ to the enemy. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Strength 
++84
+
+
+
+
+Critical Rate 
++10.5%
+
+
+
+
+When the wielder performs a 
+Final Strike
+ on the enemy, the wielder gains ATK 
++18%
+ for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the 
+Final Strike
+ so that it deals Stagger 
++21.6%
+ to the enemy. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Strength 
++100
+
+
+
+
+Critical Rate 
++12.5%
+
+
+
+
+When the wielder performs a 
+Final Strike
+ on the enemy, the wielder gains ATK 
++20%
+ for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the 
+Final Strike
+ so that it deals Stagger 
++24%
+ to the enemy. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Strength 
++116
+
+
+
+
+Critical Rate 
++14.5%
+
+
+
+
+When the wielder performs a 
+Final Strike
+ on the enemy, the wielder gains ATK 
++22%
+ for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the 
+Final Strike
+ so that it deals Stagger 
++26.4%
+ to the enemy. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Strength 
++132
+
+
+
+
+Critical Rate 
++16.5%
+
+
+
+
+When the wielder performs a 
+Final Strike
+ on the enemy, the wielder gains ATK 
++24%
+ for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the 
+Final Strike
+ so that it deals Stagger 
++28.8%
+ to the enemy. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Strength 
++156
+
+
+
+
+Critical Rate 
++19.5%
+
+
+
+
+When the wielder performs a 
+Final Strike
+ on the enemy, the wielder gains ATK 
++28%
+ for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the 
+Final Strike
+ so that it deals Stagger 
++33.6%
+ to the enemy. 
+Effects of the same name cannot stack.
+
+
+
+
+Basic Info
+
+
+The Sarkaz was a mountain. He picked me up with one hand and stomped towards a less conspicuous place in Seš'qa.
+The children nearby pointed at us excitedly. They jabbered to their parents about what they saw and probably mistook this altercation as an audience moment featured in the "Parade of the Royal Courts". I was the "lucky" guy who got to interact with the Kings of the Royal Court.
+I was also just as excited when my old man brought me to this flying theme park for the first time.
+But now, it felt as though I was about to be executed by this emotionless and silent Sarkaz warrior.
+"SORRY! I should've bought a ticket!"
+"..."
+I didn't know if I would end up like the victim shown in the oldies. I could not remember its title, but the poor lad was completely drained of all his blood by an elegant Vampire to fill his dinner goblet.
+"I ... I had fun at this place when I was a kid! 'Errant's Grand Adventure' was my favorite attraction! I just wanna relive my childhood again!"
+"..."
+I wondered if I would end up like the guy shown in super popular "Records of the Kazdelian Wars" manga. The dude was chopped to pieces by a sword as long as the dude himself, thrown into a furnace for fuel, and burned to raging hot ash that scattered to the winds!
+"NO! PLEASE! I CONFESS! I pick-pocketed parents distracted by screaming kids when they crowded up at the ticket booths! I'M SORRY!"
+"..."
+That did not work. Perhaps my real intent was already foretold by a Cyclops who secretly dwelt in this City of Witchcraft. That would be the end of me! To hold on to dear life, I decided to spill everything!
+"STAAAAHHHP! I'LL TELL YOU THE TRUTH! I'm completely broke! And I'm a ... a damn criminal! I might have schemed to steal a creator-signed 'Sundered Prince' from the Witching Hour flagship store just before Seš'qa Open Day ends! But that's just an evil plot! You caught me right after I stepped into Seš'qa! None of my plot ever happened! I PROMISE! I SWEAR!"
+"Here's the guy. A real squealer this one."
+I crumpled to the floor with a resounding thud. The room was dark. I carefully opened my eyes and found myself upon a soft and well-fashioned sofa instead of the cold, hard floors of a dungeon.
+"Welcome back, my brave adventurer."
+A Sarkaz recited the classic line of Errant's Grand Adventure as she took the seat behind a simple stone table. She was decked out in a fine business suit, leather shoes, and a parade mask.
+"Mr. Maxim from Asphalt Roundabout. Sixteen years have passed since you last visited Seš'qa. Nevertheless, we have held on to your prize."
+Wait. I thought the host of the "Errant's Grand Adventure" was supposed to roleplay as a mysterious diviner witch wearing an ancient courtly dress. Before I could sort out my confusion, a load of bad memories that I had always avoided suddenly surged within me.
+I completed the "Errant's Grand Adventure" and could finally exchange my winnings for the final "Treasure from the Lord of Fiends" — a most intricately crafted toy sword. It was my childhood obsession. But I missed the final window for prize exchange when the bells tolled and signaled the end of the Open Day. My old man tried to comfort me and said we'd visit again when the flying city of Seš'qa returns.
+But our days at La Fantoma didn't last till the return of Seš'qa. My old man told me that we were broke and gotta head to the Asphalt Roundabout to "dodge the collectors". Of course, I never became a fearless adventurer. Instead, I turned into a petty thief, a dirty smuggler, and a scummy fraud... I only revisited this place because I thought there was a killing to be made.
+The Sarkaz then removed the cloth to reveal the prize under it. It sure wasn't a toy sword that blinked and flickered when you pressed a button. It was an actual "Sundered Prince"! An authentic blade painstakingly fashioned by the witch-crafters! Not only that, the Sarkaz manifested a pen out of thin air and signed the weapon for me.
+"Are ... are you sure? That prize I missed sixteen years ago... It can't be a weapon of such immense value!"
+"I am quite certain. A weapon of a true adventurer, just as revealed by the divination."
+"A divination...? Could I ... beg you to divine another reading for me?"
+"I'm listening."
+"Will my life ... ever get better?"
+The Sarkaz looked at me and said something, but the only sound that filled my ears were the tolling of bells that signaled the end of the Open Day that I had not heard for sixteen long years. When I returned to my senses, my legs once again found solid ground. People crowded around me. Everyone, children and grown-ups of every race, looked into the air and waved their goodbyes at the Seš'qa amidst the erupting fireworks. I felt like a young boy again as I gripped my blade. I hoped that the bells tolled a little later. I wanted a sword that flickered and shone when I pressed a button.
+But no. I received something that I wanted and I knew exactly what to do.
+My grand adventure was about to begin.
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

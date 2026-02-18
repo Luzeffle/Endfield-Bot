@@ -1,0 +1,605 @@
+URL: https://endfield.wiki.gg/wiki/Bonekrusher_Pyromancer
+
+Bonekrusher Pyromancer
+Internal name
+
+eny_0046_lbshamman
+In Other Languages
+Simplified Chinese
+
+
+碾骨焰术师
+Traditional Chinese
+
+
+碾骨焰術師
+Japanese
+
+
+ボーンクラッシャーの炎術師
+Korean
+
+
+본 크러셔 염술사
+Spanish
+
+
+Piromante Rompehuesos
+Russian
+
+
+Пиромант Костоломов
+General Information
+Type
+
+
+Advanced
+Race
+
+
+Landbreakers
+Attack pattern
+
+None
+Location
+
+Ground
+
+
+The 
+Bonekrusher Pyromancer
+ is a 
+Advanced enemy
+ in 
+Arknights: Endfield
+.
+
+
+
+Enemy description
+A Landbreaker who can wield the Originium Arts of Evocation. Pyromancers are extremely dangerous as they can easily ignite the battlefield with their fiery arts.
+
+
+Contents
+
+
+
+
+1
+ 
+Overview
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Resistances
+
+
+1.3
+ 
+Distribution
+
+
+
+
+
+
+2
+ 
+Changelog
+
+
+3
+ 
+Navigation
+
+
+
+
+
+
+Overview
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+ HP
+
+
+761
+
+
+5465
+
+
+34578
+
+
+136127
+
+
+327446
+
+
+504440
+
+
+
+
+
+
+ ATK
+
+
+49
+
+
+233
+
+
+723
+
+
+1796
+
+
+2703
+
+
+3097
+
+
+
+
+
+
+ DEF
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+
+
+
+
+
+
+
+
+ Stagger HP
+
+
+ Stagger Recovery
+
+
+ Finisher ATK Mult
+
+
+ Finisher SP Gain
+
+
+
+
+
+
+160
+
+
+7 Seconds
+
+
+1.25x
+
+
+35
+
+
+
+
+
+
+
+
+
+
+ Attack Range
+
+
+ Weight
+
+
+
+
+
+
+7 Meters
+
+
+1.5
+
+
+
+
+
+
+
+
+
+
+Abilities
+
+
+
+
+
+
+
+
+This enemy has powerful ranged attacks that deal Heat DMG, but it has poor mobility.
+
+
+This enemy causes hazefyre to erupt from the ground to deal Heat DMG. Try to dodge the attack.
+
+
+Instantly teleports somewhere far away when opponents get too close.
+
+
+
+
+
+
+
+
+Resistances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1x
+
+
+0.5x
+
+
+1x
+
+
+1x
+
+
+1x
+
+
+1x
+
+
+
+
+
+
+Distribution
+
+
+
+
+
+
+Location(s)
+
+
+
+
+
+
+
+
+Commonly found in Valley IV
+
+
+
+
+
+
+
+
+
+
+
+
+Drops
+
+
+
+
+
+
+
+
+
+
+
+
+Changelog
+
+
+
+
+01/29 - Optimization & Quick Update Notice
+
+
+Reduced HP to 761, 5465, 34578, 136127, 327446, 504440 from 761, 6429, 40680, 136127, 327446, 504440
+
+
+
+
+Navigation
+
+
+View or edit this template
+Enemies
+Aggeloi
+
+
+Marble Aggelomoirai (palecore)
+
+
+Marble Aggelomoirai (palesent)
+
+
+Marble Appendage
+
+
+Triaggelos
+
+
+Tidalklast
+
+
+Walking Chrysopolis
+
+
+Effigy
+
+
+Sentinel
+
+
+Tidewalker
+
+
+Tidewalker δ
+
+
+Heavy Ram
+
+
+Heavy Ram α
+
+
+Heavy Sting
+
+
+Heavy Sting α
+
+
+Poison Ivy
+
+
+Falsewings
+
+
+Falsewings α
+
+
+Hedron
+
+
+Hedron δ
+
+
+Mudflow
+
+
+Mudflow δ
+
+
+Prism
+
+
+Ram
+
+
+Ram α
+
+
+Sting
+
+
+Sting α
+
+
+Landbreakers
+
+
+Rhodagn the Bonekrushing Fist
+
+
+Bonekrusher Ballista
+
+
+Bonekrusher Executioner
+
+
+Bonekrusher Siegeknuckles
+
+
+Elite Executioner
+
+
+Bonekrusher Arsonist
+
+
+Bonekrusher Pyromancer
+
+
+Bonekrusher Ambusher
+
+
+Bonekrusher Infiltrator
+
+
+Bonekrusher Raider
+
+
+Bonekrusher Ripptusk
+
+
+Bonekrusher Vanguard
+
+
+Elite Ambusher
+
+
+Elite Raider
+
+
+Elite Ripptusk
+
+
+Hazefyre Claw
+
+
+Hazefyre Tuskbeast
+
+
+Cangzei Pirates
+
+
+Grove Archer
+
+
+Road Plunderer
+
+
+Wildlife
+
+
+Axe Armorbeast
+
+
+Glaring Rakerbeast
+
+
+Hazefyre Axe Armorbeast
+
+
+Spotted Rakerbeast
+
+
+Imbued Quillbeast
+
+
+Quillbeast
+
+
+Tunneling Nidwyrm
+
+
+Acid Originium Slug
+
+
+Acid Originium Slug α
+
+
+Blazemist Originium Slug
+
+
+Brutal Pincerbeast
+
+
+Firemist Originium Slug
+
+
+Indigenous Pincerbeast
+
+
+Waterlamp
+
+
+
+
+
+
+
+
+

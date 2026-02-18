@@ -1,0 +1,808 @@
+URL: https://endfield.wiki.gg/wiki/Thunderberge
+
+Thunderberge
+Icon
+Full
+Max
+Internal name
+
+wpn_claym_0007
+In Other Languages
+Simplified Chinese
+
+
+大雷斑
+Traditional Chinese
+
+
+大雷斑
+Japanese
+
+
+大雷斑
+Korean
+
+
+천둥의 흔적
+Spanish
+
+
+Truenoberge
+Russian
+
+
+Громберг
+Information
+Type
+
+Great Sword
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+Thunderberge
+ is a 6★ 
+Great Sword
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+A specialized weapon manufactured by Endfield. The flamberge was furnished with interlaced Originium circuitry to enhance essence performance. This setup was inspired by various phenomenon observed on Talos.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+50
+
+
+145
+
+
+245
+
+
+345
+
+
+445
+
+
+495
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Medicant: Eye of Talos
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Thunderberge to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Thunderberge to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Thunderberge to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Thunderberge to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Strength Boost [L]
+
+
+
+HP Boost [L]
+
+
+
+Medicant: Eye of Talos
+
+
+
+
+
+
+
+
+
+Strength 
++20
+
+
+
+
+Max HP 
++10%
+
+
+
+
+Shield
+ applied 
++24%
+. After the wielder's combo skill provides HP treatment, the controlled operator gains an additional 
+[7%×Wielder's Max HP]
+ 
+Shield
+ for 15.00s. 
+Effect only triggers once every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++36
+
+
+
+
+Max HP 
++18%
+
+
+
+
+Shield
+ applied 
++28.8%
+. After the wielder's combo skill provides HP treatment, the controlled operator gains an additional 
+[8.4%×Wielder's Max HP]
+ 
+Shield
+ for 15.00s. 
+Effect only triggers once every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++52
+
+
+
+
+Max HP 
++26%
+
+
+
+
+Shield
+ applied 
++33.6%
+. After the wielder's combo skill provides HP treatment, the controlled operator gains an additional 
+[9.8%×Wielder's Max HP]
+ 
+Shield
+ for 15.00s. 
+Effect only triggers once every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++68
+
+
+
+
+Max HP 
++34%
+
+
+
+
+Shield
+ applied 
++38.4%
+. After the wielder's combo skill provides HP treatment, the controlled operator gains an additional 
+[11.2%×Wielder's Max HP]
+ 
+Shield
+ for 15.00s. 
+Effect only triggers once every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++84
+
+
+
+
+Max HP 
++42%
+
+
+
+
+Shield
+ applied 
++43.2%
+. After the wielder's combo skill provides HP treatment, the controlled operator gains an additional 
+[12.6%×Wielder's Max HP]
+ 
+Shield
+ for 15.00s. 
+Effect only triggers once every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++100
+
+
+
+
+Max HP 
++50%
+
+
+
+
+Shield
+ applied 
++48%
+. After the wielder's combo skill provides HP treatment, the controlled operator gains an additional 
+[14%×Wielder's Max HP]
+ 
+Shield
+ for 15.00s. 
+Effect only triggers once every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++116
+
+
+
+
+Max HP 
++58%
+
+
+
+
+Shield
+ applied 
++52.8%
+. After the wielder's combo skill provides HP treatment, the controlled operator gains an additional 
+[15.4%×Wielder's Max HP]
+ 
+Shield
+ for 15.00s. 
+Effect only triggers once every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++132
+
+
+
+
+Max HP 
++66%
+
+
+
+
+Shield
+ applied 
++57.6%
+. After the wielder's combo skill provides HP treatment, the controlled operator gains an additional 
+[16.8%×Wielder's Max HP]
+ 
+Shield
+ for 15.00s. 
+Effect only triggers once every 15.00s.
+
+
+
+
+
+
+
+
+
+
+Strength 
++156
+
+
+
+
+Max HP 
++78%
+
+
+
+
+Shield
+ applied 
++67.2%
+. After the wielder's combo skill provides HP treatment, the controlled operator gains an additional 
+[19.6%×Wielder's Max HP]
+ 
+Shield
+ for 15.00s. 
+Effect only triggers once every 15.00s.
+
+
+
+
+Basic Info
+
+
+She saw it more clearly than anyone else.
+Stepping through the gate was a journey that was a tad quicker than she had imagined. Her eyes saw illusions and indescribable colors while her skin felt unreal sensations brushing against it. There were flashes of dizziness, bursts of murmurings, and fragments from the past. These were quickly followed by a bitter cold of winter trailing into something even more frigid. Everything felt so real to her.
+She immediately asked everyone around and they gave her different answers. Some said it was over in a blink of an eye. Others panted with exhaustion and claimed that they were trapped in a stasis for days.
+She was curious about the things she saw, for curiosity was part of her nature. She spent hours memorizing the patches, lines, and irregular hues of color that covered them. Yet all of them remained ephemeral and meaningless like the whimsical daydreams of spring.
+Then she saw a gossamer-like beam and a clear glimpse of the starry skies unhindered by the Barrier.
+She witnessed Talos.
+Time did not bring sunrise to the polar regions of Talos-II. The huge, new world dominated everyone's view and it gripped her soul with a power that far exceeded the Arts of the Witch King himself. She could not avert her gaze. She could not have imagined how this natural-occurring astronomical entity enraptured her just as knowledge and wealth had seized her every attention. In fact, she was not sure if this view of the Universe could be classified as a natural phenomenon.
+She took her time to inspect Talos. It was a massive yet almost motionless orb veiled in pale blue and decorated with rings that resembled the fringes of petals, like lovely ribbons that she only saw from her aunt's sewing machine. As she looked on, she realized that the "motionlessness" of Talos was a visual trick it played on her. It moved at an almost imperceivable pace and shimmered ever so gently. She could hear the wind.
+However, the motions stopped quickly and Talos became an unmoving giant once more. Her heart raced as irregular explosions of thoughts, memories, and ideas surged through her mind. She remembered handing in her first Arts exam when she was still a girl and the moment when she completed her advanced studies at the Spire. She saw her parents, her mentor, the hand that reached out from the devastated ruins, and the flowing sands in the far distance. The last things she saw as she steadied her gait by the dark coastline were her own face, the skies of Leithanien, and childhood friends who counted the stars with her. All of them wore her own face.
+For the first time in her life, she felt the powerful impulse of passionate love. Her heart yearned for Talos and she would do anything to touch the giant.
+It was her belief that the giant celestial body was the knot that tied everything together.
+And these ties made the Originium flowing within her whisper into a chorus.
+That was the day when she stopped changing. She must become a long-lived one, like the world she had hopelessly fallen in love with.
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

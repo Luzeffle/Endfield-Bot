@@ -1,0 +1,813 @@
+URL: https://endfield.wiki.gg/wiki/Wedge
+
+Wedge
+Icon
+Full
+Max
+Internal name
+
+wpn_pistol_0008
+In Other Languages
+Simplified Chinese
+
+
+楔子
+Traditional Chinese
+
+
+楔子
+Japanese
+
+
+楔
+Korean
+
+
+쐐기
+Spanish
+
+
+Cuña
+Russian
+
+
+Клин
+Information
+Type
+
+Handcannon
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+Wedge
+ is a 6★ 
+Handcannon
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+A legendary work of Northmarch Support Hub that perfectly embodies the style and virtues of Northmarch weapons. Features devastating firepower, total reliability, and absolutely abysmal handling and recoil.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+51
+
+
+146
+
+
+247
+
+
+348
+
+
+449
+
+
+500
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Infliction: Wedge of Civilization
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Wedge to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Wedge to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Wedge to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Wedge to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Main Attribute Boost [L]
+
+
+
+Critical Rate Boost [L]
+
+
+
+Infliction: Wedge of Civilization
+
+
+
+
+
+
+
+
+
+Main attribute 
++17
+
+
+
+
+Critical Rate 
++2.5%
+
+
+
+
+Arts DMG Dealt 
++12%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++8%
+ for 15.00s. When the wielder's battle skill applies an 
+Arts Reaction
+, the wielder gains Arts DMG Dealt 
++16%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++30
+
+
+
+
+Critical Rate 
++4.5%
+
+
+
+
+Arts DMG Dealt 
++14.4%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++9.6%
+ for 15.00s. When the wielder's battle skill applies an 
+Arts Reaction
+, the wielder gains Arts DMG Dealt 
++19.2%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++44
+
+
+
+
+Critical Rate 
++6.5%
+
+
+
+
+Arts DMG Dealt 
++16.8%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++11.2%
+ for 15.00s. When the wielder's battle skill applies an 
+Arts Reaction
+, the wielder gains Arts DMG Dealt 
++22.4%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++57
+
+
+
+
+Critical Rate 
++8.5%
+
+
+
+
+Arts DMG Dealt 
++19.2%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++12.8%
+ for 15.00s. When the wielder's battle skill applies an 
+Arts Reaction
+, the wielder gains Arts DMG Dealt 
++25.6%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++71
+
+
+
+
+Critical Rate 
++10.5%
+
+
+
+
+Arts DMG Dealt 
++21.6%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++14.4%
+ for 15.00s. When the wielder's battle skill applies an 
+Arts Reaction
+, the wielder gains Arts DMG Dealt 
++28.8%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++85
+
+
+
+
+Critical Rate 
++12.5%
+
+
+
+
+Arts DMG Dealt 
++24%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++16%
+ for 15.00s. When the wielder's battle skill applies an 
+Arts Reaction
+, the wielder gains Arts DMG Dealt 
++32%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++98
+
+
+
+
+Critical Rate 
++14.5%
+
+
+
+
+Arts DMG Dealt 
++26.4%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++17.6%
+ for 15.00s. When the wielder's battle skill applies an 
+Arts Reaction
+, the wielder gains Arts DMG Dealt 
++35.2%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++112
+
+
+
+
+Critical Rate 
++16.5%
+
+
+
+
+Arts DMG Dealt 
++28.8%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++19.2%
+ for 15.00s. When the wielder's battle skill applies an 
+Arts Reaction
+, the wielder gains Arts DMG Dealt 
++38.4%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++132
+
+
+
+
+Critical Rate 
++19.5%
+
+
+
+
+Arts DMG Dealt 
++33.6%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++22.4%
+ for 15.00s. When the wielder's battle skill applies an 
+Arts Reaction
+, the wielder gains Arts DMG Dealt 
++44.8%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+Basic Info
+
+
+"We're the wedge that was hammered into Talos-II." Mama always said those words.
+When I was a kid, Mama always gave me a strong, tight hug after coming back from her shift. I kept telling her to change out of her crew outfit first. I felt I wasn't getting hugged by mom. I was getting crushed by a hardware store and always ended up with a mess of sore, reddish imprints of hammers, pliers, wrenches, and even a big blasted handcannon on me.
+And then she bought me those friggin' buggly toys, you know. I've been seeing actual cranes, drill crawlers, dumpster trucks, crushers, and pile drivers in real life. I saw entire fleets of steel giants heading north every friggin' day and every friggin' year of my childhood. I did not want mini and fake versions of them in my toybox.
+And mama never treated this world as "home". She never stopped saying: "Talos-II is just too dangerous. We'll never make this our place."
+I'm a Talosian, born and raised, and could never really understand why she never stopped complaining. Yet those words left an imprint on me, like those hardware tools she carried when she gave me those powerful, crushing hugs. I never knew what "imprints" meant back then.
+Then came a day when mama failed to come back from the north. Uncle Walther gave me her outfit. Them laundry crew didn't wash it right and it still had this dark bloodstain on the collar. I held it tight to feel the familiar coarseness of the fabrics and the cold, hardness of her tools. And then I found that blasted handcannon — the big iron responsible for all those painful imprints I suffered. The thing sported a new dent beneath the barrel.
+She emptied the magazine and then slapped an Aggelos real good with that big slab of iron.
+I asked Uncle Walther to cast me a new barrel and furnish it with a chain cutter. I also got mama's position when another convoy roared for the north.
+'Cause I'm the hardest wedge to be hammered into Talos-II.
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

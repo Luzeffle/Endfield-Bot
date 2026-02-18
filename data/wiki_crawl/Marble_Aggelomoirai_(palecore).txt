@@ -1,0 +1,601 @@
+URL: https://endfield.wiki.gg/wiki/Marble_Aggelomoirai_(palecore)
+
+Marble Aggelomoirai (palecore)
+Internal name
+
+eny_0061_palecore
+In Other Languages
+Simplified Chinese
+
+
+白垩界卫
+Traditional Chinese
+
+
+白堊界衛
+Japanese
+
+
+白亜・アンゲロミラ
+Korean
+
+
+마블 아겔로미레
+Spanish
+
+
+Aggelomoirai de mármol
+Russian
+
+
+Мраморная аггел-мойра
+General Information
+Type
+
+
+Boss
+Race
+
+
+Aggeloi
+Attack pattern
+
+None
+Location
+
+Ground
+
+
+The 
+Marble Aggelomoirai (palecore)
+ is a 
+Boss enemy
+ in 
+Arknights: Endfield
+. Alternate form(s): 
+Marble Aggelomoirai (palesent)
+
+
+
+
+Enemy description
+NO PREVIOUS RECORDS. This has been classified as an Aggelos due to the nature of its formation. Though its morphic modules were re-assembled, the entity continues to mimic Nefarith's appearance. No satisfactory explanations have been proposed for this phenomenon.
+
+
+Contents
+
+
+
+
+1
+ 
+Overview
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Resistances
+
+
+1.3
+ 
+Distribution
+
+
+
+
+
+
+2
+ 
+Changelog
+
+
+3
+ 
+Navigation
+
+
+
+
+
+
+Overview
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+ HP
+
+
+2077
+
+
+14903
+
+
+94303
+
+
+371256
+
+
+893035
+
+
+1375745
+
+
+
+
+
+
+ ATK
+
+
+33
+
+
+155
+
+
+482
+
+
+1198
+
+
+1802
+
+
+2065
+
+
+
+
+
+
+ DEF
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+
+
+
+
+
+
+
+
+ Stagger HP
+
+
+ Stagger Recovery
+
+
+ Finisher ATK Mult
+
+
+ Finisher SP Gain
+
+
+
+
+
+
+200
+
+
+24 Seconds
+
+
+1.75x
+
+
+100
+
+
+
+
+
+
+
+
+
+
+ Attack Range
+
+
+ Weight
+
+
+
+
+
+
+12 Meters
+
+
+2
+
+
+
+
+
+
+
+
+
+
+Abilities
+
+
+
+
+
+
+
+
+Defeat all Marble Appendages to force the dormant Marble Aggelomoirai to temporarily expose its vulnerable core to the attack.
+
+
+
+
+
+
+
+
+Resistances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1x
+
+
+1x
+
+
+1x
+
+
+1x
+
+
+1x
+
+
+1x
+
+
+
+
+
+
+Distribution
+
+
+
+
+
+
+Location(s)
+
+
+
+
+
+
+
+
+Power Plateau
+
+
+
+
+
+
+
+
+
+
+
+
+Drops
+
+
+
+
+
+
+
+
+
+
+
+
+Changelog
+
+
+
+
+01/29 - Optimization & Quick Update Notice
+
+
+Reduced HP to 2077, 14903, 94303, 371256, 893035, 1375745 from 2077, 17533, 110944, 371256, 893035, 1375745
+
+
+
+
+Navigation
+
+
+View or edit this template
+Enemies
+Aggeloi
+
+
+Marble Aggelomoirai (palecore)
+
+
+Marble Aggelomoirai (palesent)
+
+
+Marble Appendage
+
+
+Triaggelos
+
+
+Tidalklast
+
+
+Walking Chrysopolis
+
+
+Effigy
+
+
+Sentinel
+
+
+Tidewalker
+
+
+Tidewalker δ
+
+
+Heavy Ram
+
+
+Heavy Ram α
+
+
+Heavy Sting
+
+
+Heavy Sting α
+
+
+Poison Ivy
+
+
+Falsewings
+
+
+Falsewings α
+
+
+Hedron
+
+
+Hedron δ
+
+
+Mudflow
+
+
+Mudflow δ
+
+
+Prism
+
+
+Ram
+
+
+Ram α
+
+
+Sting
+
+
+Sting α
+
+
+Landbreakers
+
+
+Rhodagn the Bonekrushing Fist
+
+
+Bonekrusher Ballista
+
+
+Bonekrusher Executioner
+
+
+Bonekrusher Siegeknuckles
+
+
+Elite Executioner
+
+
+Bonekrusher Arsonist
+
+
+Bonekrusher Pyromancer
+
+
+Bonekrusher Ambusher
+
+
+Bonekrusher Infiltrator
+
+
+Bonekrusher Raider
+
+
+Bonekrusher Ripptusk
+
+
+Bonekrusher Vanguard
+
+
+Elite Ambusher
+
+
+Elite Raider
+
+
+Elite Ripptusk
+
+
+Hazefyre Claw
+
+
+Hazefyre Tuskbeast
+
+
+Cangzei Pirates
+
+
+Grove Archer
+
+
+Road Plunderer
+
+
+Wildlife
+
+
+Axe Armorbeast
+
+
+Glaring Rakerbeast
+
+
+Hazefyre Axe Armorbeast
+
+
+Spotted Rakerbeast
+
+
+Imbued Quillbeast
+
+
+Quillbeast
+
+
+Tunneling Nidwyrm
+
+
+Acid Originium Slug
+
+
+Acid Originium Slug α
+
+
+Blazemist Originium Slug
+
+
+Brutal Pincerbeast
+
+
+Firemist Originium Slug
+
+
+Indigenous Pincerbeast
+
+
+Waterlamp
+
+
+
+
+
+
+
+
+

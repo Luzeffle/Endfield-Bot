@@ -1,0 +1,866 @@
+URL: https://endfield.wiki.gg/wiki/OBJ_Razorhorn
+
+OBJ Razorhorn
+Icon
+Full
+Max
+File:OBJ Razorhorn.png
+File:OBJ Razorhorn max model.png
+Internal name
+
+wpn_lance_0013
+In Other Languages
+Simplified Chinese
+
+
+O.B.J.尖峰
+Traditional Chinese
+
+
+O.B.J.尖峰
+Japanese
+
+
+O.B.J.鋭矛
+Korean
+
+
+O.B.J. 스파이크
+Spanish
+
+
+OBJ Cuerno afilado
+Russian
+
+
+OBJ Рог-бритва
+Information
+Type
+
+Polearm
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+OBJ Razorhorn
+ is a 5★ 
+Polearm
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+A standard weapon produced by Endfield Industries. Design is provided by the Creative Prototyping Team founded by Senior Arsenal Engineer Opero. Wielders are free to make their own adjustments to the spearhead module.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+42
+
+
+120
+
+
+203
+
+
+286
+
+
+369
+
+
+411
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Infliction: Conquest of Icy Peaks
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise OBJ Razorhorn to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise OBJ Razorhorn to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise OBJ Razorhorn to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise OBJ Razorhorn to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Will Boost [M]
+
+
+
+Physical DMG Boost [M]
+
+
+
+Infliction: Conquest of Icy Peaks
+
+
+
+
+
+
+
+
+
+Will 
++16
+
+
+
+
+Physical DMG Dealt 
++4.44%
+
+
+
+
+To enemies with 
+Cryo Infliction
+ or 
+Solidification
+, the wielder gains DMG Dealt 
++8%
+. After 
+consuming
+ 
+Solidification
+, ATK 
++12%
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Will 
++28
+
+
+
+
+Physical DMG Dealt 
++8%
+
+
+
+
+To enemies with 
+Cryo Infliction
+ or 
+Solidification
+, the wielder gains DMG Dealt 
++9.6%
+. After 
+consuming
+ 
+Solidification
+, ATK 
++14.4%
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Will 
++41
+
+
+
+
+Physical DMG Dealt 
++11.56%
+
+
+
+
+To enemies with 
+Cryo Infliction
+ or 
+Solidification
+, the wielder gains DMG Dealt 
++11.2%
+. After 
+consuming
+ 
+Solidification
+, ATK 
++16.8%
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Will 
++54
+
+
+
+
+Physical DMG Dealt 
++15.11%
+
+
+
+
+To enemies with 
+Cryo Infliction
+ or 
+Solidification
+, the wielder gains DMG Dealt 
++12.8%
+. After 
+consuming
+ 
+Solidification
+, ATK 
++19.2%
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Will 
++67
+
+
+
+
+Physical DMG Dealt 
++18.67%
+
+
+
+
+To enemies with 
+Cryo Infliction
+ or 
+Solidification
+, the wielder gains DMG Dealt 
++14.4%
+. After 
+consuming
+ 
+Solidification
+, ATK 
++21.6%
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Will 
++80
+
+
+
+
+Physical DMG Dealt 
++22.22%
+
+
+
+
+To enemies with 
+Cryo Infliction
+ or 
+Solidification
+, the wielder gains DMG Dealt 
++16%
+. After 
+consuming
+ 
+Solidification
+, ATK 
++24%
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Will 
++92
+
+
+
+
+Physical DMG Dealt 
++25.78%
+
+
+
+
+To enemies with 
+Cryo Infliction
+ or 
+Solidification
+, the wielder gains DMG Dealt 
++17.6%
+. After 
+consuming
+ 
+Solidification
+, ATK 
++26.4%
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Will 
++105
+
+
+
+
+Physical DMG Dealt 
++29.33%
+
+
+
+
+To enemies with 
+Cryo Infliction
+ or 
+Solidification
+, the wielder gains DMG Dealt 
++19.2%
+. After 
+consuming
+ 
+Solidification
+, ATK 
++28.8%
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Will 
++124
+
+
+
+
+Physical DMG Dealt 
++34.67%
+
+
+
+
+To enemies with 
+Cryo Infliction
+ or 
+Solidification
+, the wielder gains DMG Dealt 
++22.4%
+. After 
+consuming
+ 
+Solidification
+, ATK 
++33.6%
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+Basic Info
+
+
+He had imagined his reunion with Ludson Walker countless times —
+Maybe Mr. Walker could be hired as a military consultant for some New Wrankwood war movie and receive both respect and questions from the movie crew. Maybe Mr. Walker could appear before the library of Morospolis as a representative of the Order of Steel Oath and talk about an Oathkeeper's life with young UW crew mates. Maybe...
+There were countless possibilities, all of them fitting for his fellow Oathkeeper, the "rising star" of the Order, and the glorious soldier who always fought at the very front. But the actual reunion was the complete opposite —
+He saw the man who resembled Ludson on a coach to La Fantoma. "Ludson" carried an electric guitar on his back. He sighed at a poster for the Obsidian Festival as though he encountered a major problem. Perhaps he misread the coach schedules.
+To ensure he only "mistook another person for an old comrade", he approached the middle-aged man and performed a standard salute, hoping to get or see "what the hell" or "friggin' nutcase" from the man. Unfortunately, his hopes were dashed when the man's face transformed to be a joyous surprise and shouted out his name.
+"Bucky?! Is that you?!"
+The middle-aged man who resembled Ludson ... happened to be Ludson himself. He counted the number of people throughout Talos-II who would call him "Bucky". That number was no more than five.
+"Geesh, how many years have passed since we last met...?" Ludson looked seriously engaged in the counting and sighed heavily when he arrived at the figures, "Ugh. Close to twenty years! Time really does fly..."
+Bucky nodded and before he could think of a proper response, Ludson continued his nostalgia.
+"You're the one in our banner who always talked about getting a discharge... I even made a bet with Vincent and friends if you'd be the first to pack and scamper home.
+"And I lost the entire thing! Vincent, that sorry sod, was the first to quit. He..."
+"Wha...? WHY?" Bucky could not help but interrupt, "What happened to the saying, 'I'd only leave my life upon the fields of war'...?"
+— Even the most experienced hero and veteran did not make it to the last.
+Ludson became silent, his smile suddenly froze on his face. The middle-aged man who gripped the music festival poster in his hands only continued to speak after a pause.
+"I never thought you'd be the first to ask me that question... Even the Castellan stayed silent when I submitted my discharge papers.
+"But if you really want an explanation — I just gotta say... I found myself started getting the frights.
+"I started to fear recon missions in the exclusion zones beyond the Aurora. The endless horde of buggers that grew tougher by the day began to scare me... I don't want to face them anymore...
+"I felt it... I felt the virtue of 'courage' slipping away from my body and I couldn't find anyways to keep it within me. There will come a day when I grow too weak to even hold on to it.
+"And since I couldn't hold on to my guts and balls, I might as well say my goodbyes in an honorable fashion. Voluntary discharge was my way... I don't want to wake up shaking like a spineless deserter pissing myself in a cave after running away from a rock bugger I can't beat."
+"...But what's this? Why are you carrying an electric guitar?"
+With that question, 46-year old Ludson Walker gave his signature smile of radiance that he always wore 20 years ago.
+"This? Oh, it's a wonderful weapon that I found myself pretty good at.
+"It still sputters occasionally, but it works for me and my comrades...
+"My toy and my band mates are pretty accommodating. When I'm not a guitarist for a third-rate heavy metal band you've never heard of, I can still think about which of these guitar strings I can use to strangle a buggerloid and twist its blighted head off."
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

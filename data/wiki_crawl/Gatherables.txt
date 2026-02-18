@@ -1,0 +1,252 @@
+URL: https://endfield.wiki.gg/wiki/Item/Gatherables
+
+
+
+
+
+Items
+
+
+
+
+
+
+Progression Materials
+
+
+
+
+Naturals
+
+
+
+
+Gatherables
+
+
+
+
+Valuables
+
+
+
+
+
+
+AIC Products
+
+
+
+
+Usables
+
+
+
+
+Functionals
+
+
+
+
+Gifts
+
+
+
+
+Gatherables are items that can typically be found by defeating 
+enemies
+ in the overworld.
+
+
+
+Contents
+
+
+
+
+1
+ 
+Aggagrit
+
+
+2
+ 
+Bits
+
+
+3
+ 
+Soaked Wood
+
+
+4
+ 
+Hollow Bone
+
+
+5
+ 
+Bugs
+
+
+
+
+
+
+Aggagrit
+
+
+Stones that somehow emit edible ingredients, Aggagrit items are obtained after defeating 
+Aggeloi
+-type enemies, with the amount and rarity depends on the Area Status.
+
+
+
+Item "
+Aggagrit
+" not found in database
+
+
+Item "
+Aggagrit Block
+" not found in database
+
+
+Item "
+Aggagrit Cluster
+" not found in database
+
+
+Bits
+
+
+Remains of plants or animals filled into cans, Bits items are obtained after defeating 
+Landbreaker
+-type enemies, with the amount and rarity depends on the Area Status.
+
+
+
+Item "
+Grass Chaff
+" not found in database
+
+
+Item "
+Chitin Bit
+" not found in database
+
+
+ 
+Cartilage Bit
+
+
+Soaked Wood
+
+
+Wood soaked in spring and no longer usable for weapons but for food, Soaked Wood items are obtained after defeating 
+Cangzai Pirate
+-type enemies, with the amount and rarity depends on the Area Status.
+
+
+
+Item "
+Soaked Woodchip
+" not found in database
+
+
+Item "
+Soaked Wood
+" not found in database
+
+
+Hollow Bone
+
+
+Bones affected by the 
+Blight
+, Hollow Bone items are obtained after defeating Blighted enemies, with the amount and rarity depends on the Area Status.
+
+
+
+Item "
+Hollow Bonechip
+" not found in database
+
+
+Item "
+Hollow Bone
+" not found in database
+
+
+Bugs
+
+
+Special bugs that resembles ladybugs, Bugs are unique to other Gatherables, being 
+not
+ obtainable from defeating enemies, but from gathering instead.
+
+
+
+ 
+Glowbug
+
+
+ 
+Scorchbug
+
+
+
+
+
+
+Tier 1
+Item "
+Aggagrit
+" not found in database
+Item "
+Grass Chaff
+" not found in database
+
+
+
+
+
+
+Tier 2
+Item "
+Aggagrit Block
+" not found in database
+Item "
+Chitin Bit
+" not found in database
+Item "
+Soaked Woodchip
+" not found in database
+Item "
+Hollow Bonechip
+" not found in database
+
+
+
+
+
+
+Tier 3
+Item "
+Aggagrit Cluster
+" not found in database
+Item "
+Soaked Wood
+" not found in database
+Item "
+Hollow Bone
+" not found in database
+
+
+
+
+
+
+
+
+

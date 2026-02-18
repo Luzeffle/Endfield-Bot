@@ -1,0 +1,848 @@
+URL: https://endfield.wiki.gg/wiki/Mountain_Bearer
+
+Mountain Bearer
+Icon
+Full
+Max
+Internal name
+
+wpn_lance_0012
+In Other Languages
+Simplified Chinese
+
+
+负山
+Traditional Chinese
+
+
+負山
+Japanese
+
+
+負山
+Korean
+
+
+산의 지배자
+Spanish
+
+
+Portador de montañas
+Russian
+
+
+Хранитель Горы
+Information
+Type
+
+Polearm
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+Mountain Bearer
+ is a 6★ 
+Polearm
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+An experimental lance developed by Hongshan Swordmancers. The shaft of the weapon was forged using a special alloy to achieve both strength and resilience.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+51
+
+
+146
+
+
+247
+
+
+348
+
+
+449
+
+
+500
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Efficacy: Weight of Mountain
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Mountain Bearer to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Mountain Bearer to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Mountain Bearer to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Mountain Bearer to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Agility Boost [L]
+
+
+
+Physical DMG Boost [L]
+
+
+
+Efficacy: Weight of Mountain
+
+
+
+
+
+
+
+
+
+Agility 
++20
+
+
+
+
+Physical DMG Dealt 
++5.56%
+
+
+
+
+Against 
+Vulnerable
+ enemies, the wielder gains DMG Dealt 
++20%
+. When the wielder's battle skill applies 
+Vulnerability
+, the wielder gains All Attributes 
++8%
+ for 15.00s. When the wielder's battle skill applies 
+Physical Susceptibility
+, the wielder gains All Attributes 
++8%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Agility 
++36
+
+
+
+
+Physical DMG Dealt 
++10%
+
+
+
+
+Against 
+Vulnerable
+ enemies, the wielder gains DMG Dealt 
++24%
+. When the wielder's battle skill applies 
+Vulnerability
+, the wielder gains All Attributes 
++9.6%
+ for 15.00s. When the wielder's battle skill applies 
+Physical Susceptibility
+, the wielder gains All Attributes 
++9.6%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Agility 
++52
+
+
+
+
+Physical DMG Dealt 
++14.44%
+
+
+
+
+Against 
+Vulnerable
+ enemies, the wielder gains DMG Dealt 
++28%
+. When the wielder's battle skill applies 
+Vulnerability
+, the wielder gains All Attributes 
++11.2%
+ for 15.00s. When the wielder's battle skill applies 
+Physical Susceptibility
+, the wielder gains All Attributes 
++11.2%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Agility 
++68
+
+
+
+
+Physical DMG Dealt 
++18.89%
+
+
+
+
+Against 
+Vulnerable
+ enemies, the wielder gains DMG Dealt 
++32%
+. When the wielder's battle skill applies 
+Vulnerability
+, the wielder gains All Attributes 
++12.8%
+ for 15.00s. When the wielder's battle skill applies 
+Physical Susceptibility
+, the wielder gains All Attributes 
++12.8%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Agility 
++84
+
+
+
+
+Physical DMG Dealt 
++23.33%
+
+
+
+
+Against 
+Vulnerable
+ enemies, the wielder gains DMG Dealt 
++36%
+. When the wielder's battle skill applies 
+Vulnerability
+, the wielder gains All Attributes 
++14.4%
+ for 15.00s. When the wielder's battle skill applies 
+Physical Susceptibility
+, the wielder gains All Attributes 
++14.4%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Agility 
++100
+
+
+
+
+Physical DMG Dealt 
++27.78%
+
+
+
+
+Against 
+Vulnerable
+ enemies, the wielder gains DMG Dealt 
++40%
+. When the wielder's battle skill applies 
+Vulnerability
+, the wielder gains All Attributes 
++16%
+ for 15.00s. When the wielder's battle skill applies 
+Physical Susceptibility
+, the wielder gains All Attributes 
++16%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Agility 
++116
+
+
+
+
+Physical DMG Dealt 
++32.22%
+
+
+
+
+Against 
+Vulnerable
+ enemies, the wielder gains DMG Dealt 
++44%
+. When the wielder's battle skill applies 
+Vulnerability
+, the wielder gains All Attributes 
++17.6%
+ for 15.00s. When the wielder's battle skill applies 
+Physical Susceptibility
+, the wielder gains All Attributes 
++17.6%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Agility 
++132
+
+
+
+
+Physical DMG Dealt 
++36.67%
+
+
+
+
+Against 
+Vulnerable
+ enemies, the wielder gains DMG Dealt 
++48%
+. When the wielder's battle skill applies 
+Vulnerability
+, the wielder gains All Attributes 
++19.2%
+ for 15.00s. When the wielder's battle skill applies 
+Physical Susceptibility
+, the wielder gains All Attributes 
++19.2%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Agility 
++156
+
+
+
+
+Physical DMG Dealt 
++43.33%
+
+
+
+
+Against 
+Vulnerable
+ enemies, the wielder gains DMG Dealt 
++56%
+. When the wielder's battle skill applies 
+Vulnerability
+, the wielder gains All Attributes 
++22.4%
+ for 15.00s. When the wielder's battle skill applies 
+Physical Susceptibility
+, the wielder gains All Attributes 
++22.4%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+Basic Info
+
+
+My ancestor was a well-learned man who lived at Shangshu. During one of his journeys, he encountered a sudden downpour that forced him to seek shelter beneath the cliffs. He made a warming fire with dried grass, and was about to sleep when he saw a strange individual wearing jet-black clothing. The entity had no eyes nor mouth and its arm was joined to the mountain itself. My ancestor thus asked this strange entity: "Sir, why is your arm joined with the rock?" 
+The strange being replied: 
+"I once lived in Baizao. One day, I dreamed of a tiny figure dressed in yellow who stood in the middle of my palm and it asked me about the weight of human life. 'It is heavier than the mountains.' I answered.
+"The tiny figure smiled and replied: 'And I am the Ruler of the Kingdom in the Palm.' And with that, the tiny figure disappeared and was never seen again. I did not want to overturn its kingdom, and thus I placed my hand upon this very place and did not move it for a century. As the years passed, a great mountain gradually rose from my palm. You are looking at it right now."
+My ancestor was confused and asked: "You are a kind and caring soul, but why allow yourself to be trapped here for so long? Your concerns are genuine and true, but why don't you severe your hand and be freed from this place?"
+The strange being mused: "I do not know which weighs more — the Kingdom Upon the Palm, or the Palm Before My Wrist. Perhaps if I found the answer, I would be able to bear the weight of this mountain and travel with it."
+The strange being then continued: "Now, leave me in peace, and you shall have yours." With that, my ancestor fell asleep. Dawn broke, but the strange being was not seen again. 
+I also heard about a herb that goes by the name Zhenhuang. The grass is mildly toxic and burning it generates hallucinogenic fumes. Perhaps this ancestor of mine had breathed in a whiff too many!
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,788 @@
+URL: https://endfield.wiki.gg/wiki/OBJ_Edge_of_Lightness
+
+OBJ Edge of Lightness
+Icon
+Full
+Max
+File:OBJ Edge of Lightness.png
+File:OBJ Edge of Lightness max model.png
+Internal name
+
+wpn_sword_0019
+In Other Languages
+Simplified Chinese
+
+
+O.B.J.轻芒
+Traditional Chinese
+
+
+O.B.J.輕芒
+Japanese
+
+
+O.B.J.軽刃
+Korean
+
+
+O.B.J. 엣지 오브 라이트
+Spanish
+
+
+'OBJ Filo de la ligereza
+Russian
+
+
+OBJ Клинок света
+Information
+Type
+
+Sword
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+OBJ Edge of Lightness
+ is a 5★ 
+Sword
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+A standard weapon produced by Endfield Industries. Design is provided by the Creative Prototyping Team founded by Senior Arsenal Engineer Opero. The hilt features auxiliary modules that can be taken off.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+42
+
+
+120
+
+
+203
+
+
+286
+
+
+369
+
+
+411
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Flow: Unbridled Edge
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise OBJ Edge of Lightness to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise OBJ Edge of Lightness to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise OBJ Edge of Lightness to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise OBJ Edge of Lightness to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Agility Boost [M]
+
+
+
+ATK Boost [M]
+
+
+
+Flow: Unbridled Edge
+
+
+
+
+
+
+
+
+
+Agility 
++16
+
+
+
+
+Attack 
++4%
+
+
+
+
+Secondary Attribute 
++5%
+. After the wielder's skill recovers SP, the entire team gains Heat DMG Dealt and Electric DMG Dealt 
++3%
+ for 20.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately.
+
+
+
+
+
+
+
+
+
+
+Agility 
++28
+
+
+
+
+Attack 
++7.2%
+
+
+
+
+Secondary Attribute 
++6%
+. After the wielder's skill recovers SP, the entire team gains Heat DMG Dealt and Electric DMG Dealt 
++3.6%
+ for 20.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately.
+
+
+
+
+
+
+
+
+
+
+Agility 
++41
+
+
+
+
+Attack 
++10.4%
+
+
+
+
+Secondary Attribute 
++7%
+. After the wielder's skill recovers SP, the entire team gains Heat DMG Dealt and Electric DMG Dealt 
++4.2%
+ for 20.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately.
+
+
+
+
+
+
+
+
+
+
+Agility 
++54
+
+
+
+
+Attack 
++13.6%
+
+
+
+
+Secondary Attribute 
++8%
+. After the wielder's skill recovers SP, the entire team gains Heat DMG Dealt and Electric DMG Dealt 
++4.8%
+ for 20.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately.
+
+
+
+
+
+
+
+
+
+
+Agility 
++67
+
+
+
+
+Attack 
++16.8%
+
+
+
+
+Secondary Attribute 
++9%
+. After the wielder's skill recovers SP, the entire team gains Heat DMG Dealt and Electric DMG Dealt 
++5.4%
+ for 20.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately.
+
+
+
+
+
+
+
+
+
+
+Agility 
++80
+
+
+
+
+Attack 
++20%
+
+
+
+
+Secondary Attribute 
++10%
+. After the wielder's skill recovers SP, the entire team gains Heat DMG Dealt and Electric DMG Dealt 
++6%
+ for 20.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately.
+
+
+
+
+
+
+
+
+
+
+Agility 
++92
+
+
+
+
+Attack 
++23.2%
+
+
+
+
+Secondary Attribute 
++11%
+. After the wielder's skill recovers SP, the entire team gains Heat DMG Dealt and Electric DMG Dealt 
++6.6%
+ for 20.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately.
+
+
+
+
+
+
+
+
+
+
+Agility 
++105
+
+
+
+
+Attack 
++26.4%
+
+
+
+
+Secondary Attribute 
++12%
+. After the wielder's skill recovers SP, the entire team gains Heat DMG Dealt and Electric DMG Dealt 
++7.2%
+ for 20.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately.
+
+
+
+
+
+
+
+
+
+
+Agility 
++124
+
+
+
+
+Attack 
++31.2%
+
+
+
+
+Secondary Attribute 
++14%
+. After the wielder's skill recovers SP, the entire team gains Heat DMG Dealt and Electric DMG Dealt 
++8.4%
+ for 20.00s. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately.
+
+
+
+
+Basic Info
+
+
+...Let me get this straight. Your team lost to Z7 in the combat drill 'cause you didn't graduate from a military school and Lil' Dodge wasn't your instructor?
+Enough excuses, kid. I trained tons of raw recruits like you and I totally lost count on the number of losers who hamstring themselves by boo-hooing about their sad backstories.
+Look at your face! Do you think I'm gonna give you a motivational story how a missing degree or diploma isn't that important? HAH! WRONG! I'm your friggin' instructor, not your pathetic shrink! I'm not going to make you feel good about your academic failures!
+Since we mentioned degrees, then I gotta say — it's actually pretty important.
+But if you're missing one, there are solutions to go about it.
+I became an instructor after all. Guess how I did it?
+WRONG AGAIN! I, Sato Kogo, never read a proper book in my life. In fact, I only learned how to write in Victorian thanks to courses offered aboard Dijiang. When I was your age, I was just a bummed out debt collector in Neo Tsukushi!
+Wha? Don't you know what a debt collector is...? Ugh. Forget it. I'll put it simply. Hired muscle. That was my job.
+So did that for about three or four years. I was either bruising people or getting bruised myself. As long as someone paid the creds, it didn't really matter to me.
+I was in my twenties and I thought I'd be doing that for the rest of my life... I never expected something big to happen.
+Oh yes... Stepped on a few toes. The wrong tail, actually. Not some cartel security firm, but an actual big shot oyabun.
+Ugh. This is exactly why I kept telling you to pay attention to the surroundings when you fight. I learned it the very hard way, so at least take this from me.
+Weather was great that day. I besieged that gambling den with two dozen bros from the organization. There were just around eight people on the other side and I thought it would be a cakewalk.
+But those dudes fought like beasts in heat. Half of the lads were down in a heartbeat. I was out of ideas but I couldn't just leave my bros behind. So I came up with the clever idea of using the revolving doors...
+How did I do it? Well, i simply undid the security latch and got it spinning... Anyways, I got two enemies down in an instant. Some of the bros started helping and we sent the rest of them packing.
+There was one thing I miscalculated. The revolving door was connected to the one upstairs. Now that wouldn't sound like a thing but my boss suddenly got the bright idea of enjoying the spectacle. Suffice to say, his tail got caught — Boss man was also a Lupo and you know what they do when somebody messes with their tail.
+What happened next? Geesh. Do I have to spell it out? I escaped to the frontiers before they gave me cement shoes! I slogged two years in trucking, four in janitorial work, and three in bounty hunting. My liver was dying on me and luck finally turned when I arrived at Endfield — Some old client wrote me a recommendation. Thank the Big Gas for that.
+Alright. Your turn. Tell me about your plans on beating Z7 next time?
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

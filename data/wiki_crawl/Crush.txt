@@ -1,0 +1,210 @@
+URL: https://endfield.wiki.gg/wiki/Crush
+
+Under Construction
+This page is under construction and may be incomplete or subject to change.
+
+
+
+
+Crush
+ is a 
+Physical Status
+ in 
+Arknights: Endfield
+.
+
+
+
+Contents
+
+
+
+
+1
+ 
+Effect
+
+
+2
+ 
+Sources
+
+
+3
+ 
+Interactions
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Effect
+
+
+Trying to apply 
+Crush
+ to an enemy adds 1 stack of 
+Vulnerable
+. If the enemy already has 
+Vulnerable
+ stacks, the actual Physical Status of Crush is triggered: All 
+Vulnerable
+ are 
+consumed
+ to deal 
+Physical DMG
+. The amount of damage done depends on the number of Vulnerable stacks consumed. The damage done also depends on the ATK, Arts Intensity and Physical DMG Bonus of the 
+Operator
+ that triggered the Physical Status.
+
+
+
+
+
+Crush
+
+
+
+
+
+Vulnerable stacks consumed
+
+
+
+DMG multiplier
+
+
+
+
+
+1
+
+
+
+300%
+
+
+
+
+
+2
+
+
+
+450%
+
+
+
+
+
+3
+
+
+
+600%
+
+
+
+
+
+4
+
+
+
+750%
+
+
+
+Sources
+
+
+Applying 
+Crush
+ to an enemy with 
+Vulnerable
+ stacks triggers Crush. Sources of Crush are:
+
+
+
+Interactions
+
+
+Navigation
+View or edit this template
+Arknights: Endfield
+ combat mechanics
+General
+
+
+Damage
+
+
+Skill Points
+
+
+Ultimate Energy
+
+
+Attribute
+
+
+Physical
+
+
+Vulnerable
+
+
+Lift
+
+
+Knock Down
+
+
+Crush
+
+
+Breach
+
+
+Arts
+Arts Infliction
+
+
+Heat Infliction
+
+
+Electric Infliction
+
+
+Cryo Infliction
+
+
+Nature Infliction
+
+
+Arts Reaction
+
+
+Combustion
+
+
+Electrification
+
+
+Solidification
+
+
+Corrosion
+
+
+
+
+
+
+

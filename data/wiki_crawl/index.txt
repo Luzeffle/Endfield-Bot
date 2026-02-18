@@ -1,0 +1,907 @@
+URL: https://endfield.wiki.gg/
+
+ Welcome to the Endfield Talos Wiki, Endministrator! 
+
+
+Official links:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+The 
+Endfield Talos Wiki
+ is an unofficial, community-driven encyclopedia of the real-time 3D RPG game, 
+Arknights: Endfield
+, currently hosting 
+3,709 articles
+.
+All contributors are encouraged to review the 
+Policies and Guidelines
+ before making edits or additions to the wiki.
+
+
+For information on the original game, 
+Arknights
+, see the 
+Arknights Terra Wiki
+.
+
+
+
+
+ About 
+
+
+Arknights: Endfield
+ is a real-time 3D Role-Playing Game (RPG) with strategic elements developed by 
+Hypergryph
+ and published by 
+Gryphline
+. An initial technical test was held in mainland China (CN) on November 10, 2023, followed by Global (North America, Europe, and Southeast Asia) on January 12, 2024. A beta test for both CN and Global servers began on January 16, 2025. A second beta test for both CN and Global servers began on November 27, 2025, with the full worldwide release of the game on January 22, 2026.
+
+
+
+Read more...
+
+
+
+
+
+
+
+
+Operators
+
+
+Weapons
+
+
+EFDB
+
+
+Gear
+
+
+Factory
+
+
+Regions
+
+
+Stories
+
+
+Enemies
+
+
+Faction
+
+
+Headhunt
+
+
+Items
+
+
+Store
+
+
+Guide
+
+
+
+
+
+
+ Server Time 
+
+
+
+
+
+
+America/Europe -5:00 UTC_-5
+
+
+
+
+Daily Reset: 4AM (UTC-5)
+Weekly Reset: Mon, 4AM (UTC-5)
+
+
+
+
+
+Asia +8:00 UTC_+8
+
+
+
+
+Daily Reset: 4AM (UTC+8)
+Weekly Reset: Mon, 4AM (UTC+8)
+
+
+
+
+
+
+
+ News 
+
+
+02/15 - Certain Events & Gameplay Start Times Adjustment Notice
+
+
+02/12 - Optimization & Quick Update Notice
+
+
+Gryphline Account Security Device Verification Is Now Live
+
+
+
+
+ Changelog 
+
+
+
+
+February 6th, 2026
+
+
+Corrected an error with some pages that had roman numerals on them. These should all be fixed now as well as their page contents.
+
+
+February 1st, 2026
+
+
+NEW MAIN PAGE IS READY! Please let a staff member know if you see anything out of the ordinary or if you'd like to help contribute in the future!
+
+
+Read more...
+
+
+
+
+
+
+ Version 
+
+
+
+
+
+
+Zeroth Directive
+
+
+
+
+Zeroth Directive will be live in 
+2026-01-22T16:00:00+00:00
+!
+Zeroth Directive is live!
+
+
+
+
+
+
+
+
+ What's New 
+
+
+The release of 
+Arknights: Endfield
+ has finally come to us all after years of waiting. From being drip fed concept videos to a whole host of promotional material, the wait was long but worth it. With the release of Arknights: Endfield comes the first major version of the game: 
+Zeroth Directive
+. Players will get to enjoy a multitude of Sign-In events and new banners, alongside experiencing the world of 
+Talos-II
+.
+Three new Chartered 
+Headhunting
+ banners come with this version of Endfield, beginning with 
+Laevatain
+'s 
+Scars of the Forge
+ and following soon after will be 
+Gilberta
+'s and 
+Yvonne
+'s.
+New limited-time events will also begin in February with a 
+Valley IV
+ Camera event and a 
+Wuling
+ Guide event. We know that plenty of other events are on the way as well thanks to the official timeline, but there are just too many to list here.
+There is so much to cover but this box is far too small to list everything so let's get you back into the world of Talos-II! That factory won't build itself you know! Happy Hunting, Endmins!
+
+
+
+
+ Events 
+
+
+Ongoing
+
+
+
+
+
+
+Carly's Fairytale of the Valley
+
+
+
+
+Carly's Fairytale of the Valley is live for the next 
+2026-02-24T09:00:00+00:00
+!
+Carly's Fairytale of the Valley has ended...
+
+
+
+
+
+
+Glittering Life at Wuling
+
+
+
+
+Glittering Life at Wuling is live for the next 
+2026-02-24T09:00:00+00:00
+!
+Glittering Life at Wuling has ended...
+
+
+
+
+
+
+A Spring Note, Warmly Crafted
+
+
+
+
+A Spring Note, Warmly Crafted is live for the next 
+2026-03-04T09:00:00+00:00
+!
+A Spring Note, Warmly Crafted has ended...
+
+
+
+
+
+
+
+
+
+
+Upcoming
+
+
+
+
+
+
+Delver of the Cryptic
+
+
+
+
+Delver of the Cryptic will be live in 
+2026-02-24T09:00:00+00:00
+!
+Delver of the Cryptic is live!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Featured Operator 
+
+
+Laevatain
+ is a 6 star 
+Striker
+ introduced with the launch of 
+Arknights: Endfield
+ and is the featured Operator from the 
+Scars of the Forge
+ banner in the Zeroth Directive version. 
+Reconvener
+ and Operator from 
+Rhodes Island
+, Laevatain joined 
+Endfield Industries
+ under the direct command of the 
+Endministrator
+.
+When Laevatain's rapid Basic Attacks trigger a Final Strike, she can absorb the Heat Infliction from nearby enemies and convert them into stacks of Melting Flame. These stacks may also be gained by using her Battle Skill which summons a Magma Fragment to deal damage over time. When four stacks of Melting Flame is reached she can trigger Combustion by consuming all stacks, letting her perform an additional attack, as well as triggering her Combo Skill, that allows her to deal massive damage to all affected enemies. Additionally her Ultimate, Twilight, greatly enhances her Basic Attacks and Battle Skill!
+Laevatain is voiced by Horie Yui in Japanese, Yan Meme in Chinese, Kum You-rim in Korean and Kira Buckland in English, the latter of whom is well known for voicing 2B from Nier: Automata.
+
+
+
+
+ Headhunting 
+
+
+
+
+
+
+The Floaty Messenger
+
+
+
+
+The The Floaty Messenger headhunting banner is up for the next 
+2026-02-24T16:59:00+00:00
+!
+The The Floaty Messenger headhunting banner has ended...
+
+
+
+
+
+
+
+
+ Arsenal Issue 
+
+
+
+
+
+
+Smelting Forge
+
+
+
+
+The Smelting Forge arsenal issue is up for the next 
+2026-03-09T09:00:00+00:00
+!
+The Smelting Forge arsenal issue has ended...
+
+
+
+
+
+
+Express Delivery
+
+
+
+
+The Express Delivery arsenal issue is up for the next 
+2026-03-09T09:00:00+00:00
+!
+The Express Delivery arsenal issue has ended...
+
+
+
+
+
+
+
+
+ Permanent Game Modes 
+
+
+
+
+
+
+Etchspace Salvage
+
+
+
+
+
+
+
+
+
+
+
+
+Umbral Monument
+
+
+
+
+Umbral Monument has an ongoing event!
+
+
+
+
+
+
+
+
+
+
+
+
+ Quick Navigation 
+
+
+ 
+View or edit this template
+Operators
+ Guard
+
+
+Endministrator
+
+
+Lifeng
+
+
+Chen Qianyu
+
+
+Estella
+
+
+ Defender
+
+
+Ember
+
+
+Snowshine
+
+
+Catcher
+
+
+ Supporter
+
+
+Ardelia
+
+
+Gilberta
+
+
+Xaihi
+
+
+Antal
+
+
+ Caster
+
+
+Perlica
+
+
+Wulfgard
+
+
+Fluorite
+
+
+ Striker
+
+
+Laevatain
+
+
+Last Rite
+
+
+Yvonne
+
+
+Avywenna
+
+
+Da Pan
+
+
+ Vanguard
+
+
+Pogranichnik
+
+
+Alesh
+
+
+Arclight
+
+
+Akekuri
+
+
+ 
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+View or edit this template
+Setting
+Overview
+
+
+Talos-II
+
+
+OMV Dijiang
+
+
+Originium
+
+
+Ætherside
+
+
+Blight
+
+
+Race
+
+
+Cosmic Gate
+
+
+Terra
+
+
+First Aggeloi War
+
+
+Civilization Band
+
+
+Automated Industry Complex
+ (AIC)
+
+
+Protocol-Originium
+
+
+Xiranite
+
+
+Reconveners
+
+
+Landbreakers
+
+
+Nefarith
+
+
+Aggeloi
+
+
+Factions
+
+
+Endfield Industries
+
+
+Rhodes Island
+
+
+United Workers' Syndicates of Talos-II
+ (UWST)
+
+
+Hongshan Academy of Sciences
+ (HAS)
+
+
+Talos-II General Chamber of Commerce
+ (TGCC)
+
+
+Order of Steel Oath
+
+
+Cabal of Tranquility
+
+
+Hannabit Circuit
+
+
+Seš'qa
+
+
+Samifjod
+
+
+Free Cities
+
+La Fantoma
+
+
+Kjersch
+
+
+Alloycarrot
+
+
+New Wrankwood
+
+
+Neo Tsukushi
+
+
+Manufacturers
+
+
+Raythean Industries
+
+
+Mieszko Industries
+
+
+Northmarch Support Hub
+
+
+Portable Æthertech Labs
+
+
+Fort Forgefane
+
+
+Witching Hour
+
+
+Locations
+
+
+Valley IV
+
+
+Wuling
+
+
+Wuling City
+
+
+Talos City
+
+
+Mat' Gorodov
+
+
+Industrial Mothership
+
+
+
+
+
+
+
+
+
+
+
+
+

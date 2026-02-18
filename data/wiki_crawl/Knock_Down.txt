@@ -1,0 +1,202 @@
+URL: https://endfield.wiki.gg/wiki/Knock_Down
+
+Under Construction
+This page is under construction and may be incomplete or subject to change.
+
+
+
+
+Knock Down
+ is a 
+Physical Status
+ in 
+Arknights: Endfield
+.
+
+
+
+Contents
+
+
+
+
+1
+ 
+Effect
+
+
+2
+ 
+Sources
+
+
+3
+ 
+Interactions
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Effect
+
+
+Trying to apply 
+Knock Down
+ to an enemy adds 1 stack of 
+Vulnerable
+. If the enemy already has 
+Vulnerable
+ stacks, the actual Physical Status of Knock Down is triggered: Adds 1 stack of 
+Vulnerable
+, deals 
+Physical DMG
+ and 10 
+Stagger
+. Weak enemies are also Knocked Down to the ground making them unable to act. Forcibly applied Knock Down does not need the enemy to be Vulnerable to apply its effect.
+
+The amount of damage done has always a 120% DMG modifier, regardless of the number of Vulnerable stacks. The damage done also depends on the ATK, Arts Intensity and Physical DMG Bonus of the 
+Operator
+ that triggered the Physical Status. Arts Intensity can also increase the amount of 
+Stagger
+ dealt.
+
+
+
+K
+n
+o
+c
+k
+D
+o
+w
+n
+S
+t
+a
+g
+g
+e
+r
+=
+1
+0
+×
+(
+1
++
+A
+r
+t
+s
+I
+n
+t
+e
+n
+s
+i
+t
+y
+2
+0
+0
+)
+
+
+
+
+Sources
+
+
+Applying 
+Knock Down
+ to an enemy with 
+Vulnerable
+ stacks triggers Knock Down. Sources of Knock Down are:
+
+
+
+Interactions
+
+
+Navigation
+View or edit this template
+Arknights: Endfield
+ combat mechanics
+General
+
+
+Damage
+
+
+Skill Points
+
+
+Ultimate Energy
+
+
+Attribute
+
+
+Physical
+
+
+Vulnerable
+
+
+Lift
+
+
+Knock Down
+
+
+Crush
+
+
+Breach
+
+
+Arts
+Arts Infliction
+
+
+Heat Infliction
+
+
+Electric Infliction
+
+
+Cryo Infliction
+
+
+Nature Infliction
+
+
+Arts Reaction
+
+
+Combustion
+
+
+Electrification
+
+
+Solidification
+
+
+Corrosion
+
+
+
+
+
+
+

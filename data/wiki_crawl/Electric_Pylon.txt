@@ -1,0 +1,309 @@
+URL: https://endfield.wiki.gg/wiki/Electric_Pylon
+
+Electric Pylon
+In Other Languages
+Simplified Chinese
+
+
+供电桩
+Traditional Chinese
+
+
+供電樁
+Japanese
+
+
+送電スタンド
+Korean
+
+
+전력 공급기
+Spanish
+
+
+Atalaya eléctrica
+Russian
+
+
+Электрический пилон
+General Information
+Type
+
+Facilities
+Rarity
+
+1
+
+
+Electric Pylon
+ is an 
+AIC
+ 
+Power
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+Wireless electrical connection is one of the biggest technological breakthroughs achieved by Endfield Industries. This tech was further improved with Techno-Protocol to provide the very foundation of the AIC Factory.
+
+
+Usage
+
+
+Once connected to the power grid, this pylon can wirelessly power all Endfield facilities within a sizable area of effect.
+Researching certain AIC Factory Plan technologies also gives this facility a 30-meter power transmission capability.
+
+
+
+Acquisition
+
+
+Requirement : 
+Basic AIC Plan - Basic AIC I - Electricity I
+
+
+
+
+
+
+Facility
+
+
+
+Cost
+
+
+
+Product
+
+
+
+Time
+
+
+
+
+
+Construct
+
+
+
+
+5
+
+
+
+
+1
+
+
+
+
+-
+
+
+
+Navigation
+
+
+View or edit this template
+Facilities
+Resourcing
+ 
+Portable Originium Rig
+ • 
+ 
+Electric Mining Rig
+ • 
+ 
+Electric Mining Rig Mk II
+ • 
+ 
+Fluid Pump
+Logistics Units
+ 
+Item Control Port
+ • 
+ 
+Splitter
+ • 
+ 
+Belt Bridge
+ • 
+ 
+Converger
+ • 
+ 
+Pipe Control Port
+ • 
+ 
+Pipe Splitter
+ • 
+ 
+Pipe Bridge
+ • 
+ 
+Pipe Converger
+Depot Access
+ 
+Protocol Stash
+ • 
+ 
+Depot Loader
+ • 
+ 
+Depot Unloader
+ • 
+ 
+Fluid Tank
+ • 
+ 
+Depot Bus Section
+ • 
+ 
+Depot Bus Port
+Production I
+ 
+Refining Unit
+ • 
+ 
+Shredding Unit
+ • 
+ 
+Fitting Unit
+ • 
+ 
+Moulding Unit
+ • 
+ 
+Planting Unit
+ • 
+ 
+Seed-Picking Unit
+Production II
+ 
+Gearing Unit
+ • 
+ 
+Filling Unit
+ • 
+ 
+Packaging Unit
+ • 
+ 
+Grinding Unit
+ • 
+ 
+Reactor Crucible
+ • 
+ 
+Forge of the Sky
+ • 
+ 
+Separating Unit
+Power
+ 
+Electric Pylon
+ • 
+ 
+Relay Tower
+ • 
+ 
+Xiranite Pylon
+ • 
+ 
+Xiranite Relay
+ • 
+ 
+Thermal Bank
+Miscellaneous
+ 
+Easy Stash
+ • 
+ 
+Memo Beacon
+ • 
+ 
+Zipline Pylon
+ • 
+ 
+Zipline Tower
+ • 
+ 
+Sprinkler
+ • 
+ 
+Fluid Supply Unit
+Combat & Support
+ 
+Gun Tower
+ • 
+ 
+Medical Tower
+ • 
+ 
+Grenade Tower
+ • 
+ 
+LN Tower
+ • 
+ 
+Heavy Gun Tower
+ • 
+ 
+Omnidirectional Sonic Tower
+ • 
+ 
+Beam Tower
+ • 
+ 
+Surge Tower
+ • 
+ 
+Sentry Tower
+ • 
+ 
+HE Grenade Tower
+ • 
+ 
+Marsh Gas Mk I
+Planting
+ 
+Buckflower Plot
+ • 
+ 
+Citrome Plot
+ • 
+ 
+Sandleaf Plot
+ • 
+ 
+Aketine Plot
+ • 
+ 
+Jincao Plot
+ • 
+ 
+Yazhen Plot
+ • 
+ 
+Reed Rye Plot
+ • 
+ 
+Tartpepper Plot
+ • 
+ 
+Redjade Ginseng Plot
+ • 
+ 
+Amber Rice Plot
+
+
+
+
+
+
+

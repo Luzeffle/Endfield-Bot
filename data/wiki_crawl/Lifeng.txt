@@ -1,0 +1,2920 @@
+URL: https://endfield.wiki.gg/wiki/Lifeng
+
+
+
+
+
+★★★★★★
+Lifeng
+
+
+
+
+Hey Endministrator, it's me, Lifeng! I'm still a bit green, but I'll work super hard! They say hardships shape and perfect us, but what does perfection really look like? Maybe someone like you has the answer. I'd really appreciate your insights.
+
+
+
+
+
+
+Class
+
+
+
+ 
+Guard
+
+
+
+
+
+
+Weapon
+
+
+
+ Polearm
+
+
+
+
+
+Element
+
+
+
+ 
+Physical
+
+
+
+
+
+
+Faction
+
+
+
+ 
+Hongshan Academy of Sciences (HAS)
+
+
+
+
+
+
+Tags
+
+
+
+Knock Down
+ 
+PHY Susc.
+ 
+Link
+
+
+
+
+
+
+Main Attribute
+
+
+
+ Agility
+
+
+
+
+
+Sub Attribute
+
+
+
+ Strength
+
+
+
+
+
+How to obtain
+
+
+
+Standard Headhunting
+
+
+
+Operator
+File
+Dialogue
+Gallery
+
+
+Lifeng
+Internal name
+
+chr_0015_lifeng
+In Other Languages
+Simplified Chinese
+
+
+黎风
+Traditional Chinese
+
+
+黎風
+Japanese
+
+
+リーフォン
+Korean
+
+
+여풍
+Spanish
+
+
+Lifeng
+Russian
+
+
+Лифэн
+Character Voices
+Japanese
+
+Ishibashi Hiiro
+Chinese
+
+Guo Hongbo
+English
+
+Yung-I Chang
+Korean
+
+Kim Yoon-gi
+Basic Info
+Gender
+
+Male
+Date of Birth
+
+July 16
+Race
+
+
+Anasa
+Infection Status
+
+Oripathy positive (infected), based on medical examination reports.
+Physical Exam
+Physical Strength
+
+Standard
+Tactical Acumen
+
+Normal
+Combat Skill
+
+Excellent
+Originium Arts Assimilation
+
+Standard
+Expertise & Hobbies
+Expertise 1: Agility
+
+
+Agility: Xiranite Powered
+
+
+A lad equipped with the latest experimental Xiranite prosthetic. His chrome features great power, speed, and sensitivity.
+Expertise 2: Natural Lore
+
+
+Natural Lore: Planter
+
+
+To people who share his childhood, nurturing of life seems like second nature.
+Hobbies 1: Sports
+
+
+Sports: Martial Meditation
+
+
+An aspiring traveler needs mental and physical fortitude. One needs a strong body to travel far.
+Hobbies 2: Nature
+
+
+Nature: Keen Traveler
+
+
+Much of this world remains unknown to him. Nevertheless, he regards these mysteries as future duties that he must try to live up to.
+Gift Preference
+
+
+ Wuling Runners' Choice
+Recommended Weapons
+Matching Skills 
+🛈
+
+
+ 
+Mountain Bearer
+ 
+Chimeric Justice
+ 
+Valiant
+Matching Stats 
+🛈
+
+
+ 
+Pathfinder's Beacon
+
+
+Contents
+
+
+
+
+1
+ 
+Profile
+
+
+2
+ 
+Stats
+
+
+
+
+2.1
+ 
+Attributes
+
+
+2.2
+ 
+Promotion
+
+
+2.3
+ 
+Potential
+
+
+
+
+
+
+3
+ 
+Combat Skills
+
+
+
+
+3.1
+ 
+Skill upgrades
+
+
+
+
+
+
+4
+ 
+Talents
+
+
+
+
+4.1
+ 
+Talent upgrades
+
+
+
+
+
+
+5
+ 
+Base Skills
+
+
+
+
+5.1
+ 
+Base Skill upgrades
+
+
+
+
+
+
+6
+ 
+Changelog
+
+
+7
+ 
+Navigation
+
+
+
+
+
+
+Profile
+
+
+"I came to Endfield to learn. But ... there's way too much to take in. Gotta work even harder!" 
+Lifeng, born in 
+Wuling City
+, now interns at the Specialist Tech Division of 
+Endfield Industries
+. 
+Back in Wuling, Lifeng's mind and personalities made him popular with his peers and elders. Years of guidance from 
+Da Pan
+ have honed his spear fighting skills, arming him for his pursuit of justice. Few would guess from his cheerful demeanor the shadow he carries — an accident that shattered his once-happy family and cost him an arm. Yet hardship has never dimmed his fire. He continues to grow with sincerity and passion, yearning for the day he can take on greater responsibilities. Someday, he will stand tall on his own and return to protect the home that waits for him.
+"One day, I'll be capable enough to take on the toughest missions. Please look forward to that day, Endmin."
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ HP
+
+
+500
+
+
+1566
+
+
+2689
+
+
+3811
+
+
+4934
+
+
+5495
+
+
+
+
+
+
+ ATK
+
+
+30
+
+
+90
+
+
+153
+
+
+217
+
+
+280
+
+
+312
+
+
+
+
+
+
+ STR
+
+
+
+14
+
+
+
+
+38
+
+
+
+
+62
+
+
+
+
+86
+
+
+
+
+111
+
+
+
+
+123
+
+
+
+
+
+
+
+
+ AGL
+
+
+
+
+
+20
+
+
+
+
+
+
+
+
+44
+
+
+
+
+
+
+
+
+69
+
+
+
+
+
+
+
+
+94
+
+
+
+
+
+
+
+
+119
+
+
+
+
+
+
+
+
+132
+
+
+
+
+
+
+
+
+
+
+ INT
+
+
+
+
+
+13
+
+
+
+
+
+
+
+
+35
+
+
+
+
+
+
+
+
+58
+
+
+
+
+
+
+
+
+81
+
+
+
+
+
+
+
+
+104
+
+
+
+
+
+
+
+
+115
+
+
+
+
+
+
+
+
+
+
+ WIL
+
+
+
+
+
+12
+
+
+
+
+
+
+
+
+35
+
+
+
+
+
+
+
+
+58
+
+
+
+
+
+
+
+
+82
+
+
+
+
+
+
+
+
+105
+
+
+
+
+
+
+
+
+117
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Critical Rate
+
+
+0.05
+
+
+
+
+
+
+ Attack Speed
+
+
+1
+
+
+
+
+
+
+ Attack Range
+
+
+3 Meters
+
+
+
+
+
+
+Promotion
+
+
+
+
+
+
+Elite 1
+
+
+Raise Lifeng to level 20:
+8
+3
+1.6K
+
+
+
+
+
+
+Elite 2
+
+
+Raise Lifeng to level 40:
+25
+5
+6.5K
+
+
+
+
+
+
+Elite 3
+
+
+Raise Lifeng to level 60:
+24
+5
+18K
+
+
+
+
+
+
+Elite 4
+
+
+Raise Lifeng to level 80:
+36
+20
+8
+100K
+
+
+
+
+
+
+Potential
+
+
+Breaking the Obsession
+Battle skill 
+Turbid Avatar
+ improved: 
+Physical Susceptibility
+ 
++5%
+; also triggers this additional effect to enemies with no more than 
+2
+ 
+Vulnerability
+ stacks.
+Self Refinement
+All attributes 
++15
+.
+Spiritual Cultivation
+Talent 
+Illumination
+ improved: Every point in the attributes of Intellect and Will grants Lifeng an additional ATK 
++0.05%
+.
+Brief Instant
+Ultimate 
+Heart of the Unmoving
+ improved: Ultimate Energy cost 
+-15%
+.
+Unremitting
+Talent 
+Subduer of Evil
+ improved: Every 
+15
+s, the next effect triggered deals another 
+250%
+ ATK of 
+Physical DMG
+ and 
+5
+ Stagger.
+Total Cost
+5
+
+
+
+
+
+
+
+
+Combat Skills
+
+
+
+
+
+
+
+
+Ruination
+
+
+Basic Attack
+
+
+
+
+
+
+
+
+BASIC ATTACK:
+ 
+An attack with up to 4 sequences that deals 
+Physical DMG
+. As the controlled operator, 
+Final Strike
+ also deals 
+19
+ Stagger. 
+
+DIVE ATTACK:
+ 
+Basic attack performed in mid-air becomes a dive attack that deals 
+Physical DMG
+ to nearby enemies. 
+
+FINISHER:
+ 
+Basic attack performed near a Staggered enemy becomes a finisher that deals massive 
+Physical DMG
+ and recovers some SP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BATK SEQ 1 Multiplier
+
+
+ 24%
+
+
+ 27%
+
+
+ 29%
+
+
+ 32%
+
+
+ 34%
+
+
+ 36%
+
+
+ 39%
+
+
+ 41%
+
+
+ 44%
+
+
+ 47%
+
+
+ 50%
+
+
+ 55%
+
+
+
+
+
+
+BATK SEQ 2 Multiplier
+
+
+ 29%
+
+
+ 32%
+
+
+ 35%
+
+
+ 38%
+
+
+ 41%
+
+
+ 44%
+
+
+ 47%
+
+
+ 49%
+
+
+ 52%
+
+
+ 56%
+
+
+ 60%
+
+
+ 65%
+
+
+
+
+
+
+BATK SEQ 3 Multiplier
+
+
+ 35%
+
+
+ 39%
+
+
+ 42%
+
+
+ 46%
+
+
+ 49%
+
+
+ 53%
+
+
+ 56%
+
+
+ 60%
+
+
+ 63%
+
+
+ 67%
+
+
+ 73%
+
+
+ 79%
+
+
+
+
+
+
+BATK SEQ 4 Multiplier
+
+
+ 68%
+
+
+ 74%
+
+
+ 81%
+
+
+ 88%
+
+
+ 95%
+
+
+ 101%
+
+
+ 108%
+
+
+ 115%
+
+
+ 122%
+
+
+ 130%
+
+
+ 140%
+
+
+ 152%
+
+
+
+
+
+
+Finisher ATK Multiplier
+
+
+ 400%
+
+
+ 440%
+
+
+ 480%
+
+
+ 520%
+
+
+ 560%
+
+
+ 600%
+
+
+ 640%
+
+
+ 680%
+
+
+ 720%
+
+
+ 770%
+
+
+ 830%
+
+
+ 900%
+
+
+
+
+
+
+Dive ATK Multiplier
+
+
+ 80%
+
+
+ 88%
+
+
+ 96%
+
+
+ 104%
+
+
+ 112%
+
+
+ 120%
+
+
+ 128%
+
+
+ 136%
+
+
+ 144%
+
+
+ 154%
+
+
+ 166%
+
+
+ 180%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Turbid Avatar
+
+
+Battle Skill
+
+
+
+
+
+
+
+
+SKILL DESCRIPTION:
+ Swings the polearm multiple times to deal 2 hits of 
+Physical DMG
+, then slams the ground to deal 
+Physical DMG
+ and 
+Knock Down
+ to all enemies in the area of effect. 
+If the enemy struck by the last hit of this skill has no 
+Vulnerability
+ stacks, apply 
+Physical Susceptibility
+ to the said enemy instead.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SP Cost
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+
+
+
+
+SEQ 1 DMG Multiplier
+
+
+ 38%
+
+
+ 42%
+
+
+ 46%
+
+
+ 50%
+
+
+ 53%
+
+
+ 57%
+
+
+ 61%
+
+
+ 65%
+
+
+ 69%
+
+
+ 73%
+
+
+ 79%
+
+
+ 86%
+
+
+
+
+
+
+SEQ 2 DMG Multiplier
+
+
+ 38%
+
+
+ 42%
+
+
+ 46%
+
+
+ 50%
+
+
+ 53%
+
+
+ 57%
+
+
+ 61%
+
+
+ 65%
+
+
+ 69%
+
+
+ 73%
+
+
+ 79%
+
+
+ 86%
+
+
+
+
+
+
+SEQ 3 DMG Multiplier
+
+
+ 119%
+
+
+ 131%
+
+
+ 143%
+
+
+ 155%
+
+
+ 167%
+
+
+ 178%
+
+
+ 190%
+
+
+ 202%
+
+
+ 214%
+
+
+ 229%
+
+
+ 247%
+
+
+ 268%
+
+
+
+
+
+
+SEQ 3 Stagger
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+
+
+
+
+Physical Susceptibility
+
+
+ 5%
+
+
+ 5%
+
+
+ 5%
+
+
+ 5%
+
+
+ 5%
+
+
+ 7%
+
+
+ 7%
+
+
+ 7%
+
+
+ 9%
+
+
+ 10%
+
+
+ 10%
+
+
+ 12%
+
+
+
+
+
+
+Physical Susceptibility Duration (s)
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aspect of Wrath
+
+
+Combo Skill
+
+
+
+
+
+
+
+
+COMBO TRIGGER:
+ When the controlled operator performs a 
+Final Strike
+ on an enemy with 
+Physical Susceptibility
+ or 
+Breach
+. 
+SKILL DESCRIPTION:
+ Unleashes an aspect that performs a spear thrust to deal 
+Physical DMG
+ and grants 
+Link
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cooldown
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 15
+
+
+
+
+
+
+SEQ 1 DMG Multiplier
+
+
+ 47%
+
+
+ 51%
+
+
+ 56%
+
+
+ 61%
+
+
+ 65%
+
+
+ 70%
+
+
+ 75%
+
+
+ 79%
+
+
+ 84%
+
+
+ 90%
+
+
+ 97%
+
+
+ 105%
+
+
+
+
+
+
+SEQ 2 DMG Multiplier
+
+
+ 167%
+
+
+ 183%
+
+
+ 200%
+
+
+ 217%
+
+
+ 233%
+
+
+ 250%
+
+
+ 267%
+
+
+ 283%
+
+
+ 300%
+
+
+ 321%
+
+
+ 346%
+
+
+ 375%
+
+
+
+
+
+
+SEQ 2 Stagger
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+
+
+
+
+Combo Duration (s)
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Heart of the Unmoving
+
+
+Ultimate
+
+
+
+
+
+
+
+
+SKILL DESCRIPTION:
+ Unleashes an aspect that slams an Immovable Vajra to deal 
+Physical DMG
+ and 
+Knock Down
+ to all enemies in a large area of effect, then enemies are drawn toward the center of the area. After a while, enemies still within the vajra slam area of effect will suffer another massive 
+Physical DMG
+ and 
+Knock Down
+. 
+If the skill 
+consumes
+ a 
+Link
+, it deals additional massive 
+Physical DMG
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate Energy Cost
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+
+
+
+
+SEQ 1 DMG Multiplier
+
+
+ 178%
+
+
+ 196%
+
+
+ 213%
+
+
+ 231%
+
+
+ 249%
+
+
+ 267%
+
+
+ 284%
+
+
+ 302%
+
+
+ 320%
+
+
+ 342%
+
+
+ 369%
+
+
+ 400%
+
+
+
+
+
+
+SEQ 1 Stagger
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+
+
+
+
+SEQ 2 DMG Multiplier
+
+
+ 178%
+
+
+ 196%
+
+
+ 213%
+
+
+ 231%
+
+
+ 249%
+
+
+ 267%
+
+
+ 284%
+
+
+ 302%
+
+
+ 320%
+
+
+ 342%
+
+
+ 369%
+
+
+ 400%
+
+
+
+
+
+
+SEQ 2 Stagger
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+
+
+
+
+Additional ATK DMG Multiplier
+
+
+ 267%
+
+
+ 294%
+
+
+ 320%
+
+
+ 347%
+
+
+ 374%
+
+
+ 400%
+
+
+ 427%
+
+
+ 454%
+
+
+ 480%
+
+
+ 514%
+
+
+ 554%
+
+
+ 600%
+
+
+
+
+
+
+Additional ATK Stagger
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+
+
+
+
+
+
+
+
+Skill upgrades
+
+
+6
+1
+1K
+
+
+12
+2
+2.7K
+
+
+16
+1
+3.2K
+
+
+21
+1
+4.2K
+
+
+27
+2
+5.4K
+
+
+6
+1
+8.2K
+
+
+8
+1
+10.5K
+
+
+15
+2
+18K
+
+
+Ruination
+1
+15
+6
+3
+24K
+Turbid Avatar
+1
+15
+6
+3
+24K
+Aspect of Wrath
+1
+15
+6
+3
+24K
+Heart of the Unmoving
+1
+15
+6
+3
+24K
+
+
+Ruination
+2
+24
+16
+6
+30K
+Turbid Avatar
+2
+24
+16
+6
+30K
+Aspect of Wrath
+2
+24
+16
+6
+30K
+Heart of the Unmoving
+2
+24
+16
+6
+30K
+
+
+Ruination
+3
+50
+36
+12
+65K
+Turbid Avatar
+3
+50
+36
+12
+65K
+Aspect of Wrath
+3
+50
+36
+12
+65K
+Heart of the Unmoving
+3
+50
+36
+12
+65K
+
+
+
+
+Talents
+
+
+
+
+
+
+ Skirmisher
+
+
+
+
+
+
+
+
+
+
+Operator Agility +10.
+
+
+
+
+
+
+
+
+
+Operator Agility +15.
+
+
+
+
+
+
+
+
+
+Operator Agility +15.
+
+
+
+
+
+
+
+
+
+Operator Agility +20.
+
+
+
+
+
+
+
+
+
+ Illumination
+
+
+
+
+
+
+
+
+
+
+Every point of Intellect and Will further grants ATK 
++0.10%
+.
+
+
+
+
+
+
+
+
+
+Every point of Intellect and Will further grants ATK 
++0.15%
+.
+
+
+
+
+
+
+
+
+
+ Subduer of Evil
+
+
+
+
+
+
+
+
+
+
+Applying 
+Knock Down
+ also deals 
+50%
+ ATK of 
+Physical DMG
+.
+
+
+
+
+
+
+
+
+
+Applying 
+Knock Down
+ also deals 
+100%
+ ATK of 
+Physical DMG
+.
+
+
+
+
+
+
+
+
+
+ Outfitting
+
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip blue quality gear
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip purple quality gear
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip gold quality gear
+
+
+
+
+
+
+
+Talent upgrades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+1K
+
+
+
+
+
+
+10
+1.8K
+
+
+
+
+
+
+10
+6K
+
+
+
+
+
+
+20
+12K
+
+
+
+
+
+
+
+
+
+
+
+
+12
+2.4K
+
+
+
+
+
+
+40
+8.6K
+
+
+
+
+
+–
+
+
+
+–
+
+
+
+
+
+
+
+
+
+–
+
+
+
+
+48
+10K
+
+
+
+
+
+
+28
+24K
+
+
+
+
+
+–
+
+
+
+
+
+
+
+
+
+
+1.6K
+
+
+
+
+
+
+6.5K
+
+
+
+
+
+
+18K
+
+
+
+
+
+–
+
+
+
+
+
+
+Base Skills
+
+
+
+
+
+
+ Youthful Ambition
+
+
+
+
+
+
+
+
+
+
+Assign to Control Nexus to grant all operators' Mood Regen +12%
+
+
+
+
+
+
+
+
+
+Assign to Control Nexus to grant all operators' Mood Regen +16%
+
+
+
+
+
+
+
+
+
+ Laddie Reliable
+
+
+
+
+
+
+
+
+
+
+Assign to Reception Room to grant operators a small Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack)
+
+
+
+
+
+
+
+
+
+Assign to Reception Room to grant operators Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack)
+
+
+
+
+
+
+
+Base Skill upgrades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+1.6K
+
+
+
+
+
+–
+
+
+
+
+12
+8K
+
+
+
+
+
+–
+
+
+
+
+
+
+
+
+
+–
+
+
+
+
+12
+3K
+
+
+
+
+
+–
+
+
+
+
+20
+20K
+
+
+
+
+
+
+Changelog
+
+
+
+
+Zeroth Directive
+
+
+Battle Skill Turbid Avatar
+
+Physical Susceptibility Duration increased from 10s to 12s.
+
+
+Base Skill Youthful Ambition
+
+Operators' Mood Regen effect increased from +8% / +12% to +12% / +16%.
+
+
+Base Skill Expert MFG changed to Laddie Reliable
+
+Old: Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 10% / 14%.
+
+
+New: Assign to Reception Room to grant operators [a small] Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack)
+
+
+Beta Test I
+ introduced.
+
+
+Navigation
+
+
+View or edit this template
+Operators
+ Guard
+
+
+Endministrator
+
+
+Lifeng
+
+
+Chen Qianyu
+
+
+Estella
+
+
+ Defender
+
+
+Ember
+
+
+Snowshine
+
+
+Catcher
+
+
+ Supporter
+
+
+Ardelia
+
+
+Gilberta
+
+
+Xaihi
+
+
+Antal
+
+
+ Caster
+
+
+Perlica
+
+
+Wulfgard
+
+
+Fluorite
+
+
+ Striker
+
+
+Laevatain
+
+
+Last Rite
+
+
+Yvonne
+
+
+Avywenna
+
+
+Da Pan
+
+
+ Vanguard
+
+
+Pogranichnik
+
+
+Alesh
+
+
+Arclight
+
+
+Akekuri
+
+
+
+
+
+
+
+
+

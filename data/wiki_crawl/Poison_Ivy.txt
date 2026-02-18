@@ -1,0 +1,481 @@
+URL: https://endfield.wiki.gg/wiki/Poison_Ivy
+
+Under Construction
+This page is under construction and may be incomplete or subject to change.
+
+
+Poison Ivy
+General Information
+Type
+
+
+Advanced
+Race
+
+
+Aggeloi
+Attack pattern
+
+None
+Location
+
+Ground
+
+
+The 
+Poison Ivy
+ is an 
+advanced enemy
+ in 
+Arknights: Endfield
+.
+
+
+
+Enemy description
+Dendreiosson
+ (archive ID: ARS141) can synthesize toxins in its body and project them at its victims via inertial launching. No one has seen it move after it has taken shape.
+
+
+Contents
+
+
+
+
+1
+ 
+Overview
+
+
+2
+ 
+Appearances
+
+
+3
+ 
+Stats
+
+
+
+
+3.1
+ 
+Attributes
+
+
+
+
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Overview
+
+
+Appearances
+
+
+Template:Appearances
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 70
+
+
+Level 80
+
+
+
+
+
+
+HP
+
+
+768
+
+
+7322
+
+
+43454
+
+
+137988
+
+
+243685
+
+
+401851
+
+
+
+
+
+
+ATK
+
+
+58
+
+
+499
+
+
+1658
+
+
+4233
+
+
+6354
+
+
+9088
+
+
+
+
+
+
+DEF
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+100
+
+
+
+
+
+
+Stagger
+
+
+160
+
+
+160
+
+
+160
+
+
+160
+
+
+160
+
+
+160
+
+
+
+
+
+
+Weaknesses
+
+
+Physical
+
+
+Fire
+
+
+Electric
+
+
+Ice
+
+
+Nature
+
+
+Æther
+
+
+
+
+
+
+1x
+
+
+1x
+
+
+1x
+
+
+1x
+
+
+1x
+
+
+1x
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Enemies
+Aggeloi
+
+
+Marble Aggelomoirai (palecore)
+
+
+Marble Aggelomoirai (palesent)
+
+
+Marble Appendage
+
+
+Triaggelos
+
+
+Tidalklast
+
+
+Walking Chrysopolis
+
+
+Effigy
+
+
+Sentinel
+
+
+Tidewalker
+
+
+Tidewalker δ
+
+
+Heavy Ram
+
+
+Heavy Ram α
+
+
+Heavy Sting
+
+
+Heavy Sting α
+
+
+Poison Ivy
+
+
+Falsewings
+
+
+Falsewings α
+
+
+Hedron
+
+
+Hedron δ
+
+
+Mudflow
+
+
+Mudflow δ
+
+
+Prism
+
+
+Ram
+
+
+Ram α
+
+
+Sting
+
+
+Sting α
+
+
+Landbreakers
+
+
+Rhodagn the Bonekrushing Fist
+
+
+Bonekrusher Ballista
+
+
+Bonekrusher Executioner
+
+
+Bonekrusher Siegeknuckles
+
+
+Elite Executioner
+
+
+Bonekrusher Arsonist
+
+
+Bonekrusher Pyromancer
+
+
+Bonekrusher Ambusher
+
+
+Bonekrusher Infiltrator
+
+
+Bonekrusher Raider
+
+
+Bonekrusher Ripptusk
+
+
+Bonekrusher Vanguard
+
+
+Elite Ambusher
+
+
+Elite Raider
+
+
+Elite Ripptusk
+
+
+Hazefyre Claw
+
+
+Hazefyre Tuskbeast
+
+
+Cangzei Pirates
+
+
+Grove Archer
+
+
+Road Plunderer
+
+
+Wildlife
+
+
+Axe Armorbeast
+
+
+Glaring Rakerbeast
+
+
+Hazefyre Axe Armorbeast
+
+
+Spotted Rakerbeast
+
+
+Imbued Quillbeast
+
+
+Quillbeast
+
+
+Tunneling Nidwyrm
+
+
+Acid Originium Slug
+
+
+Acid Originium Slug α
+
+
+Blazemist Originium Slug
+
+
+Brutal Pincerbeast
+
+
+Firemist Originium Slug
+
+
+Indigenous Pincerbeast
+
+
+Waterlamp
+
+
+
+
+Template:Advanced enemies
+
+
+
+
+
+
+

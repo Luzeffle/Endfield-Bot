@@ -1,0 +1,2788 @@
+URL: https://endfield.wiki.gg/wiki/Xaihi
+
+
+
+
+
+★★★★★
+Xaihi
+
+
+
+
+O Knowledge most ancient, lead us not into temptation but deliver us from the codes of malice... I am Xaihi, Endministrator. May you be enlightened.
+
+
+
+
+
+
+Class
+
+
+
+ 
+Supporter
+
+
+
+
+
+
+Weapon
+
+
+
+ Arts Unit
+
+
+
+
+
+Element
+
+
+
+ 
+Cryo
+
+
+
+
+
+
+Faction
+
+
+
+Cabal of Tranquility
+
+
+
+
+
+
+Tags
+
+
+
+HP Treatment
+ 
+Cryo Infliction
+ 
+Amp
+
+
+
+
+
+
+Main Attribute
+
+
+
+ Will
+
+
+
+
+
+Sub Attribute
+
+
+
+ Intellect
+
+
+
+
+
+How to obtain
+
+
+
+Standard Headhunting
+
+
+
+Operator
+File
+Dialogue
+Gallery
+
+
+Xaihi
+Internal name
+
+chr_0011_seraph
+In Other Languages
+Simplified Chinese
+
+
+赛希
+Traditional Chinese
+
+
+賽希
+Japanese
+
+
+ザイヒ
+Korean
+
+
+자이히
+Spanish
+
+
+Xaihi
+Russian
+
+
+Сайхи
+Character Voices
+Japanese
+
+Miyamoto Yume
+Chinese
+
+Pan Danni
+English
+
+Elsie Lovelock
+Korean
+
+Jang Ye-na
+Basic Info
+Gender
+
+Female
+Date of Birth
+
+May 16
+Race
+
+Sarkaz
+Infection Status
+
+Oripathy positive (infected), based on medical examination reports.
+Physical Exam
+Physical Strength
+
+Normal
+Tactical Acumen
+
+Standard
+Combat Skill
+
+Standard
+Originium Arts Assimilation
+
+Excellent
+Expertise & Hobbies
+Expertise 1: Erudite
+
+
+Erudite: Linguist
+
+
+The focus of her research includes records of the mysterious Precursors to abstract and esoteric algorithmic scripts.
+Expertise 2: Information Technology
+
+
+Information Technology: Data Exchange
+
+
+Skilled in discourse with all manners of smart/non-smart devices and machines — ranging from access security interfaces to toasters.
+Hobbies 1: Technology
+
+
+Technology: Signal Analysis and Processing
+
+
+The world's composition and how it works, signal inputs and outputs, and anything else named as a form of "technology" are the very fields of her pursuit.
+Hobbies 2: Mind Honing
+
+
+Mind Honing: Online Gamer
+
+
+The renowned master of "Algorithmic Checkers" aboard Dijiang. A mind kept cool in a low-temperature environment is essential to master this mathematical board game.
+Gift Preference
+
+
+ Valley Industry's Choice
+Recommended Weapons
+Matching Skills 
+🛈
+
+
+ 
+Chivalric Virtues
+ 
+Freedom to Proselytize
+Matching Stats 
+🛈
+
+
+ 
+Delivery Guaranteed
+ 
+Monaihe
+
+
+Contents
+
+
+
+
+1
+ 
+Profile
+
+
+2
+ 
+Stats
+
+
+
+
+2.1
+ 
+Attributes
+
+
+2.2
+ 
+Promotion
+
+
+2.3
+ 
+Potential
+
+
+
+
+
+
+3
+ 
+Combat Skills
+
+
+
+
+3.1
+ 
+Skill upgrades
+
+
+
+
+
+
+4
+ 
+Talents
+
+
+
+
+4.1
+ 
+Talent upgrades
+
+
+
+
+
+
+5
+ 
+Base Skills
+
+
+
+
+5.1
+ 
+Base Skill upgrades
+
+
+
+
+
+
+6
+ 
+Changelog
+
+
+7
+ 
+Navigation
+
+
+
+
+
+
+Profile
+
+
+"Once we are connected, wisdom shall springeth forth."
+Xaihi is from the 
+Cabal of Tranquility
+, a research order dispatched from Laterano to 
+Talos-II
+ for technical study. As a Sessionite, she believes computation and linguistic analysis pave the way to Veritas.
+She is better with machines than with people. Her talent in information technology is undeniable — even to the Abbess of the Great Monastery in the Cabal of Tranquility. So despite her "unauthorized" upgrade to the dome of the Cathedralis triggering a cascade of accidents, the Abbess still sincerely recommended her to 
+Endfield Industries
+, hoping she could find a stage worthy of her genius.
+Now, Xaihi works aboard Dijiang on information engineering tasks such as Protorig Network construction and system integration. Her unique insights into the Originium Network, combined with the deep knowledge she carries from the Cabal, ensure her place as an indispensable member of Endfield.
+"O Knowledge most ancient, lead us not into temptation but deliver us from the codes of malice... I am Xaihi, Endministrator. May you be enlightened."
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ HP
+
+
+500
+
+
+1566
+
+
+2689
+
+
+3811
+
+
+4934
+
+
+5495
+
+
+
+
+
+
+ ATK
+
+
+30
+
+
+86
+
+
+144
+
+
+203
+
+
+262
+
+
+291
+
+
+
+
+
+
+ STR
+
+
+
+9
+
+
+
+
+26
+
+
+
+
+44
+
+
+
+
+62
+
+
+
+
+80
+
+
+
+
+89
+
+
+
+
+
+
+
+
+ AGL
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+26
+
+
+
+
+
+
+
+
+45
+
+
+
+
+
+
+
+
+64
+
+
+
+
+
+
+
+
+82
+
+
+
+
+
+
+
+
+91
+
+
+
+
+
+
+
+
+
+
+ INT
+
+
+
+
+
+15
+
+
+
+
+
+
+
+
+39
+
+
+
+
+
+
+
+
+64
+
+
+
+
+
+
+
+
+89
+
+
+
+
+
+
+
+
+114
+
+
+
+
+
+
+
+
+127
+
+
+
+
+
+
+
+
+
+
+ WIL
+
+
+
+
+
+15
+
+
+
+
+
+
+
+
+43
+
+
+
+
+
+
+
+
+74
+
+
+
+
+
+
+
+
+104
+
+
+
+
+
+
+
+
+134
+
+
+
+
+
+
+
+
+150
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Critical Rate
+
+
+0.05
+
+
+
+
+
+
+ Attack Speed
+
+
+1
+
+
+
+
+
+
+ Attack Range
+
+
+10 Meters
+
+
+
+
+
+
+Promotion
+
+
+
+
+
+
+Elite 1
+
+
+Raise Xaihi to level 20:
+8
+3
+1.6K
+
+
+
+
+
+
+Elite 2
+
+
+Raise Xaihi to level 40:
+25
+5
+6.5K
+
+
+
+
+
+
+Elite 3
+
+
+Raise Xaihi to level 60:
+24
+5
+18K
+
+
+
+
+
+
+Elite 4
+
+
+Raise Xaihi to level 80:
+36
+20
+8
+100K
+
+
+
+
+
+
+Potential
+
+
+Agile Execution
+Arts Amp
+ granted by the 
+Auxiliary Crystal
+ is increased by another 
+5%
+.
+Link Aggregation
+Ultimate 
+Stack Overflow
+ improved: Ultimate Energy cost 
+-10%
+.
+Mapping Node
+Combo skill 
+Stress Testing
+ improved: When hitting the target, the hit chains 
+1
+ time to 1 additional target nearby.
+Grayscale Release
+Intellect 
++15
+, Treatment Efficiency 
++10%
+.
+Controlled Recursion
+Ultimate 
+Stack Overflow
+ improved: 
+Amp
+ effect is increased to 
+1.1
+ times the original.
+Total Cost
+5
+
+
+
+
+
+
+
+
+Combat Skills
+
+
+
+
+
+
+
+
+Cooldown
+
+
+Basic Attack
+
+
+
+
+
+
+
+
+BASIC ATTACK:
+ 
+An attack with up to 5 sequences that deals 
+Cryo DMG
+. As the controlled operator, 
+Final Strike
+ also deals 
+15
+ Stagger. 
+
+DIVE ATTACK:
+ 
+Basic attack performed in mid-air becomes a dive attack that deals 
+Cryo DMG
+ to nearby enemies. 
+
+FINISHER:
+ 
+Basic attack performed near a Staggered enemy becomes a finisher that deals massive 
+Cryo DMG
+ and recovers some SP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BATK SEQ 1 Multiplier
+
+
+ 15%
+
+
+ 17%
+
+
+ 18%
+
+
+ 20%
+
+
+ 21%
+
+
+ 23%
+
+
+ 24%
+
+
+ 26%
+
+
+ 27%
+
+
+ 29%
+
+
+ 31%
+
+
+ 34%
+
+
+
+
+
+
+BATK SEQ 2 Multiplier
+
+
+ 16%
+
+
+ 18%
+
+
+ 19%
+
+
+ 21%
+
+
+ 22%
+
+
+ 24%
+
+
+ 26%
+
+
+ 27%
+
+
+ 29%
+
+
+ 31%
+
+
+ 33%
+
+
+ 36%
+
+
+
+
+
+
+BATK SEQ 3 Multiplier
+
+
+ 21%
+
+
+ 23%
+
+
+ 25%
+
+
+ 27%
+
+
+ 29%
+
+
+ 32%
+
+
+ 34%
+
+
+ 36%
+
+
+ 38%
+
+
+ 40%
+
+
+ 44%
+
+
+ 47%
+
+
+
+
+
+
+BATK SEQ 4 Multiplier
+
+
+ 33%
+
+
+ 36%
+
+
+ 40%
+
+
+ 43%
+
+
+ 46%
+
+
+ 50%
+
+
+ 53%
+
+
+ 56%
+
+
+ 59%
+
+
+ 64%
+
+
+ 68%
+
+
+ 74%
+
+
+
+
+
+
+BATK SEQ 5 Multiplier
+
+
+ 55%
+
+
+ 61%
+
+
+ 66%
+
+
+ 72%
+
+
+ 77%
+
+
+ 83%
+
+
+ 88%
+
+
+ 94%
+
+
+ 99%
+
+
+ 106%
+
+
+ 114%
+
+
+ 124%
+
+
+
+
+
+
+Finisher ATK Multiplier
+
+
+ 400%
+
+
+ 440%
+
+
+ 480%
+
+
+ 520%
+
+
+ 560%
+
+
+ 600%
+
+
+ 640%
+
+
+ 680%
+
+
+ 720%
+
+
+ 770%
+
+
+ 830%
+
+
+ 900%
+
+
+
+
+
+
+Dive ATK Multiplier
+
+
+ 80%
+
+
+ 88%
+
+
+ 96%
+
+
+ 104%
+
+
+ 112%
+
+
+ 120%
+
+
+ 128%
+
+
+ 136%
+
+
+ 144%
+
+
+ 154%
+
+
+ 166%
+
+
+ 180%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Distributed DoS
+
+
+Battle Skill
+
+
+
+
+
+
+
+
+SKILL DESCRIPTION:
+ Summons an 
+Auxiliary Crystal
+ that orbits the controlled operator for a while. 
+After the controlled operator performs a 
+Final Strike
+ on the enemy, the 
+Auxiliary Crystal
+ will restore the said operator's HP. This effect can trigger 2 times. The attribute of Will increases the amount of HP treatment. 
+When the controlled operator is already at Max HP when triggering the HP restoration, grant the said operator a temporary 
+Arts Amp
+ as well. This effect cannot stack.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SP Cost
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+
+
+
+
+Base Treatment
+
+
+ 144
+
+
+ 173
+
+
+ 202
+
+
+ 230
+
+
+ 245
+
+
+ 259
+
+
+ 274
+
+
+ 288
+
+
+ 302
+
+
+ 310
+
+
+ 317
+
+
+ 324
+
+
+
+
+
+
+Treatment Increase per Will
+
+
+ 0.34
+
+
+ 0.4
+
+
+ 0.47
+
+
+ 0.54
+
+
+ 0.57
+
+
+ 0.6
+
+
+ 0.64
+
+
+ 0.67
+
+
+ 0.71
+
+
+ 0.72
+
+
+ 0.74
+
+
+ 0.76
+
+
+
+
+
+
+Auxiliary Crystal Duration (s)
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+
+
+
+
+Arts Amp
+
+
+ 9%
+
+
+ 9%
+
+
+ 9%
+
+
+ 9%
+
+
+ 9%
+
+
+ 11%
+
+
+ 11%
+
+
+ 11%
+
+
+ 13%
+
+
+ 13%
+
+
+ 13%
+
+
+ 15%
+
+
+
+
+
+
+Arts Amp Duration (s)
+
+
+ 25
+
+
+ 25
+
+
+ 25
+
+
+ 25
+
+
+ 25
+
+
+ 25
+
+
+ 25
+
+
+ 25
+
+
+ 25
+
+
+ 25
+
+
+ 25
+
+
+ 25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stress Testing
+
+
+Combo Skill
+
+
+
+
+
+
+
+
+COMBO TRIGGER:
+ When the 
+Auxiliary Crystal
+ uses up its HP treatments. 
+SKILL DESCRIPTION:
+ Quickly charges up the 
+Auxiliary Crystal
+ and launches it at the enemy to deal 
+Cryo DMG
+ and 
+Cryo Infliction
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cooldown
+
+
+ 8
+
+
+ 8
+
+
+ 8
+
+
+ 8
+
+
+ 8
+
+
+ 8
+
+
+ 8
+
+
+ 8
+
+
+ 8
+
+
+ 8
+
+
+ 8
+
+
+ 7
+
+
+
+
+
+
+DMG Multiplier
+
+
+ 200%
+
+
+ 220%
+
+
+ 240%
+
+
+ 260%
+
+
+ 280%
+
+
+ 300%
+
+
+ 320%
+
+
+ 340%
+
+
+ 360%
+
+
+ 385%
+
+
+ 415%
+
+
+ 450%
+
+
+
+
+
+
+Stagger
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stack Overflow
+
+
+Ultimate
+
+
+
+
+
+
+
+
+SKILL DESCRIPTION:
+ Applies temporary 
+Cryo Amp
+ and 
+Nature Amp
+ to the entire team. The attribute of Intellect increases the Amp effect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate Energy Cost
+
+
+ 80
+
+
+ 80
+
+
+ 80
+
+
+ 80
+
+
+ 80
+
+
+ 80
+
+
+ 80
+
+
+ 80
+
+
+ 80
+
+
+ 80
+
+
+ 80
+
+
+ 80
+
+
+
+
+
+
+Base Cryo Amp
+
+
+ 11%
+
+
+ 12%
+
+
+ 13%
+
+
+ 14%
+
+
+ 15%
+
+
+ 16%
+
+
+ 17%
+
+
+ 18%
+
+
+ 19%
+
+
+ 21%
+
+
+ 22%
+
+
+ 24%
+
+
+
+
+
+
+Base Nature Amp
+
+
+ 11%
+
+
+ 12%
+
+
+ 13%
+
+
+ 14%
+
+
+ 15%
+
+
+ 16%
+
+
+ 17%
+
+
+ 18%
+
+
+ 19%
+
+
+ 21%
+
+
+ 22%
+
+
+ 24%
+
+
+
+
+
+
+Amp Increase per Intellect
+
+
+ 0.014%
+
+
+ 0.015%
+
+
+ 0.016%
+
+
+ 0.018%
+
+
+ 0.019%
+
+
+ 0.02%
+
+
+ 0.022%
+
+
+ 0.023%
+
+
+ 0.024%
+
+
+ 0.026%
+
+
+ 0.028%
+
+
+ 0.03%
+
+
+
+
+
+
+Intellect raises Amp limit
+
+
+ 30%
+
+
+ 30%
+
+
+ 30%
+
+
+ 30%
+
+
+ 30%
+
+
+ 30%
+
+
+ 30%
+
+
+ 30%
+
+
+ 30%
+
+
+ 30%
+
+
+ 30%
+
+
+ 36%
+
+
+
+
+
+
+Duration (s)
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+ 12
+
+
+
+
+
+
+
+
+
+
+Skill upgrades
+
+
+6
+1
+1K
+
+
+12
+2
+2.7K
+
+
+16
+1
+3.2K
+
+
+21
+1
+4.2K
+
+
+27
+2
+5.4K
+
+
+6
+1
+8.2K
+
+
+8
+1
+10.5K
+
+
+15
+2
+18K
+
+
+Cooldown
+1
+15
+6
+3
+24K
+Distributed DoS
+1
+15
+6
+3
+24K
+Stress Testing
+1
+15
+6
+3
+24K
+Stack Overflow
+1
+15
+6
+3
+24K
+
+
+Cooldown
+2
+24
+16
+6
+30K
+Distributed DoS
+2
+24
+16
+6
+30K
+Stress Testing
+2
+24
+16
+6
+30K
+Stack Overflow
+2
+24
+16
+6
+30K
+
+
+Cooldown
+3
+50
+36
+12
+65K
+Distributed DoS
+3
+50
+36
+12
+65K
+Stress Testing
+3
+50
+36
+12
+65K
+Stack Overflow
+3
+50
+36
+12
+65K
+
+
+
+
+Talents
+
+
+
+
+
+
+ Stalwart
+
+
+
+
+
+
+
+
+
+
+Operator Will +10.
+
+
+
+
+
+
+
+
+
+Operator Will +15.
+
+
+
+
+
+
+
+
+
+Operator Will +15.
+
+
+
+
+
+
+
+
+
+Operator Will +20.
+
+
+
+
+
+
+
+
+
+ Execute Process
+
+
+
+
+
+
+
+
+
+
+Combo skill 
+Stress Testing
+ improved: Hitting an enemy with 
+Cryo Infliction
+ or 
+Solidification
+ also causes the enemy to take 
+Cryo DMG Dealt
+ 
++7%
+ for 
+5
+s. This effect cannot stack.
+
+
+
+
+
+
+
+
+
+Combo skill 
+Stress Testing
+ improved: Hitting an enemy with 
+Cryo Infliction
+ or 
+Solidification
+ also causes the enemy to take 
+Cryo DMG Dealt
+ 
++10%
+ for 
+5
+s. This effect cannot stack.
+
+
+
+
+
+
+
+
+
+ Freeze Protocol
+
+
+
+
+
+
+
+
+
+
+Ultimate 
+Stack Overflow
+ improved: The ultimate also 
+dispels
+ 
+Cryo Infliction
+ and 
+Solidification
+ from the entire team.
+
+
+
+
+
+
+
+
+
+ Outfitting
+
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip blue quality gear
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip purple quality gear
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip gold quality gear
+
+
+
+
+
+
+
+Talent upgrades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+1K
+
+
+
+
+
+
+10
+1.8K
+
+
+
+
+
+
+10
+6K
+
+
+
+
+
+
+20
+12K
+
+
+
+
+
+
+
+
+
+
+
+
+12
+2.4K
+
+
+
+
+
+
+48
+10.8K
+
+
+
+
+
+–
+
+
+
+–
+
+
+
+
+
+
+
+
+
+–
+
+
+
+–
+
+
+
+
+36
+32K
+
+
+
+
+
+–
+
+
+
+
+
+
+
+
+
+
+1.6K
+
+
+
+
+
+
+6.5K
+
+
+
+
+
+
+18K
+
+
+
+
+
+–
+
+
+
+
+
+
+Base Skills
+
+
+
+
+
+
+ Standardized Scripting
+
+
+
+
+
+
+
+
+
+
+Assign to Manufacturing Cabin to grant operator EXP material production efficiency +10%
+
+
+
+
+
+
+
+
+
+Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%
+
+
+
+
+
+
+
+
+
+ Murmuring Session
+
+
+
+
+
+
+
+
+
+
+Assign to Reception Room to grant operators a small Clue 5 Rate-UP: Cabal of Tranquility (activates upon assignment; effects of the same type cannot stack)
+
+
+
+
+
+
+
+
+
+Assign to Reception Room to grant operators Clue 5 Rate-UP: Cabal of Tranquility (activates upon assignment; effects of the same type cannot stack)
+
+
+
+
+
+
+
+Base Skill upgrades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+1.6K
+
+
+
+
+
+–
+
+
+
+
+12
+8K
+
+
+
+
+
+–
+
+
+
+
+
+
+
+
+
+–
+
+
+
+
+12
+3K
+
+
+
+
+
+–
+
+
+
+
+20
+20K
+
+
+
+
+
+
+Changelog
+
+
+
+
+Zeroth Directive
+
+
+Talent Execute Process
+
+Cryo DMG taken
+ debuff reduced from +10% / +15% to +7% / +10%.
+
+
+Effect duration reduced from 
+15
+s to 
+5
+s
+
+
+Base Skill Vitreologist changed to Murmuring Session
+
+Old: Assign to Growth Chamber to grant vitrified plant growth rate +10% / +20%.
+
+
+New: Assign to Reception Room to grant operators [a small] Clue 5 Rate-UP: Cabal of Tranquility (activates upon assignment; effects of the same type cannot stack)
+
+
+Beta Test II
+
+
+Rarity increased to 5.
+
+
+Beta Test I
+
+
+Class changed to 
+Supporter
+.
+
+
+Technical Test
+ introduced.
+
+
+Navigation
+
+
+View or edit this template
+Operators
+ Guard
+
+
+Endministrator
+
+
+Lifeng
+
+
+Chen Qianyu
+
+
+Estella
+
+
+ Defender
+
+
+Ember
+
+
+Snowshine
+
+
+Catcher
+
+
+ Supporter
+
+
+Ardelia
+
+
+Gilberta
+
+
+Xaihi
+
+
+Antal
+
+
+ Caster
+
+
+Perlica
+
+
+Wulfgard
+
+
+Fluorite
+
+
+ Striker
+
+
+Laevatain
+
+
+Last Rite
+
+
+Yvonne
+
+
+Avywenna
+
+
+Da Pan
+
+
+ Vanguard
+
+
+Pogranichnik
+
+
+Alesh
+
+
+Arclight
+
+
+Akekuri
+
+
+
+
+
+
+
+
+

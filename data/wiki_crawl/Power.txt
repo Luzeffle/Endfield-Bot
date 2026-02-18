@@ -1,0 +1,93 @@
+URL: https://endfield.wiki.gg/wiki/Power
+
+
+
+
+
+Automated Industry Complex
+
+
+
+
+
+
+Resourcing
+
+
+
+
+Logistics Units
+
+
+
+
+Depot Access
+
+
+
+
+Production I
+
+
+
+
+Production II
+
+
+
+
+
+
+Power
+
+
+
+
+Miscellaneous
+
+
+
+
+Combat & Support
+
+
+
+
+Planting
+
+
+
+
+
+
+
+
+Power facilities are used to provide electricity across the AIC factory network. Without them, certain facilities may not be able to function.
+
+Unlike other facilities, these 
+do not
+ consume any power of the PAC.
+
+
+
+
+
+
+
+Tier 1
+
+
+
+
+
+
+Tier 2
+
+
+
+
+
+
+
+
+

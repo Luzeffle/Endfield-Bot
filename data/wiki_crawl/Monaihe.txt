@@ -1,0 +1,757 @@
+URL: https://endfield.wiki.gg/wiki/Monaihe
+
+Monaihe
+Icon
+Full
+Max
+File:Monaihe max model.png
+Internal name
+
+wpn_funnel_0007
+In Other Languages
+Simplified Chinese
+
+
+莫奈何
+Traditional Chinese
+
+
+莫奈何
+Japanese
+
+
+術無
+Korean
+
+
+무가내하
+Spanish
+
+
+Monaihe
+Russian
+
+
+Монаихэ
+Information
+Type
+
+Arts Unit
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+Monaihe
+ is a 5★ 
+Arts Unit
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+An Arts unit developed by Hongshan Swordmancers and made using Xiranite. Given the fickle nature of this rare material, only wielders capable of the highest levels of focus and precision could wield this Arts unit effectively.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+42
+
+
+120
+
+
+203
+
+
+286
+
+
+369
+
+
+411
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Inspiring: Mortise-and-Tenon Analysis
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Monaihe to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Monaihe to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Monaihe to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Monaihe to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Will Boost [M]
+
+
+
+Ultimate Gain Efficiency Boost [M]
+
+
+
+Inspiring: Mortise-and-Tenon Analysis
+
+
+
+
+
+
+
+
+
+Will 
++16
+
+
+
+
+Ultimate Gain Efficiency 
++4.76%
+
+
+
+
+Main Attribute 
++5%
+. Arts Intensity 
++25
+.
+
+
+
+
+
+
+
+
+
+Will 
++28
+
+
+
+
+Ultimate Gain Efficiency 
++8.57%
+
+
+
+
+Main Attribute 
++6%
+. Arts Intensity 
++30
+.
+
+
+
+
+
+
+
+
+
+Will 
++41
+
+
+
+
+Ultimate Gain Efficiency 
++12.38%
+
+
+
+
+Main Attribute 
++7%
+. Arts Intensity 
++35
+.
+
+
+
+
+
+
+
+
+
+Will 
++54
+
+
+
+
+Ultimate Gain Efficiency 
++16.19%
+
+
+
+
+Main Attribute 
++8%
+. Arts Intensity 
++40
+.
+
+
+
+
+
+
+
+
+
+Will 
++67
+
+
+
+
+Ultimate Gain Efficiency 
++20%
+
+
+
+
+Main Attribute 
++9%
+. Arts Intensity 
++45
+.
+
+
+
+
+
+
+
+
+
+Will 
++80
+
+
+
+
+Ultimate Gain Efficiency 
++23.81%
+
+
+
+
+Main Attribute 
++10%
+. Arts Intensity 
++50
+.
+
+
+
+
+
+
+
+
+
+Will 
++92
+
+
+
+
+Ultimate Gain Efficiency 
++27.62%
+
+
+
+
+Main Attribute 
++11%
+. Arts Intensity 
++55
+.
+
+
+
+
+
+
+
+
+
+Will 
++105
+
+
+
+
+Ultimate Gain Efficiency 
++31.43%
+
+
+
+
+Main Attribute 
++12%
+. Arts Intensity 
++60
+.
+
+
+
+
+
+
+
+
+
+Will 
++124
+
+
+
+
+Ultimate Gain Efficiency 
++37.14%
+
+
+
+
+Main Attribute 
++14%
+. Arts Intensity 
++70
+.
+
+
+
+Basic Info
+
+
+Your graduation exams take place tomorrow, my dear. The importance of this review can't be overemphasized as the results will determine the job you'll be assigned with. I hoped to drive you to your exam but my Blight Tide monitoring job got in the way.
+I believe you've already made all the essential preparations, but I must highlight the difficult challenge posed by the Originium Arts precision assessment. This is where most candidates fail, but you must succeed if you wish to join the Yinglung Special Task Force.
+For this assessment, you'll be using an Arts Unit that the Hongshan Swordmancers specifically developed for Wuling. This unit includes Xiranite components whose circuitries change with the material. Wielding it would put your focus and all your senses to the test.
+You probably know all of this by now. Youths of your age are calling this Arts Unit as Monaihe and I can't help but agree. You won't find another Arts Unit capable of eliciting more helpless frustration and anger from its wielder. The nickname even caught on with grown-ups like us.
+I'm afraid I can't tell you more about this puzzle-box of an Arts Unit just to keep the assessment fair. Nevertheless, I have complete faith in you. Remember the wooden lock puzzles I bought you when you were a child? They kept you busy for a while but you always found a way to take them apart. Monaihe is the same thing. Overcome it like how you overcame those lock puzzles. Focus on the challenge and enjoy the process.
+Good luck out there.
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

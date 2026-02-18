@@ -1,0 +1,110 @@
+URL: https://endfield.wiki.gg/wiki/Depot_Access
+
+
+
+
+
+Automated Industry Complex
+
+
+
+
+
+
+Resourcing
+
+
+
+
+Logistics Units
+
+
+
+
+Depot Access
+
+
+
+
+Production I
+
+
+
+
+Production II
+
+
+
+
+
+
+Power
+
+
+
+
+Miscellaneous
+
+
+
+
+Combat & Support
+
+
+
+
+Planting
+
+
+
+
+
+
+
+
+Depot Access facilities are structures that interact directly with items in the Depot.
+
+They are used to distribute items from the Depot to the production line and vice versa.
+
+A unique case is the 
+ 
+Fluid Tank
+ which only stores item in itself and does not directly interact with the Depot.
+
+
+
+
+
+
+
+Tier 1
+
+
+
+
+
+
+Tier 2
+
+
+
+
+
+
+Tier 3
+
+
+
+
+
+
+Tier 4
+
+
+
+
+
+
+
+
+

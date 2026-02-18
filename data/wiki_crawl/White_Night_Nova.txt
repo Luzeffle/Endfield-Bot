@@ -1,0 +1,845 @@
+URL: https://endfield.wiki.gg/wiki/White_Night_Nova
+
+White Night Nova
+Icon
+Full
+Max
+File:White Night Nova max model.png
+Internal name
+
+wpn_sword_0014
+In Other Languages
+Simplified Chinese
+
+
+白夜新星
+Traditional Chinese
+
+
+白夜新星
+Japanese
+
+
+白夜新星
+Korean
+
+
+백야의 별
+Spanish
+
+
+Nova de la noche blanca
+Russian
+
+
+Звезда белых ночей
+Information
+Type
+
+Sword
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+White Night Nova
+ is a 6★ 
+Sword
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+One of the weapons from the furnaces of Fort Forgefane. The grip was constructed using a special rod drawing process to enhance force damping and grip. The blade itself was forged with a rare mineral quarried from the wildlands.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+51
+
+
+148
+
+
+250
+
+
+352
+
+
+454
+
+
+505
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Infliction: White Night Nova
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise White Night Nova to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise White Night Nova to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise White Night Nova to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise White Night Nova to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Main Attribute Boost [L]
+
+
+
+Arts Intensity Boost [L]
+
+
+
+Infliction: White Night Nova
+
+
+
+
+
+
+
+
+
+Main attribute 
++17
+
+
+
+
+Arts Intensity 
++10
+
+
+
+
+Arts DMG Dealt 
++12%
+. After the wielder applies 
+Combustion
+ or 
+Electrification
+, the wielder gains Arts DMG Dealt 
++12%
+ and Arts Intensity 
++25
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++30
+
+
+
+
+Arts Intensity 
++18
+
+
+
+
+Arts DMG Dealt 
++14.4%
+. After the wielder applies 
+Combustion
+ or 
+Electrification
+, the wielder gains Arts DMG Dealt 
++14.4%
+ and Arts Intensity 
++30
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++44
+
+
+
+
+Arts Intensity 
++26
+
+
+
+
+Arts DMG Dealt 
++16.8%
+. After the wielder applies 
+Combustion
+ or 
+Electrification
+, the wielder gains Arts DMG Dealt 
++16.8%
+ and Arts Intensity 
++35
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++57
+
+
+
+
+Arts Intensity 
++34
+
+
+
+
+Arts DMG Dealt 
++19.2%
+. After the wielder applies 
+Combustion
+ or 
+Electrification
+, the wielder gains Arts DMG Dealt 
++19.2%
+ and Arts Intensity 
++40
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++71
+
+
+
+
+Arts Intensity 
++42
+
+
+
+
+Arts DMG Dealt 
++21.6%
+. After the wielder applies 
+Combustion
+ or 
+Electrification
+, the wielder gains Arts DMG Dealt 
++21.6%
+ and Arts Intensity 
++45
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++85
+
+
+
+
+Arts Intensity 
++50
+
+
+
+
+Arts DMG Dealt 
++24%
+. After the wielder applies 
+Combustion
+ or 
+Electrification
+, the wielder gains Arts DMG Dealt 
++24%
+ and Arts Intensity 
++50
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++98
+
+
+
+
+Arts Intensity 
++58
+
+
+
+
+Arts DMG Dealt 
++26.4%
+. After the wielder applies 
+Combustion
+ or 
+Electrification
+, the wielder gains Arts DMG Dealt 
++26.4%
+ and Arts Intensity 
++55
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++112
+
+
+
+
+Arts Intensity 
++66
+
+
+
+
+Arts DMG Dealt 
++28.8%
+. After the wielder applies 
+Combustion
+ or 
+Electrification
+, the wielder gains Arts DMG Dealt 
++28.8%
+ and Arts Intensity 
++60
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++132
+
+
+
+
+Arts Intensity 
++78
+
+
+
+
+Arts DMG Dealt 
++33.6%
+. After the wielder applies 
+Combustion
+ or 
+Electrification
+, the wielder gains Arts DMG Dealt 
++33.6%
+ and Arts Intensity 
++70
+ for 15.00s. 
+Effects of the same name cannot stack.
+
+
+
+
+Basic Info
+
+
+She began to think why she was selected for this mission.
+It was because of her mastery of the cryogenic Arts and adaptation to the icefields, but more importantly, it was her wildlands pathfinding skills. It was intuitive to her. She could read the stars in the night skies and use them as guiding beacons. The Order of Steel Oath was only founded barely a year ago. She was the best candidate for a scout and someone capable of re-establishing a link between the severed civilizations.
+She understood her mission and set off with that hard drive.
+The hard drive contained all the data that the Order of Steel Oath collected over the year about the North, their enemies, and their allies. The fearless souls once stepped out of the group and assembled in a separate formation. They recited their steel hard oaths and left Civilization to head into the North, back into the devastated fields of war. There they used themselves as lures to divert Aggeloid offensives... Many people treated their departure as a sign — A sign for the impending disintegration of Civilization. The pessimists believed that once Civilization began mobilizing people to sacrifice themselves, it would inevitably continue to check certain groups people for the grinder... These self-sacrificing individuals, whom we now call the Oathkeepers, were aware of this. Hence, they must re-connect the Civilizations. The information earned with their lives must become a navigational star to light the way ahead.
+And now this small, nascent "star" rested in the courier's backpack. She panted heavily with every step through the cold air and snow.
+Blood coursed down her arms and dripped all over the ground. Her left arm and left leg were almost completely shattered. She felt every white, hot jolt of pain as bits of bone grated against the soft tissue. Her wounds were inflicted by a new Aggeloid that was never catalogued. The courier thought about the gates of the fort... Perhaps the abomination was created as a siege weapon.
+Random thoughts surged through her mind. When the Oathkeepers first marched North, they encountered uncatalogued Aggeloi nearly everyday. It would seem that they were beset by an interrogator more than eager to showcase his repertoire of torture devices. Aggeloi designed to kill and massacre with ever-increasing efficacy started to appear throughout the battlefield. Defeating this host will be costly — It will require uncountable lives hellbent on a relentless march...
+"Defeating the host... That's right..."
+The courier suddenly remembered that she was still alive. She, not the Aggelos, was the victor of that battle... She was the one that froze that long, heavy, and rampaging agglomeration of rock ... and shattered it to pieces... Its fragments glittered in the sunlight like the stars themselves.
+Other thoughts began to surface.
+"The stars can guide my way. Mom and Dad taught me that they could guide travelers in the wildlands... No... We are the stars themselves... I must tell them that we stood our ground in the far North where it is colder than death... They will hear this ... and ignite the embers of hope..."
+More of her blood flowed and seeped into the permafrost.
+"But where is the star? Is it in my hands?
+"Where am I?
+"I cannot see it. The night looms before my eyes, but why ... why won't any of the stars glitter for me?"
+......
+"It's because the old stars have faded away, but the new stars have yet to be born..."
+She tried to raise her hand as high as she could... Her Arts caused the ice to sprout from the bloodsoaked earth beneath her, creep up her body, smother her face, course across the length of her arm, and reach skywards. Its tip was directed towards safety.
+"Go higher, and higher still... Be the nova that points the way." Her final thought was crystallized. All that was left was the nascent star wholly forged of frigid ice.
+......
+She would not know that after many weeks, other couriers followed her guide and reached further south. Their journey ended at the edge of the permafrost. More followed, singers of painful hannas, travelers who need to cross the fields of war...
+The little "nova" was handed to many people. In its final destination, the great vessel named Dijiang used it to light the northern skies.
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

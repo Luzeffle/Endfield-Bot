@@ -1,0 +1,333 @@
+URL: https://endfield.wiki.gg/wiki/Gun_Tower
+
+Gun Tower
+In Other Languages
+Simplified Chinese
+
+
+铳械塔
+Traditional Chinese
+
+
+銃械塔
+Japanese
+
+
+銃器塔
+Korean
+
+
+총기 타워
+Spanish
+
+
+Torre de cañón
+Russian
+
+
+Орудийная вышка
+General Information
+Type
+
+Facilities
+Rarity
+
+1
+Power Use
+
+5
+
+
+Gun Tower
+ is an 
+AIC
+ 
+Combat & Support
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+Once the complex firing mechanism was simplified, it was combined with the logic of automation designs to create this integrated weapon platform. Many frontier outposts and villages used prototypes of this system to defend themselves against dangerous wildlife.
+
+
+Usage
+
+
+ATK
+: 
+609
+
+
+Attack Interval
+: 
+2
+s
+
+
+Attack Range
+: 
+15
+ meters
+
+
+Mode of Attack
+: Continuously fires energy bolts that deal 
+Physical DMG
+.
+
+
+Power Use : 5
+
+
+Acquisition
+
+
+Production: 
+Basic AIC Plan - Basic AIC I - Defense I
+
+
+
+
+
+
+Facility
+
+
+
+Cost
+
+
+
+Product
+
+
+
+Time
+
+
+
+
+
+Construct
+
+
+
+
+10
+
+
+
+
+1
+
+
+
+
+-
+
+
+
+Navigation
+
+
+View or edit this template
+Facilities
+Resourcing
+ 
+Portable Originium Rig
+ • 
+ 
+Electric Mining Rig
+ • 
+ 
+Electric Mining Rig Mk II
+ • 
+ 
+Fluid Pump
+Logistics Units
+ 
+Item Control Port
+ • 
+ 
+Splitter
+ • 
+ 
+Belt Bridge
+ • 
+ 
+Converger
+ • 
+ 
+Pipe Control Port
+ • 
+ 
+Pipe Splitter
+ • 
+ 
+Pipe Bridge
+ • 
+ 
+Pipe Converger
+Depot Access
+ 
+Protocol Stash
+ • 
+ 
+Depot Loader
+ • 
+ 
+Depot Unloader
+ • 
+ 
+Fluid Tank
+ • 
+ 
+Depot Bus Section
+ • 
+ 
+Depot Bus Port
+Production I
+ 
+Refining Unit
+ • 
+ 
+Shredding Unit
+ • 
+ 
+Fitting Unit
+ • 
+ 
+Moulding Unit
+ • 
+ 
+Planting Unit
+ • 
+ 
+Seed-Picking Unit
+Production II
+ 
+Gearing Unit
+ • 
+ 
+Filling Unit
+ • 
+ 
+Packaging Unit
+ • 
+ 
+Grinding Unit
+ • 
+ 
+Reactor Crucible
+ • 
+ 
+Forge of the Sky
+ • 
+ 
+Separating Unit
+Power
+ 
+Electric Pylon
+ • 
+ 
+Relay Tower
+ • 
+ 
+Xiranite Pylon
+ • 
+ 
+Xiranite Relay
+ • 
+ 
+Thermal Bank
+Miscellaneous
+ 
+Easy Stash
+ • 
+ 
+Memo Beacon
+ • 
+ 
+Zipline Pylon
+ • 
+ 
+Zipline Tower
+ • 
+ 
+Sprinkler
+ • 
+ 
+Fluid Supply Unit
+Combat & Support
+ 
+Gun Tower
+ • 
+ 
+Medical Tower
+ • 
+ 
+Grenade Tower
+ • 
+ 
+LN Tower
+ • 
+ 
+Heavy Gun Tower
+ • 
+ 
+Omnidirectional Sonic Tower
+ • 
+ 
+Beam Tower
+ • 
+ 
+Surge Tower
+ • 
+ 
+Sentry Tower
+ • 
+ 
+HE Grenade Tower
+ • 
+ 
+Marsh Gas Mk I
+Planting
+ 
+Buckflower Plot
+ • 
+ 
+Citrome Plot
+ • 
+ 
+Sandleaf Plot
+ • 
+ 
+Aketine Plot
+ • 
+ 
+Jincao Plot
+ • 
+ 
+Yazhen Plot
+ • 
+ 
+Reed Rye Plot
+ • 
+ 
+Tartpepper Plot
+ • 
+ 
+Redjade Ginseng Plot
+ • 
+ 
+Amber Rice Plot
+
+
+
+
+
+
+

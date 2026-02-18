@@ -1,0 +1,70 @@
+URL: https://endfield.wiki.gg/wiki/Changelog/2026/January_29
+
+1/29 - Optimization & Quick Update Notice
+
+
+ 
+
+
+Dear Endministrator,
+The servers will undergo a quick update from 2026-01-29 19:00 to 2026-01-29 19:10 (UTC-5). During this time, all Endministrators will be logged out and unable to access the game.
+In this update, we have optimized and adjusted certain experience issues present in the current version and fixed related bugs. The following are the details of this update:
+▼// Optimizations & Adjustments
+◆ Optimized the completion and reward claiming process for [Simulation]. If you have already mastered the AIC Plan content within a simulation, you can now click the "Complete SIM" button to finish the session and claim both first-clear and bonus rewards instantly. In future versions, engraved medals will be awarded based on the total number of fully experienced and completed [Simulation] sessions. All current and post-update completion records will be counted. Please stay tuned to official announcements for further details.
+◆ Reduced the HP of certain enemies between Level 10 and Level 50.
+◆ Reduced the damage resistance of certain enemies in the [Wuling] region.
+◆ Reduced the Attack of the Boss [Marble Aggelomoirai] while in its awake status.
+◆ Optimized the prompt information on the Endministrator name input screen when using a controller on PC.
+◆ Optimized certain sound effects and voice-over performances.
+◆ Optimized the animation performance of certain NPCs.
+◆ Optimized certain interaction effects.
+▼// Bug Fixes
+◆Fixed an issue where opening multiple Exchange Crates-o-Surprise [M] in Protocol Pass: Awaken granted only one reward. All affected Endministrators shall receive compensation with a matching quantity of items. The compensation mail will be delivered soon, so please be patient.
+◆ Fixed an issue where, under specific circumstances, the main mission [Chapter I Process I: Valley Reboot] could not proceed due to an anomaly in the guidance of power transmission with Relay Towers.
+◆ Fixed an issue where, under specific circumstances, the main mission [Chapter Ⅰ Process Ⅰ: Secure Sanctuary] could not proceed after defeating the Landbreaker(s).
+◆ Fixed an issue where, under specific circumstances, the main mission [Chapter Ⅰ Process Ⅰ: Fort Showdown] prevented players from traveling to the Valley Fort.
+◆ Fixed an issue where, under specific circumstances, the mission "Go to the shaft leading to the Power Plateau" in the main mission [Chapter Ⅰ Process Ⅲ: Cradle of the Ages] could not be completed normally.
+◆ Fixed an issue where, under specific circumstances, the mission "Defeat the quillbeasts" in the main mission [Chapter Ⅱ Process Ⅰ: Arrival at Wuling] could not be completed normally.
+◆ Fixed an issue where, under specific circumstances, the third waterwheel could not be restarted in the main mission [Chapter Ⅱ Process Ⅰ: Destination Wuling].
+◆ Fixed an issue where, under specific circumstances, the main mission [Chapter Ⅱ Process Ⅱ: The Surging Tide] could not proceed because the Wuling AIC Plan could not be viewed.
+◆ Fixed an issue where, under specific circumstances, the mission flow for the side mission [Invisible Glyphs: Revelation] was abnormal.
+◆ Fixed an issue where, under specific circumstances, the crane lifter in the scene failed to move with the sliding block after interacting with the Crane Lifter Terminal in the side mission [Fix the Super Crane].
+◆ Fixed an issue where, under specific circumstances, the robot in the mission scene would still display "SOS" after completing the side mission [A Robot's Dream].
+◆ Fixed an issue where, under specific circumstances, the dialogue in the exploration mission [OD Project: Reconstruction HQ II] could not proceed normally.
+◆ Fixed an issue where, under specific circumstances, the mission "Follow Eric and find the phonograph" in the exploration mission [Morale Booster] could not be completed normally.
+◆ Fixed an issue where, under specific circumstances, the progress for repairing the hydrocubes in the exploration mission [Silent Grove: The Beginning] was abnormal.
+◆ Fixed an issue where, under specific circumstances, the note on the ground could not be viewed in the exploration mission [Silent Grove: The Beginning].
+◆ Fixed an issue where, under specific circumstances, the side mission [Echoes of Then] could not be completed during the narrative event [Let Fire Consume the Ashen Past].
+◆ Fixed an issue where, under specific circumstances, the enhanced special effects for the Operator [Laevatain] would display abnormally after casting her ultimate.
+◆ Fixed an issue where, under specific circumstances, the game camera would behave abnormally after the Operator [Yvonne] defeated an enemy while her ultimate was active.
+◆ Fixed an issue where the skill description text for the 6★ weapon [Grand Vision] displayed abnormally; this fix does not affect the actual effects of the weapon skill.
+◆ Fixed an issue where, under specific circumstances, the screen would behave abnormally when selecting a cultivation subject in the Dijiang Growth Chamber.
+◆ Fixed an issue where, under specific circumstances, the maintenance digits displayed on a [Shared Facility] would appear abnormally after placement.
+◆ Fixed an issue where, under specific circumstances, the [Yield Overview] screen could not be opened within the [Simulation].
+◆ Fixed an issue where, under specific circumstances, the landing point of the Bounce Device was abnormal.
+◆ Fixed an issue where, under specific circumstances, an operator would respawn abnormally after falling into water.
+◆ Fixed an issue where operators could abnormally place facilities while performing a dive attack.
+◆ Fixed an issue where, in some map scenes, smoke special effects would display abnormally and fail to disappear.
+◆ Fixed an issue where, under specific circumstances, the screen could occasionally become unresponsive when the in-game reward interface popped up after purchasing items via the Payment Center webpage.
+◆ Fixed an issue where some text errors occurred.
+◆ Fixed an issue where certain screens displayed incorrectly under specific circumstances.
+▼// Update Compensation
+This quick update includes repairs for several important issues. The following update compensation will be distributed via in-game mail.
+· Oroberyl×200
+· Emergency Sanity Booster×1
+We've optimized parts of the current version to improve the experience. The following adjustment compensation will be distributed via in-game mail.
+· Oroberyl×500
+· Emergency Sanity Booster×5
+· Sanity Usage Permit×20
+Distribution Period: Jan. 29, 2026 after the quick update - Before the next version update and maintenance
+Eligibility: All Endministrators who registered and created a character before the update on Jan. 29, 2026 at 7:00 PM (UTC-5)
+Note: Claimable after unlocking the [Mail] function. The mail is valid for 30 days. Please be sure to claim it in time.
+※ We will continue to optimize game content, with more features and experience improvements currently in ongoing development.
+Thank you for your continued interest and support for Arknights: Endfield, Endministrator!
+
+
+
+
+
+
+

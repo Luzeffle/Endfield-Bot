@@ -1,0 +1,930 @@
+URL: https://endfield.wiki.gg/wiki/TP_Point
+
+Notice
+This page contains content that is 
+outdated
+ and may no longer reflect the current state of the game.
+
+
+In the overworld there are natural contents that are not placed by the players, but are in a fixed position waiting to be discovered. Important overworld contents are marked in the map.
+
+
+
+Contents
+
+
+
+
+1
+ 
+Gathering/Mining Site
+
+
+2
+ 
+TP Point
+
+
+3
+ 
+Electric Nexus
+
+
+4
+ 
+Recycling Station
+
+
+5
+ 
+VR Simulator
+
+
+6
+ 
+Outpost
+
+
+7
+ 
+Others
+
+
+
+
+
+
+Gathering/Mining Site
+
+
+You can gather all sorts of resources from 
+Talos-II
+. Some can be gathered immediately, while others must be 
+attacked
+ and smashed into smaller pieces before they can be gathered.
+― Tutorial
+
+
+A crucial part of the progression of 
+Operators
+, Gathering Sites contain Vitros and Fungis mandatory for Promotions and Skill Upgrades while Mining Sites contain Minerals that are mandatory for Tuning. Minerals are attackable and scatter after multiple hits to be collectable, while Vitros and Fungis can be collected from the get-go.
+
+
+
+
+
+
+
+Type
+
+
+
+
+Tier 1
+
+
+
+
+Location
+
+
+
+
+Tier 2
+
+
+
+
+Location
+
+
+
+
+Tier 3
+
+
+
+
+Location
+
+
+
+
+Tier 4
+
+
+
+
+Location
+
+
+
+
+
+
+Vitro
+
+
+
+
+
+
+
+
+
+
+The Hub
+
+
+Valley Pass
+
+
+Aburrey Quarry
+
+
+
+
+
+
+
+
+
+
+The Hub
+
+
+Originium Science Park
+
+
+Origin Lodespring
+
+
+
+
+
+
+
+
+Power Plateau
+
+
+
+
+
+
+
+
+Wuling Outskirts
+
+
+
+
+
+
+Fungi
+
+
+
+
+
+
+
+
+
+
+The Hub
+
+
+Valley Pass
+
+
+Aburrey Quarry
+
+
+
+
+
+
+
+
+
+
+The Hub
+
+
+Originium Science Park
+
+
+Origin Lodespring
+
+
+Power Plateau
+
+
+
+
+
+
+
+
+Power Plateau
+
+
+
+
+
+
+
+Wuling Outskirts
+
+
+
+
+
+Mineral
+
+
+
+
+
+
+
+
+
+
+The Hub
+
+
+Valley Pass
+
+
+Aburrey Quarry
+
+
+
+
+
+
+
+
+
+
+The Hub
+
+
+Originium Science Park
+
+
+Origin Lodespring
+
+
+
+
+
+
+
+
+Power Plateau
+
+
+
+
+
+
+
+Wuling Outskirts
+
+
+
+TP Point
+
+
+Activate the 
+TP Point
+ to use its functions. The 
+Rest
+ function can resuscitate all disconnected operators and restore the entire team to 
+Max HP
+. When you are near a 
+TP Point
+, you can select the 
+Manage Depot
+ function and store Backpack items you do not need in the Depot to free up more Backpack space.
+― Tutorial
+
+
+Tele-Protocol Points, or TP Points for short, are scattered around the world. Once activated, the player can teleport to the TP Point by selecting it on the map and also gains access to various functions while in immediate vicinity:
+
+
+
+Rest, to resuscitate disconnected Operators and restore the entire teams HP to max
+
+
+Manage Depot, to move items between the Backpack and the local Depot
+
+
+Submit  
+Item "
+Aurylene
+" not found in database
+
+
+Adjust Area Status, to modify the Area Status of the current Area
+
+
+When a certain amount of  
+Item "
+Aurylene
+" not found in database
+  are submitted, various rewards will be given, mainly 
+ 
+Origeometry
+ and 
+ 
+Stamina Delimiter
+.
+
+
+
+
+
+
+
+
+
+Stage
+
+
+
+
+0
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+4
+
+
+
+5
+
+
+
+6
+
+
+
+7
+
+
+
+8
+
+
+
+9
+
+
+
+10
+
+
+
+11
+
+
+
+12
+
+
+
+13
+
+
+
+14
+
+
+
+15
+
+
+
+16
+
+
+
+17
+
+
+
+
+
+Amount
+
+
+
+
+0
+
+
+
+1 
+(+1)
+
+
+
+
+3 
+(+2)
+
+
+
+
+6 
+(+3)
+
+
+
+
+11 
+(+5)
+
+
+
+
+17 
+(+6)
+
+
+
+
+24 
+(+7)
+
+
+
+
+32 
+(+8)
+
+
+
+
+41 
+(+9)
+
+
+
+
+51 
+(+10)
+
+
+
+
+63 
+(+12)
+
+
+
+
+77 
+(+14)
+
+
+
+
+93 
+(+16)
+
+
+
+
+111 
+(+18)
+
+
+
+
+135 
+(+24)
+
+
+
+
+163 
+(+28)
+
+
+
+
+195 
+(+32)
+
+
+
+
+To be continued...
+
+
+
+
+
+
+Reward
+
+
+
+
+-
+
+
+
+100
+ 
+6
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+
+
+
+
+100
+ 
+6
+ 
+1
+
+
+
+
+Electric Nexus
+
+
+Electric Nexuses
+ are usually used to power gates and switches. Hence, supply power to the Electric Nexus to control gates or switches linked to it.
+― Tutorial
+
+
+Electric Nexus generally act as an energy supply for switches to disable lasers or opening doors in the overworld; However, they are completely lacking in electricity, hence it's required to use 
+Relay Towers
+ to direct electricity to empower them for potential rewards beyond it.
+
+
+
+Recycling Station
+
+
+The Recycling Station will regularly fill up with resources. Approach a full Recycling Station to raise its material cache. Interact with it to collect all recycled resources.
+― Tutorial
+
+
+Recycling Stations recycle potential wastes in the overworld, and reproduce them as materials that are necessary for 
+Dijiang
+'s development.
+
+The Stations produce mainly Aerospace Materials, a mandatory material for upgrading facilities on Dijiang. They have a cooldown on collection, though.
+
+
+
+
+
+
+
+Area Status
+
+
+
+
+Stable
+
+
+
+Active
+
+
+
+Bustling
+
+
+
+Prosperous
+
+
+
+
+
+Rewards
+
+
+
+
+2
+
+
+
+
+4
+
+
+
+
+4
+ 
+2
+
+
+
+
+4
+ 
+4
+
+
+
+
+VR Simulator
+
+
+Many 
+VR simulators
+ can be found scattered across Talos-II. Approach and interact with these simulators to earn 
+AIC Index
+ and activate the specified 
+simulation
+.
+― Tutorial
+
+
+Devices resembling advertising balloons or tube men, VR Simulator are scattered around the lands of 
+Valley IV
+ and 
+Jinlong
+, and is a crucial part of AIC development.
+
+The locations of VR simulators have been marked on the map. Use map markers to find these VR simulators. 
+Simulations
+ are used to simulate different scenarios for using the AIC. Once activated, the simulation can be directly accessed via the 
+Operational Manual
+ or 
+AIC Factory Plan
+. Use the simulations to master the proper use of AIC facilities.
+
+
+
+Outpost
+
+
+Main article: 
+Outpost
+
+
+Others
+
+
+There are also other overworld contents that, are not marked in the map, but still possess importance in exploration.
+
+Mechanics:
+
+
+
+Originium Repair Circuitry
+
+
+Water Level
+
+
+Buildings:
+
+
+
+Tianshi Shrine
+
+
+Tianshi Pillar
+
+
+Switches:
+
+
+
+Reactive Device
+
+
+Crate-Sensitive Switch
+
+
+Percussive Device
+
+
+Creatures:
+
+
+
+Delta Robot
+
+
+Long-ear
+
+
+Timid Originium Slug
+
+
+Others:
+
+
+
+Barrel of Originium
+
+
+Sealed Crate
+
+
+Floating Crate
+
+
+Tower Crane
+
+
+Crane Lifter Terminal
+
+
+Bounce Device
+
+
+Seesaw Ramp
+
+
+Vortex
+
+
+Defensive Laser
+
+
+High Voltage Fence
+
+
+Flammable Gel
+
+
+Ankhor Shockwave
+
+
+Sluice Gate
+
+
+
+
+
+
+

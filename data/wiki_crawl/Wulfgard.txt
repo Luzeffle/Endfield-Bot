@@ -1,0 +1,2587 @@
+URL: https://endfield.wiki.gg/wiki/Wulfgard
+
+
+
+
+
+★★★★★
+Wulfgard
+
+
+
+
+Catello Wulfgard Luppino, Endfield Crisis Team. I represent the Pack. Give me any merc job, and as long as our contract stands, I'll be your claws and fangs.
+
+
+
+
+
+
+Class
+
+
+
+ 
+Caster
+
+
+
+
+
+
+Weapon
+
+
+
+ Handcannon
+
+
+
+
+
+Element
+
+
+
+ 
+Heat
+
+
+
+
+
+
+Faction
+
+
+
+ 
+Endfield Industries
+
+
+
+
+
+
+Tags
+
+
+
+Heat Infliction
+ 
+Combust
+
+
+
+
+
+
+Main Attribute
+
+
+
+ Strength
+
+
+
+
+
+Sub Attribute
+
+
+
+ Agility
+
+
+
+
+
+How to obtain
+
+
+
+Starting 
+Operator
+; Standard Headhunting
+
+
+
+Operator
+File
+Dialogue
+Gallery
+
+
+Wulfgard
+Internal name
+
+chr_0006_wolfgd
+In Other Languages
+Simplified Chinese
+
+
+狼卫
+Traditional Chinese
+
+
+狼衛
+Japanese
+
+
+ウルフガード
+Korean
+
+
+울프가드
+Spanish
+
+
+Wulfgard
+Russian
+
+
+Вулфгард
+Character Voices
+Japanese
+
+Maeno Tomoaki
+Chinese
+
+Liang Dawei
+English
+
+Jacopo Calatroni
+Korean
+
+Im Hyeok
+Basic Info
+Gender
+
+Male
+Date of Birth
+
+November 16
+Race
+
+Lupo
+Infection Status
+
+Oripathy positive (infected), based on medical examination reports.
+Physical Exam
+Physical Strength
+
+Excellent
+Tactical Acumen
+
+Standard
+Combat Skill
+
+Excellent
+Originium Arts Assimilation
+
+Standard
+Expertise & Hobbies
+Expertise 1: Combat Technique
+
+
+Combat Technique: Solo
+
+
+Wulfgard is always skilled at soloing and getting things done, and prefers bearing various responsibilities on his own.
+Expertise 2: Infiltrator
+
+
+Infiltrator: Stealth
+
+
+Hiding one's trail is a skill paramount for surviving the wildlands. Wulfgard happens to be quite gifted in this.
+Hobbies 1: Nature
+
+
+Nature: Wilderness Scout
+
+
+The wildlands is his hunting grounds. A qualified hunter is more than happy to be attuned to changes in the environment, be it ambient humidity, shifts in the wind, or the cascading sounds of the flowing creek...
+Hobbies 2: Creative
+
+
+Creative: Weapon Modding
+
+
+Modifying etched ammo might be a boring job, but he enjoys finding people to test them on.
+Gift Preference
+
+
+ Valley Protocol's Choice
+Recommended Weapons
+Matching Skills 
+🛈
+
+
+ 
+Clannibal
+ 
+Wedge
+Matching Stats 
+🛈
+
+
+ 
+Rational Farewell
+ 
+Long Road
+
+
+Contents
+
+
+
+
+1
+ 
+Profile
+
+
+2
+ 
+Stats
+
+
+
+
+2.1
+ 
+Attributes
+
+
+2.2
+ 
+Promotion
+
+
+2.3
+ 
+Potential
+
+
+
+
+
+
+3
+ 
+Combat Skills
+
+
+
+
+3.1
+ 
+Skill upgrades
+
+
+
+
+
+
+4
+ 
+Talents
+
+
+
+
+4.1
+ 
+Talent upgrades
+
+
+
+
+
+
+5
+ 
+Base Skills
+
+
+
+
+5.1
+ 
+Base Skill upgrades
+
+
+
+
+
+
+6
+ 
+Changelog
+
+
+7
+ 
+Navigation
+
+
+
+
+
+
+Profile
+
+
+"I know that strength isn't everything, but in 
+Talos-II
+, you can't live without it."
+Catello Wulfgard Luppino is a 
+Landbreaker
+ mercenary living on the fringes of the 
+Civilization Band
+, now serving on the Crisis Team at 
+Endfield Industries
+.
+Despite his youth, Wulfgard is already well-acquainted with the ficklest nature of humanity. But rather than breaking him, those experiences have given him a maturity far beyond his age. He doesn't seek conflicts, and when in doubt, he prefers to avoid direct confrontation. He is also skilled in stealth and recon combat operations. To complete his mission, the mercenary can even travel with his foes and deal the lethal strike when the enemies least expect it.
+A member of the Landbreaker clan known as the Pack, Wulfgard can be a reliable and trustworthy friend if you manage to earn his trust. But that is no easy feat.
+"Unrealistic idealism breaks more lives than it saves."
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ HP
+
+
+500
+
+
+1566
+
+
+2689
+
+
+3811
+
+
+4934
+
+
+5495
+
+
+
+
+
+
+ ATK
+
+
+30
+
+
+86
+
+
+146
+
+
+205
+
+
+264
+
+
+294
+
+
+
+
+
+
+ STR
+
+
+
+18
+
+
+
+
+49
+
+
+
+
+81
+
+
+
+
+113
+
+
+
+
+145
+
+
+
+
+161
+
+
+
+
+
+
+
+
+ AGL
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+27
+
+
+
+
+
+
+
+
+47
+
+
+
+
+
+
+
+
+66
+
+
+
+
+
+
+
+
+85
+
+
+
+
+
+
+
+
+95
+
+
+
+
+
+
+
+
+
+
+ INT
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+27
+
+
+
+
+
+
+
+
+45
+
+
+
+
+
+
+
+
+64
+
+
+
+
+
+
+
+
+83
+
+
+
+
+
+
+
+
+92
+
+
+
+
+
+
+
+
+
+
+ WIL
+
+
+
+
+
+13
+
+
+
+
+
+
+
+
+34
+
+
+
+
+
+
+
+
+56
+
+
+
+
+
+
+
+
+78
+
+
+
+
+
+
+
+
+100
+
+
+
+
+
+
+
+
+111
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Critical Rate
+
+
+0.05
+
+
+
+
+
+
+ Attack Speed
+
+
+1
+
+
+
+
+
+
+ Attack Range
+
+
+10 Meters
+
+
+
+
+
+
+Promotion
+
+
+
+
+
+
+Elite 1
+
+
+Raise Wulfgard to level 20:
+8
+3
+1.6K
+
+
+
+
+
+
+Elite 2
+
+
+Raise Wulfgard to level 40:
+25
+5
+6.5K
+
+
+
+
+
+
+Elite 3
+
+
+Raise Wulfgard to level 60:
+24
+5
+18K
+
+
+
+
+
+
+Elite 4
+
+
+Raise Wulfgard to level 80:
+36
+20
+8
+100K
+
+
+
+
+
+
+Potential
+
+
+Lone Wolf
+Strength 
++15
+, Agility 
++15
+.
+Firearm Mods
+Talent 
+Code of Restraint
+ improved: 
+Returns
+ 
+10
+ additional SP.
+Hunting Hour
+While 
+Scorching Fangs
+ is active, triggering the battle skill's additional effects immediately resets the 
+Scorching Fangs
+ duration and grants other teammates 
+Scorching Fangs
+ with 
+50%
+ of the base effects.
+Will of the Pack
+Ultimate 
+Wolven Fury
+ improved: Ultimate Energy cost 
+-15%
+.
+Natural Predator
+Casting the ultimate 
+Wolven Fury
+ immediately resets the cooldown of the combo skill 
+Frag Grenade·β
+.
+Total Cost
+5
+
+
+
+
+
+
+
+
+Combat Skills
+
+
+
+
+
+
+
+
+Rapid Fire Akimbo
+
+
+Basic Attack
+
+
+
+
+
+
+
+
+BASIC ATTACK:
+ 
+An attack with up to 4 sequences that deals 
+Heat DMG
+. As the controlled operator, 
+Final Strike
+ also deals 
+18
+ Stagger. 
+
+DIVE ATTACK:
+ 
+Basic attack performed in mid-air becomes a dive attack that deals 
+Heat DMG
+ to nearby enemies. 
+
+FINISHER:
+ 
+Basic attack performed near a Staggered enemy becomes a finisher that deals massive 
+Heat DMG
+ and recovers some SP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BATK SEQ 1 Multiplier
+
+
+ 30%
+
+
+ 33%
+
+
+ 36%
+
+
+ 39%
+
+
+ 42%
+
+
+ 45%
+
+
+ 48%
+
+
+ 51%
+
+
+ 54%
+
+
+ 58%
+
+
+ 62%
+
+
+ 68%
+
+
+
+
+
+
+BATK SEQ 2 Multiplier
+
+
+ 35%
+
+
+ 39%
+
+
+ 42%
+
+
+ 46%
+
+
+ 49%
+
+
+ 53%
+
+
+ 56%
+
+
+ 60%
+
+
+ 63%
+
+
+ 67%
+
+
+ 73%
+
+
+ 79%
+
+
+
+
+
+
+BATK SEQ 3 Multiplier
+
+
+ 56%
+
+
+ 61%
+
+
+ 67%
+
+
+ 72%
+
+
+ 78%
+
+
+ 83%
+
+
+ 89%
+
+
+ 94%
+
+
+ 100%
+
+
+ 107%
+
+
+ 115%
+
+
+ 125%
+
+
+
+
+
+
+BATK SEQ 4 Multiplier
+
+
+ 68%
+
+
+ 74%
+
+
+ 81%
+
+
+ 88%
+
+
+ 95%
+
+
+ 101%
+
+
+ 108%
+
+
+ 115%
+
+
+ 122%
+
+
+ 130%
+
+
+ 140%
+
+
+ 152%
+
+
+
+
+
+
+Finisher ATK Multiplier
+
+
+ 400%
+
+
+ 440%
+
+
+ 480%
+
+
+ 520%
+
+
+ 560%
+
+
+ 600%
+
+
+ 640%
+
+
+ 680%
+
+
+ 720%
+
+
+ 770%
+
+
+ 830%
+
+
+ 900%
+
+
+
+
+
+
+Dive ATK Multiplier
+
+
+ 80%
+
+
+ 88%
+
+
+ 96%
+
+
+ 104%
+
+
+ 112%
+
+
+ 120%
+
+
+ 128%
+
+
+ 136%
+
+
+ 144%
+
+
+ 154%
+
+
+ 166%
+
+
+ 180%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thermite Tracers
+
+
+Battle Skill
+
+
+
+
+
+
+
+
+SKILL DESCRIPTION:
+ Fires multiple shots at the target that deal some 
+Heat DMG
+. The final shot also applies 
+Heat Infliction
+. If the target has active 
+Combustion
+ or 
+Electrification
+, do not apply 
+Heat Infliction
+ but instead 
+consume
+ the Arts Reaction to fire an additional shot that deals massive 
+Heat DMG
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SP Cost
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+
+
+
+
+DMG Multiplier
+
+
+ 102%
+
+
+ 112%
+
+
+ 122%
+
+
+ 133%
+
+
+ 143%
+
+
+ 153%
+
+
+ 163%
+
+
+ 174%
+
+
+ 184%
+
+
+ 196%
+
+
+ 212%
+
+
+ 230%
+
+
+
+
+
+
+Stagger
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+
+
+
+
+Additional ATK DMG Multiplier
+
+
+ 378%
+
+
+ 415%
+
+
+ 453%
+
+
+ 491%
+
+
+ 529%
+
+
+ 566%
+
+
+ 604%
+
+
+ 642%
+
+
+ 680%
+
+
+ 727%
+
+
+ 784%
+
+
+ 850%
+
+
+
+
+
+
+Additional ATK Stagger
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frag Grenade·β
+
+
+Combo Skill
+
+
+
+
+
+
+
+
+COMBO TRIGGER:
+ When an 
+Arts Infliction
+ is applied to an enemy. 
+SKILL DESCRIPTION:
+ Throws a frag grenade at the target's location that explodes upon hitting the ground, dealing 
+Heat DMG
+ and 
+Heat Infliction
+ to nearby enemies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cooldown
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 20
+
+
+ 19
+
+
+
+
+
+
+DMG Multiplier
+
+
+ 60%
+
+
+ 66%
+
+
+ 72%
+
+
+ 78%
+
+
+ 84%
+
+
+ 90%
+
+
+ 96%
+
+
+ 102%
+
+
+ 108%
+
+
+ 116%
+
+
+ 125%
+
+
+ 135%
+
+
+
+
+
+
+Stagger
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wolven Fury
+
+
+Ultimate
+
+
+
+
+
+
+
+
+SKILL DESCRIPTION:
+ Fire a rapid barrage of shots and unleashes the 
+Wolven Fury
+ to attack nearby enemies, dealing 5 hits of 
+Heat DMG
+ and forcibly applying 
+Combustion
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate Energy Cost
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+ 90
+
+
+
+
+
+
+DMG Multiplier per SEQ
+
+
+ 32%
+
+
+ 35%
+
+
+ 38%
+
+
+ 42%
+
+
+ 45%
+
+
+ 48%
+
+
+ 51%
+
+
+ 54%
+
+
+ 58%
+
+
+ 62%
+
+
+ 66%
+
+
+ 72%
+
+
+
+
+
+
+Stagger
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+
+
+
+
+
+
+
+
+Skill upgrades
+
+
+6
+1
+1K
+
+
+12
+2
+2.7K
+
+
+16
+1
+3.2K
+
+
+21
+1
+4.2K
+
+
+27
+2
+5.4K
+
+
+6
+1
+8.2K
+
+
+8
+1
+10.5K
+
+
+15
+2
+18K
+
+
+Rapid Fire Akimbo
+1
+15
+6
+3
+24K
+Thermite Tracers
+1
+15
+6
+3
+24K
+Frag Grenade·β
+1
+15
+6
+3
+24K
+Wolven Fury
+1
+15
+6
+3
+24K
+
+
+Rapid Fire Akimbo
+2
+24
+16
+6
+30K
+Thermite Tracers
+2
+24
+16
+6
+30K
+Frag Grenade·β
+2
+24
+16
+6
+30K
+Wolven Fury
+2
+24
+16
+6
+30K
+
+
+Rapid Fire Akimbo
+3
+50
+36
+12
+65K
+Thermite Tracers
+3
+50
+36
+12
+65K
+Frag Grenade·β
+3
+50
+36
+12
+65K
+Wolven Fury
+3
+50
+36
+12
+65K
+
+
+
+
+Talents
+
+
+
+
+
+
+ Forged
+
+
+
+
+
+
+
+
+
+
+Operator Strength +10.
+
+
+
+
+
+
+
+
+
+Operator Strength +15.
+
+
+
+
+
+
+
+
+
+Operator Strength +15.
+
+
+
+
+
+
+
+
+
+Operator Strength +20.
+
+
+
+
+
+
+
+
+
+ Scorching Fangs
+
+
+
+
+
+
+
+
+
+
+Whenever Wulfgard applies 
+Combustion
+, he gains 
+Scorching Fangs
+ for 10s. This effect cannot stack. Scorching Fangs: While active, Wulfgard gains 
+Heat DMG Dealt
+ 
++20%
+.
+
+
+
+
+
+
+
+
+
+Whenever Wulfgard applies 
+Combustion
+, he gains 
+Scorching Fangs
+ for 10s. This effect cannot stack. Scorching Fangs: While active, Wulfgard gains 
+Heat DMG Dealt
+ 
++30%
+.
+
+
+
+
+
+
+
+
+
+ Code of Restraint
+
+
+
+
+
+
+
+
+
+
+Whenever the battle skill 
+Thermite Tracers
+ successfully consumes an 
+Arts Reaction
+, 
+return
+ 
+5
+ SP.
+
+
+
+
+
+
+
+
+
+Whenever the battle skill 
+Thermite Tracers
+ successfully consumes an 
+Arts Reaction
+, 
+return
+ 
+10
+ SP.
+
+
+
+
+
+
+
+
+
+ Outfitting
+
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip blue quality gear
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip purple quality gear
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip gold quality gear
+
+
+
+
+
+
+
+Talent upgrades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+1K
+
+
+
+
+
+
+10
+1.8K
+
+
+
+
+
+
+10
+6K
+
+
+
+
+
+
+20
+12K
+
+
+
+
+
+
+
+
+
+
+
+
+12
+2.4K
+
+
+
+
+
+
+40
+8.6K
+
+
+
+
+
+–
+
+
+
+–
+
+
+
+
+
+
+
+
+
+–
+
+
+
+
+48
+10K
+
+
+
+
+
+
+28
+24K
+
+
+
+
+
+–
+
+
+
+
+
+
+
+
+
+
+1.6K
+
+
+
+
+
+
+6.5K
+
+
+
+
+
+
+18K
+
+
+
+
+
+–
+
+
+
+
+
+
+Base Skills
+
+
+
+
+
+
+ Pack Techniques
+
+
+
+
+
+
+
+
+
+
+Assign to Manufacturing Cabin to grant operator EXP material production efficiency +10%
+
+
+
+
+
+
+
+
+
+Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%
+
+
+
+
+
+
+
+
+
+ Knack for the Wildlands
+
+
+
+
+
+
+
+
+
+
+Assign to Growth Chamber to grant rare mineral growth rate +20%
+
+
+
+
+
+
+
+
+
+Assign to Growth Chamber to grant rare mineral growth rate +30%
+
+
+
+
+
+
+
+Base Skill upgrades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+1.6K
+
+
+
+
+
+–
+
+
+
+
+12
+8K
+
+
+
+
+
+–
+
+
+
+
+
+
+
+
+
+–
+
+
+
+
+12
+3K
+
+
+
+
+
+–
+
+
+
+
+20
+20K
+
+
+
+
+
+
+Changelog
+
+
+
+
+Zeroth Directive
+
+
+Base Skill Mineralphile
+
+Renamed to Knack for the Wildlands
+
+
+Rare mineral growth rate increased from +10% / +20% to +20% / +30%
+
+
+Beta Test II
+
+
+Class changed to 
+Caster
+.
+
+
+Rarity increased to 5.
+
+
+Beta Test I
+
+
+Class changed to Specialist.
+
+
+Technical Test
+ introduced.
+
+
+Navigation
+
+
+View or edit this template
+Operators
+ Guard
+
+
+Endministrator
+
+
+Lifeng
+
+
+Chen Qianyu
+
+
+Estella
+
+
+ Defender
+
+
+Ember
+
+
+Snowshine
+
+
+Catcher
+
+
+ Supporter
+
+
+Ardelia
+
+
+Gilberta
+
+
+Xaihi
+
+
+Antal
+
+
+ Caster
+
+
+Perlica
+
+
+Wulfgard
+
+
+Fluorite
+
+
+ Striker
+
+
+Laevatain
+
+
+Last Rite
+
+
+Yvonne
+
+
+Avywenna
+
+
+Da Pan
+
+
+ Vanguard
+
+
+Pogranichnik
+
+
+Alesh
+
+
+Arclight
+
+
+Akekuri
+
+
+
+
+
+
+
+
+

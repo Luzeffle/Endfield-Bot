@@ -1,0 +1,422 @@
+URL: https://endfield.wiki.gg/wiki/Nefarith
+
+Notice
+This page contains content that is 
+outdated
+ and may no longer reflect the current state of the game.
+
+
+Nefarith
+In Other Languages
+Chinese
+
+
+聂菲斯
+Japanese
+
+
+ネファリス
+Korean
+
+
+네파리스
+Character Information
+Affiliation
+
+
+Landbreakers
+
+
+Nefarith seems to have appeared out of the blue. We know nothing about her background, place of birth, life, personality, or beliefs. However, we are certain of this one thing: She deeply resents every faction she encounters.
+― Endfield Intelligence Office
+
+
+Nefarith
+ is a non-playable character in 
+Arknights: Endfield
+ who serves as the central antagonist of 
+Chapter I: Valley IV
+.
+
+
+
+Contents
+
+
+
+
+1
+ 
+Overview
+
+
+2
+ 
+Relevant Files
+
+
+3
+ 
+Notes
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Overview
+
+
+Nefarith is the leader of the Bonekrushers, a 
+Landbreaker
+ clann that gained prominence by utilizing a strange gaseous material known as 
+hazefyre
+. This substance, related to the 
+Blight
+, temporarily enhances physical strength while inducing hallucinogenic and neurotoxic effects. The Endfield Intelligence Office has designated Nefarith as significant threat and predicts she will launch a major attack on the 
+Civilization Band
+ within the near future.
+
+
+
+Relevant Files
+
+
+
+
+Endmin, your efforts are paying off. All the intel uploaded to 
+Dijiang
+ has been safely stored in the databanks. You are now perusing a formal response from the Endfield Intelligence Office.
+
+We shall go straight to the point.
+
+You have made attempts to reveal what went on behind the scenes. Before this incursion happened, the UWST Security Bureau started an intel and recon operation at 
+Valley IV
+ codenamed: Evening Omen. However, UWST knew absolutely nothing about the lead they were chasing, right till the moment just before the attack. We now have a name to peg on this missing piece of the puzzle: 
+Nefarith
+, the true leader of the 
+Bonekrushers
+. 
+
+Before their major attack on Valley IV, everyone would treat the Bonekrusher as any other nomadic 
+Landbreaker
+ clann that makes their living by raiding frontier towns and villages. But the disastrous incident proved us woefully wrong - The Bonekrushers wielded the very Æther itself in this attack. We also had limited defenses against their denstacks and haze.
+
+As for Nefarith... Endministrator, you have confronted this antagonist on multiple occasions. She is now a threat that far exceeds our expectations. According to our current intel, Nefarith has yet to reveal her true intent, but the Bonekrushers' raid of Valley IV is not very likely to satisfy her goals. The Intelligence Office believes that the Bonekrushers would instigate an even larger attack on another town or city of the 
+Civilization Band
+ within the next 3 months.
+
+We also believe that the Bonekrushers' massive attack on Valley IV was supported by at least one unidentified individual. This particular individual might also had something to do with the coincidental Aggeloid attacks on Valley IV.
+
+Endmin, no matter what Nefarith and her Bonekrushers were aiming for, we must do everything we can to stop their next move. We at the Intel Office believes you are well prepared for this.
+
+
+
+― Valley IV Incursion Investigation Report
+[
+note 1
+]
+
+
+
+
+Endmin, thank you for the data you collected. For years, our knowledge of the Bonekrushers had been extremely limited. Our old data about this Landbreaker clann were half-truths and fantasies based upon rumors and scout reports. A first-hand report from an actual Bonekrusher will help us learn more about Landbreaker communities to better elucidate their behaviors and determine their goals and 
+modus operandi
+.
+
+We have used these valuable pieces of intel to postulate the background and process that propelled the Bonekrusher Clann to power. During last winter, the north of the frontiers suffered the worst economic crisis and famine for several decades. The suffering was further compounded by Blight events and forced many Landbreaker clanns to fight each other. A fringe clann known as the Bonekrushers suddenly came to power, swallowing up weaker clanns as they snowballed into a massive army.
+
+A strange form of flame known 
+hazefyre
+ can help explain the sudden rise of the Bonekrushers. Hazefyre seems related to the Blight. In addition to its hallucinogenic properties and neural toxicity, this hot gaseous material can grant a temporary boost in strength when inhaled. The Bonekrushers were able to create a stronger and more permanent organization that revolves around hazefyre. And their chief, Nefarith, happens to be the one who introduced hazefyre to the clann.
+
+Nefarith seems to have appeared out of the blue. We know nothing about her background, place of birth, life, personality, or beliefs. However, we are certain of this one thing: She deeply resents every faction she encounters. This individual has deliberately indoctrinated the Landbreakers with extreme fanaticism and hatred, and her victorious raids on towns and villages of the Civilization Band allowed her to plunder riches and slaves to secure the loyalty of her followers.
+
+There are 2 conventional strategies for an external force to strike at the LB: (1) unleash powerful attacks to neutralize core members of LB leadership and cause their organization to disintegrate and; (2) diplomacy, trade, and bribery to reduce their hostilities. However, we neither have the means to take out the entire LB leadership nor enough resources to secure a lasting truce. The suffering caused by brutal warfare and sudden drop of habitability across entire regions would simply force more to join the LBs and fuel the emergence of yet another clann like the Bonekrushers.
+
+Perhaps the Civilization Band may give us a true solution for the Landbreaker Problem in the future.
+
+
+
+― IR: The Bonekrusher Clann
+
+
+
+
+ACCESS AUTHORITY LEVEL: Special
+
+Optical code: 2b5d05d3594b83ba20afb78c9c8ab624078eea62
+
+BUG/WIRE SCAN: Passed
+
+FILE CATEGORY: 302
+
+Endmin, you have made significant contributions. All the intel files uploaded to Dijiang have been safely archived. You are now perusing a formal response from the Endfield Intelligence Office.
+
+We can draw the following conclusions: 
+
+What we deemed impossible has actually happened.
+
+From the observation logs you collected, the 
+Aggeloi
+ of Valley IV were kept in a "natural" state before the attack. To some degree, the random Ankhorfalls and super aggressive Aggeloi can be treated as a manifestation of that particular "system" (although the signals were weak and barely detectable). In fact, the incident is congruent with our understanding of the "Aggeloid" phenomenon that stood true for 150 years. And since the Aggeloi is a phenomenon and not an evolving or changing lifeform (though individual mutations and variants have been observed), these observations have been classified as expected and normal.
+
+However, you have personally experienced the Incursion of Valley IV itself as well as its repercussions. Like us and our other allies, all of us have made unambiguous observations of Aggeloi and humans attacking a single target as a united force. Or to put simply, humanity has "fought alongside" the Aggeloi. This is theoretically improbable as we have long treated the weak Aggeloid signals (that we believe are used by the Aggeloi for communicating with each other) to be completely undecipherable, even when we applied the algorithmic engines of that particular "system". Our attempts to commune with the Aggeloi or to render them harmless have also failed.
+
+The impossible has happened. So where does the problem lie? Is it the fact that it actually happened, or the fact that we had treated it as impossible? I believe you have the correct answer, Endministrator.
+
+We cannot tame the dust storms to fight battles for us, but we did domesticate animals and issue orders to drones created by our Originium Arts.
+
+What is the Aggelos to Nefarith? Is it a dust storm, or a creature she managed to domesticate?
+
+The Intel Office believes that we should have the same answers.
+
+We should keep an eye out for the whereabouts of Aleksandr Abashin. He has not returned to any UWST site in Valley IV nor has he responded to calls from the UWST. He did bring along some UWST equipment that is still functioning. We shall notify you of any new findings and updates.
+
+We would also like to share some new intel before we conclude this communication. According to our ongoing investigations of the Bonekrushers, we believe that Nefarith has at least one unidentified supporter. This supporter may have something to do with the Aggeloi that attacked Valley IV.
+
+Endministrator, no matter what Nefarith and her Landbreakers were aiming for, we must do everything we can to stop their next move. Everyone at the Intel Office believes you are well prepared for this.
+
+■■■■, ■■/■■
+
+
+
+― Aggeloid Activity in Valley IV
+
+
+Notes
+
+
+
+
+↑
+ 
+Investigation reports are unlockable by collecting all relevant pieces of lore on a subject, and then submitting them in the Archives menu.
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Characters and NPCs
+Endfield Industries
+
+
+M3
+
+
+The Founder
+
+
+Fiona
+
+
+Andre
+
+
+Qin Jiangchi
+
+
+Rossi
+
+
+Hongshan
+
+
+Zhuang Fangyi
+
+
+Mi Fu
+
+
+Tangtang
+
+
+UWST
+
+
+Jenner
+
+
+Unknown
+
+
+Nefarith
+
+
+Ardashir
+
+
+Lycia
+
+
+
+
+View or edit this template
+Setting
+Overview
+
+
+Talos-II
+
+
+OMV Dijiang
+
+
+Originium
+
+
+Ætherside
+
+
+Blight
+
+
+Race
+
+
+Cosmic Gate
+
+
+Terra
+
+
+First Aggeloi War
+
+
+Civilization Band
+
+
+Automated Industry Complex
+ (AIC)
+
+
+Protocol-Originium
+
+
+Xiranite
+
+
+Reconveners
+
+
+Landbreakers
+
+
+Nefarith
+
+
+Aggeloi
+
+
+Factions
+
+
+Endfield Industries
+
+
+Rhodes Island
+
+
+United Workers' Syndicates of Talos-II
+ (UWST)
+
+
+Hongshan Academy of Sciences
+ (HAS)
+
+
+Talos-II General Chamber of Commerce
+ (TGCC)
+
+
+Order of Steel Oath
+
+
+Cabal of Tranquility
+
+
+Hannabit Circuit
+
+
+Seš'qa
+
+
+Samifjod
+
+
+Free Cities
+
+La Fantoma
+
+
+Kjersch
+
+
+Alloycarrot
+
+
+New Wrankwood
+
+
+Neo Tsukushi
+
+
+Manufacturers
+
+
+Raythean Industries
+
+
+Mieszko Industries
+
+
+Northmarch Support Hub
+
+
+Portable Æthertech Labs
+
+
+Fort Forgefane
+
+
+Witching Hour
+
+
+Locations
+
+
+Valley IV
+
+
+Wuling
+
+
+Wuling City
+
+
+Talos City
+
+
+Mat' Gorodov
+
+
+Industrial Mothership
+
+
+
+
+
+
+
+
+

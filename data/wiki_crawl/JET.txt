@@ -1,0 +1,793 @@
+URL: https://endfield.wiki.gg/wiki/JET
+
+JET
+Icon
+Full
+Max
+Internal name
+
+wpn_lance_0011
+In Other Languages
+Simplified Chinese
+
+
+J.E.T.
+Traditional Chinese
+
+
+J.E.T.
+Japanese
+
+
+J.E.T.
+Korean
+
+
+J.E.T.
+Spanish
+
+
+JET
+Russian
+
+
+Реактивная пика
+Information
+Type
+
+Polearm
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+JET
+ is a 6★ 
+Polearm
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+An experimental weapon manufactured to the highest standards of Northmarch Support Hub. The prototype was designed by the now-disbanded Aerospace Research Center. An array of Originium compression jet engines gives this lance its turbo performance.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+51
+
+
+146
+
+
+247
+
+
+348
+
+
+449
+
+
+500
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Suppression: Astrophysics
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise JET to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise JET to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise JET to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise JET to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Main Attribute Boost [L]
+
+
+
+Attack Boost [L]
+
+
+
+Suppression: Astrophysics
+
+
+
+
+
+
+
+
+
+Main attribute 
++17
+
+
+
+
+Attack 
++5%
+
+
+
+
+Arts DMG Dealt 
++12%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++12%
+ for 15.00s. When the wielder casts a combo skill, Arts DMG Dealt 
++12%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++30
+
+
+
+
+Attack 
++9%
+
+
+
+
+Arts DMG Dealt 
++14.4%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++14.4%
+ for 15.00s. When the wielder casts a combo skill, Arts DMG Dealt 
++14.4%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++44
+
+
+
+
+Attack 
++13%
+
+
+
+
+Arts DMG Dealt 
++16.8%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++16.8%
+ for 15.00s. When the wielder casts a combo skill, Arts DMG Dealt 
++16.8%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++57
+
+
+
+
+Attack 
++17%
+
+
+
+
+Arts DMG Dealt 
++19.2%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++19.2%
+ for 15.00s. When the wielder casts a combo skill, Arts DMG Dealt 
++19.2%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++71
+
+
+
+
+Attack 
++21%
+
+
+
+
+Arts DMG Dealt 
++21.6%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++21.6%
+ for 15.00s. When the wielder casts a combo skill, Arts DMG Dealt 
++21.6%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++85
+
+
+
+
+Attack 
++25%
+
+
+
+
+Arts DMG Dealt 
++24%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++24%
+ for 15.00s. When the wielder casts a combo skill, Arts DMG Dealt 
++24%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++98
+
+
+
+
+Attack 
++29%
+
+
+
+
+Arts DMG Dealt 
++26.4%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++26.4%
+ for 15.00s. When the wielder casts a combo skill, Arts DMG Dealt 
++26.4%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++112
+
+
+
+
+Attack 
++33%
+
+
+
+
+Arts DMG Dealt 
++28.8%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++28.8%
+ for 15.00s. When the wielder casts a combo skill, Arts DMG Dealt 
++28.8%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+
+
+
+
+
+
+Main attribute 
++132
+
+
+
+
+Attack 
++39%
+
+
+
+
+Arts DMG Dealt 
++33.6%
+. When the wielder casts a battle skill, the wielder gains Arts DMG Dealt 
++33.6%
+ for 15.00s. When the wielder casts a combo skill, Arts DMG Dealt 
++33.6%
+ for 15.00s. 
+The two effects apply separately and do not stack with themselves.
+
+
+
+
+Basic Info
+
+
+"Our home, Terra, lies somewhere faraway in the vast voidness of the endless space."
+Shayen did not feel sadness when he heard that the entirety of the Aerospace Research Center was to be disbanded. Trained as a scientist, Shayen successfully steered his rationality to govern his mind and actions for the past few months. He understood the challenges faced by humanity on Talos-II. Northmarch Support Hub had taken on an immense mission. Space exploration must make way for more pressing matters and important projects.
+But as Shayen packed and moved his personal belongings from the lab he worked at, he could not help but look at the two volumes of Ferdinandian Physics on the bookshelf. An indescribable sense of emptiness and defeat washed over him. He reviewed his life. Everything he worked for and loved became mere exhibits covered by canvas.
+Shayen remembered the childhood fairytale about Dusk Beauty Flying to the Moon, the teenage science fiction novels of high adventure in outer space he read as a school kid, and the empirical laws laid down by the legendary physicist Ferdinand Clooney. He had always felt that his soul was never trapped to a single world.
+For the past 40 years, Shayen spent most of his time working on Originium propulsors, heat and Blight resistant materials, processed and compressed Originium fuel, and other technological instruments and products too esoteric for the laypeople. He worked with teams who shared his vision of reaching out into space itself. Though he never saw Terra, he had faith that she existed somewhere in the infinite cosmos. To reach out for the stars was to start a journey of endless questions, results, and answers.
+Shayen made an important decision that night. He ignored the regulation that required him to archive years of his research notes and results. Instead, he secreted a copy into a data disk along with the blueprints. He then contacted the director of innovations and science at Northmarch Support Hub. Many of the world's brightest minds toiled for years on these next-gen technologies. Even if the descendants of Terra no longer yearned for the stars, these discoveries and knowledge will help them explore the new world of Talos-II.
+He must give meaning to everything they had done.
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

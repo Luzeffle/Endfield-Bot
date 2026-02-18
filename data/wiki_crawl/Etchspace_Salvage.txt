@@ -1,0 +1,479 @@
+URL: https://endfield.wiki.gg/wiki/Etchspace_Salvage
+
+Risks and rare findings, deviations and evolution... Explore this place of potentially lethal derangements and chaos, Endministrator.
+
+
+Etchspace Salvage
+ is a permanent game mode in 
+Arknights: Endfield
+. Etchspace Salvage is unlocked after the player reaches the Mountain Path Slope in 
+Originium Science Park
+ and has achieved 
+Authority Level
+ 22.
+
+
+
+Contents
+
+
+
+
+1
+ 
+Overview
+
+
+2
+ 
+Zones
+
+
+
+
+2.1
+ 
+Zone 1
+
+
+2.2
+ 
+Zone 2
+
+
+2.3
+ 
+Zone 3
+
+
+
+
+
+
+3
+ 
+Precipitation Nodules, Manifests & Fragments
+
+
+
+
+3.1
+ 
+Nodules
+
+
+3.2
+ 
+Package
+
+
+3.3
+ 
+Instrument Safe
+
+
+3.4
+ 
+Auto-Vendor
+
+
+3.5
+ 
+Fragments
+
+
+
+
+
+
+4
+ 
+Commissions
+
+
+
+
+4.1
+ 
+Exploration Commission
+
+
+4.2
+ 
+Focus Commission
+
+
+
+
+
+
+5
+ 
+Operation Metrics
+
+
+
+
+
+
+Overview
+
+
+Etchspace Salvage is an extraction-style game mode where the player is tasked to investigate and extract information and items from the Valley's Aberrants before Derangement reaches its limit.
+
+The game mode takes place in the 
+Valley's Aberrants
+, a manifestation of the various regions of 
+Valley IV
+. The map is divided into 3 zones, with additional zones such as Zone 4 to 6 yet to be explored. Inside the Valley's Aberrants, there are multiple ziplines that the player can reveal and use to travel around the map. The ziplines are available permanently after being revealed.
+
+The player will spawn in a safe zone upon deployment, but will gain 1 Derangement every second when outside the safe zones. The rate of Derangement increases based on the zone that the player is currently located in, the further the zone, the higher the Derangement increase rate. Derangement will be increased by 1 every second in combat, and increased by 5 or 10 when opening various containers or Precipitation Crystals, both of them affected by the Derangement increase rate. Once the player reaches maximum Derangement, the player is forcibly extracted from the Valley's Aberrants in 10 seconds.
+
+The player is not allowed to bring Consumables for the team members, but the player can touch Healing Nodules that can restore HP for the entire team and revive disconnected teammates.
+
+Precipitation nodules and items collected during exploration are stored in the Isolation Container. The Isolation Container has a limited capacity and cannot hold more items when full. Precipitation nodules gathered from the Valley's Aberrants will be converted into 
+ 
+Aurylene Crystal
+ based on a certain conversion ratio, while the items will be stored in Valuable Stash. The capacity of Isolation Container as well as the conversion ratio of 
+ 
+Aurylene Crystal
+ can be improved by completing Aquito's research commissions.
+
+Crates are also available in Valley's Aberrants. However, they only have 
+ 
+Oroberyl
+ as the reward, and does not reset after the player got extracted.
+
+
+
+Zones
+
+
+The Valley's Aberrants is divided into three zones, each with varying items and different Derangement increase rate.
+
+
+
+Zone 1
+
+
+Derangement increase rate = 1×
+
+
+
+
+
+Zone 2
+
+
+Derangement increase rate = 3×
+
+
+
+
+
+Zone 3
+
+
+Derangement increase rate = 5×
+
+
+
+
+
+Precipitation Nodules, Manifests & Fragments
+
+
+Precipitation Nodules are items that are gathered from Precipitation Crystals, while Precipitation Manifests are unique items that are contained inside various containers. These items can be submitted to complete commissions. There are three types of containers, such as Packages, Instrument Safes, and Auto-Vendors. Enemies and bosses have a chance to drop Precipitation Nodules or Fragments upon defeat.
+
+Each zone offers varying items, and containers only drop the corresponding Manifests based on the color and type of the container. Precipitation Crystals, containers and enemies are reset after the player got extracted.
+
+
+
+Nodules
+
+
+Destroy Precipitation Crystals or defeat enemies to acquire Precipitation Nodules. The size and amount varies based on the size of Crystals or the type of enemies.
+
+
+
+
+
+Package
+
+
+Open packages to acquire 1-2 classified documents.
+
+
+
+
+
+Instrument Safe
+
+
+Open instrument safes to acquire 2-3 various statuettes.
+
+
+
+
+
+Auto-Vendor
+
+
+Open auto-vendors to acquire 2-3 various jarred specimens. Unlike most containers, auto-vendors can be opened twice.
+
+
+
+
+
+Fragments
+
+
+Defeat enemies and bosses to acquire various fragments. Fragments from bosses are guaranteed to be acquired on their defeat.
+
+
+
+
+
+Commissions
+
+
+Commissions are divided into two types, Exploration and Focus Commissions.
+
+
+
+Exploration Commission
+
+
+Completing Exploration Commissions rewards the player with various Exploration Support Tech that will aid the player in the extraction process. There are 8 different Exploration Support Techs that the player can obtain, which are as follows:
+
+
+
+Aberrant Exploration
+: The main Commission; Completing this unlock Focus Commissions.
+
+
+Stable Protocols
+: Increases Derangement Limit
+
+
+Fragmented Treatment
+: In Valley's Aberrants, defeating a common/elite enemy restores a percentage of Max HP to the operator with the lowest health in the team.
+
+
+Container Expansion
+: Increases Isolation Container capacity
+
+
+Tactical Tempo
+: In Valley's Aberrants, defeating an enemy restores a handful of Skill Points (SP)
+
+
+Armor Gilding
+: In Valley's Aberrants, operators Max HP increases by a percentage
+
+
+Derangement Tolerance
+: Increases Derangement tolerance
+
+
+Portable Explosives
+: Unlocks throwables and increases Industrial Explosives carrying limit
+
+
+Nodule Refining
+: Increases Precipitation Nodule conversion efficiency
+
+
+Focus Commission
+
+
+After Aberrant Exploration is completed, Focus Commissions will be available, which rewards the player with 
+ 
+Operation Metrics
+ that are used for the Operation Metrics reward milestone. Players can get new commissions and refresh Focus Commissions by consuming 
+ 
+Aurylene Crystal
+. The player can only hold up to 4 commissions at a time, and it will refresh weekly if left uncompleted.
+
+
+
+Operation Metrics
+
+
+After acquiring precipitation nodules from the Valley's Aberrants, every 
+ 
+Aurylene Crystal
+ converted gives 1 
+ 
+Operation Metrics
+.
+
+
+Completing Focus Commissions always gives 
+ 
+Operation Metrics
+.
+
+
+Reach certain Operation Metrics milestones to claim a 
+one-time
+ reward.
+
+
+
+
+
+
+Metrics
+
+
+
+Rewards
+
+
+
+
+
+50 
+
+
+
+
+400
+10
+10K
+
+
+
+
+
+
+300 
+
+
+
+
+2
+10
+10K
+
+
+
+
+
+
+1200 
+
+
+
+
+400
+50
+10K
+
+
+
+
+
+
+2500 
+
+
+
+
+2
+25
+10K
+
+
+
+
+
+
+5000 
+
+
+
+
+400
+30
+10K
+
+
+
+
+
+
+10000 
+
+
+
+
+2
+6
+10K
+
+
+
+
+
+
+20000 
+
+
+
+
+400
+15
+10K
+
+
+
+
+
+
+30000 
+
+
+
+
+2
+15
+10K
+
+
+
+
+
+
+40000 
+
+
+
+
+400
+12
+10K
+
+
+
+
+
+
+50000 
+
+
+
+
+2
+12
+10K
+
+
+
+
+
+
+
+
+

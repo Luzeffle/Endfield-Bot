@@ -1,0 +1,816 @@
+URL: https://endfield.wiki.gg/wiki/Aspirant
+
+Aspirant
+Icon
+Full
+Max
+File:Aspirant.png
+File:Aspirant max model.png
+Internal name
+
+wpn_sword_0015
+In Other Languages
+Simplified Chinese
+
+
+仰止
+Traditional Chinese
+
+
+仰止
+Japanese
+
+
+仰止
+Korean
+
+
+숭배의 시선
+Spanish
+
+
+Aspirante
+Russian
+
+
+Устремление
+Information
+Type
+
+Sword
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+Aspirant
+ is a 5★ 
+Sword
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+A first tier weapon released by Hongshan Swordmancers and also the only one that achieved decent popularity in the market. Many copies have been found in the wildlands, though.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+42
+
+
+120
+
+
+203
+
+
+286
+
+
+369
+
+
+411
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Twilight: Imposing Peak
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Aspirant to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Aspirant to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Aspirant to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Aspirant to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Agility Boost [M]
+
+
+
+Physical DMG Boost [M]
+
+
+
+Twilight: Imposing Peak
+
+
+
+
+
+
+
+
+
+Agility 
++16
+
+
+
+
+Physical DMG Dealt 
++4.44%
+
+
+
+
+Ultimate DMG Dealt 
++16%
+. After the wielder applies 
+Lifted
+, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt 
++12%
+. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++28
+
+
+
+
+Physical DMG Dealt 
++8%
+
+
+
+
+Ultimate DMG Dealt 
++19.2%
+. After the wielder applies 
+Lifted
+, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt 
++14.4%
+. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++41
+
+
+
+
+Physical DMG Dealt 
++11.56%
+
+
+
+
+Ultimate DMG Dealt 
++22.4%
+. After the wielder applies 
+Lifted
+, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt 
++16.8%
+. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++54
+
+
+
+
+Physical DMG Dealt 
++15.11%
+
+
+
+
+Ultimate DMG Dealt 
++25.6%
+. After the wielder applies 
+Lifted
+, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt 
++19.2%
+. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++67
+
+
+
+
+Physical DMG Dealt 
++18.67%
+
+
+
+
+Ultimate DMG Dealt 
++28.8%
+. After the wielder applies 
+Lifted
+, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt 
++21.6%
+. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++80
+
+
+
+
+Physical DMG Dealt 
++22.22%
+
+
+
+
+Ultimate DMG Dealt 
++32%
+. After the wielder applies 
+Lifted
+, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt 
++24%
+. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++92
+
+
+
+
+Physical DMG Dealt 
++25.78%
+
+
+
+
+Ultimate DMG Dealt 
++35.2%
+. After the wielder applies 
+Lifted
+, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt 
++26.4%
+. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++105
+
+
+
+
+Physical DMG Dealt 
++29.33%
+
+
+
+
+Ultimate DMG Dealt 
++38.4%
+. After the wielder applies 
+Lifted
+, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt 
++28.8%
+. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s.
+
+
+
+
+
+
+
+
+
+
+Agility 
++124
+
+
+
+
+Physical DMG Dealt 
++34.67%
+
+
+
+
+Ultimate DMG Dealt 
++44.8%
+. After the wielder applies 
+Lifted
+, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt 
++33.6%
+. 
+Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s.
+
+
+
+
+Basic Info
+
+
+It was early autumn and already the snow were falling in the north of Talos-II. Beneath the heavy gray skies, snowflakes fell as bone-chilling winds howled across the plains, unchallenged by the wilting grass as it burrowed into an old, leaking observation post... There the winds were briefly checked by a campfire before they stopped by a young man's cheek.
+"ACHOO!"
+The sneezing did not slow the young Perro speed in stuffing two slabs of bread and a meat stew into his mouth. He even wanted to lick the plate if he could.
+"Oh... Thanks a lot for this..."
+"You're welcome. The cold drove us to this campfire. We're friends now."
+The grinning Forte "chef" sat by the campfire and gazed at him. He looked around thirty or so.
+"So, friend, why venture to the North alone?"
+"I'm trying to visit the masters of the fighting arts and complete my Catalog of Warriors Under the Heavens! Oh, that's just a book with the backstories of every warrior... We have this legendary master named Chen Chichi of Hongshan but nobody knew where she went. I thought I could visit the North and find out... But as luck would have it, the Aggeloi was the one that chased me all the way here. Dammit, I bet we'd be getting another Ankhorfall soon enough."
+The Forte helped himself to a ladle of the stew.
+"I know this one. Orphaned at a young age and got admitted to Tanjian Hall where she became the worst disciple of the cohort. But after doing her Jianghu tours, she became a legend amongst those of her generation and a lauded master of swordmancy... Even got herself a happy family. Husband's quite the master in leapmancy. They also have a daughter. Name's Chen Qianyu, I think."
+"That's so detailed. Are you a swordmancer as well?"
+"I learned a few swordmancy moves from the wildlands from a Songseeker."
+"So, what do you think about Master Chen Chichi?"
+"An great and imposing mountain."
+"Yeah... She's the dream of every swordmancer. They say her swordmancy is imbued with a state of unrestrained freedom. It's more than being faster than a comet. Those who witnessed her sword singing across the skies could feel the 'heavens and earth' itself. It felt as though everything in this world, from the tallest peaks to the deepest seas, has achieved oneness with her blade. Her sword itself is light and elegant. It's like a speck of dust and a gust of wind. It strikes with a force contained within every existence... I can hardly imagine anything that could withstand her blade. Not even the Aggelos..."
+"Ankhor."
+"Indeed. Her sword can probably cleave the largest Ankhors in two..."
+"I'm saying we have an Ankhorfall."
+The young Perro instantly leaped up without raising his head, jumped over the campfire, and bounded for the outside.
+"You can't outrun an Ankhor."
+"Well, at least I won't be crushed by it. I'll take my luck outrunning its Aggeloid spawn."
+"Haha. That'd be quite a challenge. We lost that race years ago."
+The Forte strolled out casually and slowly.
+"When I was a lad, I herded stockbeasts for a Songseeker. We were surrounded by the Aggeloi when a swordmancer drew her iron blade and unleashed a crimson cleave that pulverized the rock buggers. A master leapmancer then grabbed me with his arms and helped me escape the encirclement... I spent years traveling and paid more than a few visits to Hongshan, but my search has found nothing. I have nothing but respect for this couple..."
+The Forte then drew sword swords from his hip scabbards.
+"I may not achieve their levels of mastery, but such is my goal. I spent years honing my swordmancy and managed to replicate a fraction of that overwhelming cleave I have witnessed. This is one auspicious day. May you witness my achievement."
+The Ankhor smote the ground and turned their former shelter to a pile of rubble.
+What followed was a flurry of glinting blades.
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

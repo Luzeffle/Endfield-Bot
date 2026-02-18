@@ -1,0 +1,804 @@
+URL: https://endfield.wiki.gg/wiki/Never_Rest
+
+Never Rest
+Icon
+Full
+Max
+File:Never Rest.png
+File:Never Rest max model.png
+Internal name
+
+wpn_sword_0016
+In Other Languages
+Simplified Chinese
+
+
+不知归
+Traditional Chinese
+
+
+不知歸
+Japanese
+
+
+不知帰
+Korean
+
+
+끝없는 방랑
+Spanish
+
+
+Sin descanso
+Russian
+
+
+Неустанность
+Information
+Type
+
+Sword
+Rarity
+
+
+Source
+
+Acquisition Center: Arsenal Exchange
+
+
+Never Rest
+ is a 6★ 
+Sword
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A weapon equipped by Endfield operators to significantly boost their combat capabilities.
+A weapon from the furnaces of Fort Forgefane. Though it has undergone multiple rounds of recasting, the subsumed edge is still imbued with an intimidating force of domination.
+
+
+Contents
+
+
+
+
+1
+ 
+Stats
+
+
+
+
+1.1
+ 
+Attributes
+
+
+1.2
+ 
+Potential
+
+
+1.3
+ 
+Tuning
+
+
+
+
+
+
+2
+ 
+Skills
+
+
+3
+ 
+Basic Info
+
+
+4
+ 
+Navigation
+
+
+
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+Level 1
+
+
+Level 20
+
+
+Level 40
+
+
+Level 60
+
+
+Level 80
+
+
+Level 90
+
+
+
+
+
+
+Base ATK
+
+
+51
+
+
+146
+
+
+247
+
+
+348
+
+
+449
+
+
+500
+
+
+
+
+
+
+Potential
+
+
+Potential
+Skill 
+Flow: Reincarnation
+ improved.
+
+
+
+
+Tuning
+
+
+
+
+
+
+Level
+
+
+Raise Never Rest to level 20:
+5
+ 
+3
+ 
+2.2K
+
+
+
+
+
+
+Level
+
+
+Raise Never Rest to level 40:
+18
+ 
+5
+ 
+8.5K
+
+
+
+
+
+
+Level
+
+
+Raise Never Rest to level 60:
+20
+ 
+5
+ 
+25K
+
+
+
+
+
+
+Level
+
+
+Raise Never Rest to level 80:
+30
+ 
+16
+ 
+8
+ 
+90K
+
+
+
+
+
+
+
+
+
+
+Skills
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Skills
+Ability
+
+
+
+
+
+
+
+
+
+
+Rank
+
+
+
+Will Boost [L]
+
+
+
+Attack Boost [L]
+
+
+
+Flow: Reincarnation
+
+
+
+
+
+
+
+
+
+Will 
++20
+
+
+
+
+Attack 
++5%
+
+
+
+
+Physical DMG Dealt 
++16%
+. After the wielder's skill recovers SP, the wielder gains Physical DMG Dealt 
++5%
+ while other operators in the team gain Physical DMG Dealt 
++2.5%
+ for 30.00s. 
+Max stacks for effects of the same name: 5.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Will 
++36
+
+
+
+
+Attack 
++9%
+
+
+
+
+Physical DMG Dealt 
++19.2%
+. After the wielder's skill recovers SP, the wielder gains Physical DMG Dealt 
++6%
+ while other operators in the team gain Physical DMG Dealt 
++3%
+ for 30.00s. 
+Max stacks for effects of the same name: 5.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Will 
++52
+
+
+
+
+Attack 
++13%
+
+
+
+
+Physical DMG Dealt 
++22.4%
+. After the wielder's skill recovers SP, the wielder gains Physical DMG Dealt 
++7%
+ while other operators in the team gain Physical DMG Dealt 
++3.5%
+ for 30.00s. 
+Max stacks for effects of the same name: 5.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Will 
++68
+
+
+
+
+Attack 
++17%
+
+
+
+
+Physical DMG Dealt 
++25.6%
+. After the wielder's skill recovers SP, the wielder gains Physical DMG Dealt 
++8%
+ while other operators in the team gain Physical DMG Dealt 
++4%
+ for 30.00s. 
+Max stacks for effects of the same name: 5.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Will 
++84
+
+
+
+
+Attack 
++21%
+
+
+
+
+Physical DMG Dealt 
++28.8%
+. After the wielder's skill recovers SP, the wielder gains Physical DMG Dealt 
++9%
+ while other operators in the team gain Physical DMG Dealt 
++4.5%
+ for 30.00s. 
+Max stacks for effects of the same name: 5.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Will 
++100
+
+
+
+
+Attack 
++25%
+
+
+
+
+Physical DMG Dealt 
++32%
+. After the wielder's skill recovers SP, the wielder gains Physical DMG Dealt 
++10%
+ while other operators in the team gain Physical DMG Dealt 
++5%
+ for 30.00s. 
+Max stacks for effects of the same name: 5.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Will 
++116
+
+
+
+
+Attack 
++29%
+
+
+
+
+Physical DMG Dealt 
++35.2%
+. After the wielder's skill recovers SP, the wielder gains Physical DMG Dealt 
++11%
+ while other operators in the team gain Physical DMG Dealt 
++5.5%
+ for 30.00s. 
+Max stacks for effects of the same name: 5.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Will 
++132
+
+
+
+
+Attack 
++33%
+
+
+
+
+Physical DMG Dealt 
++38.4%
+. After the wielder's skill recovers SP, the wielder gains Physical DMG Dealt 
++12%
+ while other operators in the team gain Physical DMG Dealt 
++6%
+ for 30.00s. 
+Max stacks for effects of the same name: 5.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+
+
+
+
+
+
+Will 
++156
+
+
+
+
+Attack 
++39%
+
+
+
+
+Physical DMG Dealt 
++44.8%
+. After the wielder's skill recovers SP, the wielder gains Physical DMG Dealt 
++14%
+ while other operators in the team gain Physical DMG Dealt 
++7%
+ for 30.00s. 
+Max stacks for effects of the same name: 5.00. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+
+
+
+
+Basic Info
+
+
+As the great guns thundered into the skies, night finally returned to Fort Forgefane. The steam stopped hissing as the last Aggelos was crushed into gravel. Victory trumpeted throughout the icefields, the clarion call of triumph echoed amongst collapsed bastions before it reached a stone crypt used as a provisional morgue to house the fallen warriors.
+To the smiths of Fort Forgefane, the clarion call felt more like a final farewell to the soldier. A forgesmith pulled a cart of salvaged equipment and paused before a young Oathkeeper, long bereft of breath.
+Why did the smith stop? Was it his fear of death? He did not think so. He dreamed about falling like a true Oathkeeper soldier from the day he submitted his enlisting papers to the Order of Steel Oath. And since his first arrival at the gates of Fort Forgefane, he was determined to be a nail, permanently hammered into his post. There were only two things that could stop him from swinging his hammer: the future he dreamed had been achieved, or it became necessary for someone else to take his post.
+The smith stooped over and took the long sword from the hands of the young soldier.
+He could not remove his gaze from the soldier's face. Was he paying his final respects to a former comrade? No. He had said his farewells to all sorts of people in the south before he marched for the north. He saw his loved ones secretly weeping for his sake, witnessed the reluctance in their eyes, and even attended a close friend's funeral on the night before he reported to the training camp.
+But what he felt at this very moment was new. A mysterious surge of emotions gripped him to the ground, even though he tried, again and again, to get himself to leave.
+Heavy footsteps echoed in the crypt. The smith raised his head and held his breath.
+"Lord Castellan Gerald! Apologies, I'm just ... salvaging the equipment."
+The armored giant stretched out his hand and took the blade from the smith. The edge was curled and a fine crack ran along its length.
+"Do you know him?"
+"No... We're not familiar. But I did share some drink with him in the welcoming feast held for us several days ago..."
+"What do you intend to do with this blade?"
+The smith took the blade and shook off the snow from the hilt. He carefully studied the wounds suffered by the weapon and gave his verdict: "It will be my honor to return this blade to the furnace and have it recast, and the joy will be equal to seeing you throw this Aggeloid host back to whence they came. He is a hero ... that no one will remember."
+"He is also a common man, just as common as this blade."
+"My Lord Castellan... what would you have me do to this blade?"
+"Even the perfect blade will one day shatter," Gerald patted the smith on the shoulder. "It shall be returned to the forge, pass through the ranks of Oathkeepers, and fulfill his unfinished duty."
+
+
+
+
+
+
+Navigation
+
+
+View or edit this template
+Weapons
+Sword
+
+
+Eminent Repute
+
+
+Forgeborn Scathe
+
+
+Grand Vision
+
+
+Never Rest
+
+
+Rapid Ascent
+
+
+Thermite Cutter
+
+
+Umbral Torch
+
+
+White Night Nova
+
+
+Aspirant
+
+
+Finchaser 3.0
+
+
+Fortmaker
+
+
+OBJ Edge of Lightness
+
+
+Sundering Steel
+
+
+Twelve Questions
+
+
+Contingent Measure
+
+
+Wave Tide
+
+
+Tarr 11
+
+
+Great Sword
+
+
+Exemplar
+
+
+Former Finery
+
+
+Khravengger
+
+
+Sundered Prince
+
+
+Thunderberge
+
+
+Ancient Canal
+
+
+Finishing Call
+
+
+OBJ Heavy Burden
+
+
+Seeker of Dark Lung
+
+
+Industry 0.1
+
+
+Quencher
+
+
+Darhoff 7
+
+
+Polearm
+
+
+JET
+
+
+Mountain Bearer
+
+
+Valiant
+
+
+Chimeric Justice
+
+
+Cohesive Traction
+
+
+OBJ Razorhorn
+
+
+Aggeloslayer
+
+
+Pathfinder's Beacon
+
+
+Opero 77
+
+
+Handcannon
+
+
+Artzy Tyrannical
+
+
+Clannibal
+
+
+Navigator
+
+
+Wedge
+
+
+OBJ Velocitous
+
+
+Opus: The Living
+
+
+Rational Farewell
+
+
+Howling Guard
+
+
+Long Road
+
+
+Peco 5
+
+
+Arts Unit
+
+
+Chivalric Virtues
+
+
+Delivery Guaranteed
+
+
+Detonation Unit
+
+
+Dreams of the Starry Beach
+
+
+Oblivion
+
+
+Opus: Etch Figure
+
+
+Freedom to Proselytize
+
+
+Monaihe
+
+
+OBJ Arts Identifier
+
+
+Stanza of Memorials
+
+
+Wild Wanderer
+
+
+Fluorescent Roc
+
+
+Hypernova Auto
+
+
+Jiminy 12
+
+
+
+
+
+
+
+
+

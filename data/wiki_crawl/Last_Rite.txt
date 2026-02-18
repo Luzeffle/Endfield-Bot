@@ -1,0 +1,2949 @@
+URL: https://endfield.wiki.gg/wiki/Last_Rite
+
+
+
+
+
+★★★★★★
+Last Rite
+
+
+
+
+Seš'qa liaison, reporting in for duty... My name... I-I mean my codename's Last Rite... Just call me that...
+
+
+
+
+
+
+Class
+
+
+
+ 
+Striker
+
+
+
+
+
+
+Weapon
+
+
+
+ Great Sword
+
+
+
+
+
+Element
+
+
+
+ 
+Cryo
+
+
+
+
+
+
+Faction
+
+
+
+Seš'qa
+
+
+
+
+
+
+Tags
+
+
+
+Damage Dealer
+ 
+Cryo Infliction
+
+
+
+
+
+
+Main Attribute
+
+
+
+ Strength
+
+
+
+
+
+Sub Attribute
+
+
+
+ Will
+
+
+
+
+
+How to obtain
+
+
+
+Standard Headhunting
+
+
+
+Operator
+File
+Dialogue
+Gallery
+
+
+Last Rite
+Internal name
+
+chr_0026_lastrite
+In Other Languages
+Simplified Chinese
+
+
+别礼
+Traditional Chinese
+
+
+別禮
+Japanese
+
+
+ラストライト
+Korean
+
+
+라스트 라이트
+Spanish
+
+
+Last Rite
+Russian
+
+
+Панихида
+Character Voices
+Japanese
+
+Shiraishi Haruka
+Chinese
+
+Wu Tong
+English
+
+Amber Hood
+Korean
+
+Lee I-ro
+Basic Info
+Gender
+
+Female
+Date of Birth
+
+November 12
+Race
+
+
+Sarkaz
+Infection Status
+
+Oripathy positive (infected), based on medical examination reports.
+Physical Exam
+Physical Strength
+
+Excellent
+Tactical Acumen
+
+Normal
+Combat Skill
+
+Standard
+Originium Arts Assimilation
+
+■■
+Expertise & Hobbies
+Expertise 1: Combat Technique
+
+
+Combat Technique: Massive Collaterals
+
+
+At least she's efficient, if you're willing to overlook the cleanup and repair fees.
+Expertise 2: Constitution
+
+
+Constitution: Fortitude
+
+
+Needs double the nomnom, but gives five times the power.
+Hobbies 1: Mind Honing
+
+
+Mind Honing: Portable Pacifiers
+
+
+When her anxiety gets excessive, Last Rite would play with these little things. They work far better than getting someone to talk to her.
+Hobbies 2: Charity
+
+
+Charity: Community Service
+
+
+Last Rite prefers taking care of the sick or harvesting grain instead of swinging weapons around.
+Gift Preference
+
+
+ Valley Industry's Choice
+Recommended Weapons
+Matching Skills 
+🛈
+
+
+ 
+Khravengger
+ 
+Seeker of Dark Lung
+Matching Stats 
+🛈
+
+
+ 
+Sundered Prince
+
+
+Contents
+
+
+
+
+1
+ 
+Profile
+
+
+2
+ 
+Stats
+
+
+
+
+2.1
+ 
+Attributes
+
+
+2.2
+ 
+Promotion
+
+
+2.3
+ 
+Potential
+
+
+
+
+
+
+3
+ 
+Combat Skills
+
+
+
+
+3.1
+ 
+Skill upgrades
+
+
+
+
+
+
+4
+ 
+Talents
+
+
+
+
+4.1
+ 
+Talent upgrades
+
+
+
+
+
+
+5
+ 
+Base Skills
+
+
+
+
+5.1
+ 
+Base Skill upgrades
+
+
+
+
+
+
+6
+ 
+Changelog
+
+
+7
+ 
+Navigation
+
+
+
+
+
+
+Profile
+
+
+"I am the ... something of war, I guess?"
+Before the Sarkaz of the floating city found her, Last Rite was a kind-hearted girl adopted by a Caprinae gravekeeper couple. Shaped by their teachings, the young Nachzehrer refused to disturb the dead, resisting her instinct to feed. But that restraint left her reeling with hunger, and her insecurity made her shrink away from others.
+A chance encounter revealed Last Rite's potential to Seš'qa. Enticed by the promise of "well-paid temp work" and "training to suppress instincts," she came to be known among merchants as the Princess of the War Court. Now, clad in a 
+Witching Hour
+ prototype combat suit, she wields frost and steel for Endfield's cause — both to fulfill her contract and to strive toward the peaceful future that Endfield has set before her.
+"If my contract with Seš'qa expires, you can contact me... O-oh no! I wasn't supposed to say that! Please... Don't tell anyone about this..."
+
+
+
+Stats
+
+
+Attributes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ HP
+
+
+500
+
+
+1566
+
+
+2689
+
+
+3811
+
+
+4934
+
+
+5495
+
+
+
+
+
+
+ ATK
+
+
+30
+
+
+95
+
+
+162
+
+
+230
+
+
+298
+
+
+332
+
+
+
+
+
+
+ STR
+
+
+
+21
+
+
+
+
+50
+
+
+
+
+80
+
+
+
+
+110
+
+
+
+
+140
+
+
+
+
+155
+
+
+
+
+
+
+
+
+ AGL
+
+
+
+
+
+8
+
+
+
+
+
+
+
+
+29
+
+
+
+
+
+
+
+
+50
+
+
+
+
+
+
+
+
+72
+
+
+
+
+
+
+
+
+93
+
+
+
+
+
+
+
+
+104
+
+
+
+
+
+
+
+
+
+
+ INT
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+27
+
+
+
+
+
+
+
+
+46
+
+
+
+
+
+
+
+
+65
+
+
+
+
+
+
+
+
+84
+
+
+
+
+
+
+
+
+93
+
+
+
+
+
+
+
+
+
+
+ WIL
+
+
+
+
+
+15
+
+
+
+
+
+
+
+
+35
+
+
+
+
+
+
+
+
+56
+
+
+
+
+
+
+
+
+77
+
+
+
+
+
+
+
+
+98
+
+
+
+
+
+
+
+
+109
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Critical Rate
+
+
+0.05
+
+
+
+
+
+
+ Attack Speed
+
+
+1
+
+
+
+
+
+
+ Attack Range
+
+
+3 Meters
+
+
+
+
+
+
+Promotion
+
+
+
+
+
+
+Elite 1
+
+
+Raise Last Rite to level 20:
+8
+3
+1.6K
+
+
+
+
+
+
+Elite 2
+
+
+Raise Last Rite to level 40:
+25
+5
+6.5K
+
+
+
+
+
+
+Elite 3
+
+
+Raise Last Rite to level 60:
+24
+5
+18K
+
+
+
+
+
+
+Elite 4
+
+
+Raise Last Rite to level 80:
+36
+20
+8
+100K
+
+
+
+
+
+
+Potential
+
+
+Undertaker's Gift
+When the controlled operator with 
+Hypothermic Perfusion
+ performs a 
+Final Strike
+ that hits the enemy, it deals another 
+20%
+ DMG and 
+5
+ Stagger.
+Absolute Zero Armament
+Strength 
++20
+, Cryo DMG Dealt 
++10%
+.
+Overlord of Winter
+Combo skill 
+Winter's Devourer
+ and ultimate 
+Vigil Services
+ improved: DMG multiplier increased to 
+1.15
+ times the original.
+Sincere Wake
+Ultimate 
+Vigil Services
+ improved: Ultimate Energy cost 
+-15%
+.
+Winter is Returning
+Battle skill 
+Esoteric Legacy of Seš'qa
+ improved: Amount of SP 
+returned
+ is increased by another 
+5
+; Mirage Additional ATK Multiplier is increased to 
+1.2
+ times the original.
+Total Cost
+5
+
+
+
+
+
+
+
+
+Combat Skills
+
+
+
+
+
+
+
+
+Dance of Rime
+
+
+Basic Attack
+
+
+
+
+
+
+
+
+BASIC ATTACK:
+ 
+An attack with up to 4 sequences that deals 
+Cryo DMG
+. As the controlled operator, 
+Final Strike
+ also deals 
+25
+ Stagger. 
+
+DIVE ATTACK:
+ 
+Basic attack performed in mid-air becomes a dive attack that deals 
+Cryo DMG
+ to nearby enemies. 
+
+FINISHER:
+ 
+Basic attack performed near a Staggered enemy becomes a finisher that deals massive 
+Cryo DMG
+ and recovers some SP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BATK SEQ 1 Multiplier
+
+
+ 30%
+
+
+ 33%
+
+
+ 36%
+
+
+ 39%
+
+
+ 42%
+
+
+ 45%
+
+
+ 48%
+
+
+ 51%
+
+
+ 54%
+
+
+ 58%
+
+
+ 62%
+
+
+ 68%
+
+
+
+
+
+
+BATK SEQ 2 Multiplier
+
+
+ 55%
+
+
+ 61%
+
+
+ 66%
+
+
+ 72%
+
+
+ 77%
+
+
+ 83%
+
+
+ 88%
+
+
+ 94%
+
+
+ 99%
+
+
+ 106%
+
+
+ 114%
+
+
+ 124%
+
+
+
+
+
+
+BATK SEQ 3 Multiplier
+
+
+ 68%
+
+
+ 75%
+
+
+ 82%
+
+
+ 88%
+
+
+ 95%
+
+
+ 102%
+
+
+ 109%
+
+
+ 116%
+
+
+ 122%
+
+
+ 131%
+
+
+ 141%
+
+
+ 153%
+
+
+
+
+
+
+BATK SEQ 4 Multiplier
+
+
+ 90%
+
+
+ 99%
+
+
+ 108%
+
+
+ 117%
+
+
+ 126%
+
+
+ 135%
+
+
+ 144%
+
+
+ 153%
+
+
+ 162%
+
+
+ 173%
+
+
+ 187%
+
+
+ 203%
+
+
+
+
+
+
+Finisher ATK Multiplier
+
+
+ 400%
+
+
+ 440%
+
+
+ 480%
+
+
+ 520%
+
+
+ 560%
+
+
+ 600%
+
+
+ 640%
+
+
+ 680%
+
+
+ 720%
+
+
+ 770%
+
+
+ 830%
+
+
+ 900%
+
+
+
+
+
+
+Dive ATK Multiplier
+
+
+ 80%
+
+
+ 88%
+
+
+ 96%
+
+
+ 104%
+
+
+ 112%
+
+
+ 120%
+
+
+ 128%
+
+
+ 136%
+
+
+ 144%
+
+
+ 154%
+
+
+ 166%
+
+
+ 180%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Esoteric Legacy of Seš'qa
+
+
+Battle Skill
+
+
+
+
+
+
+
+
+SKILL DESCRIPTION:
+ Performs a 
+Hypothermic Perfusion
+ on the controlled operator's weapon and 
+returns
+ some SP. 
+The next 
+Final Strike
+ performed by the currently controlled operator within a certain duration creates Last Rite's Mirages that unleash an additional attack at the target. This attack deals 
+Cryo DMG
+ and applies 
+Cryo Infliction
+. 
+When the controlled operator is Last Rite herself, casting this battle skill does not reset her basic attack sequence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SP Cost
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+ 100
+
+
+
+
+
+
+Mirage Additional ATK DMG Multiplier
+
+
+ 142%
+
+
+ 156%
+
+
+ 171%
+
+
+ 185%
+
+
+ 199%
+
+
+ 213%
+
+
+ 228%
+
+
+ 242%
+
+
+ 256%
+
+
+ 274%
+
+
+ 295%
+
+
+ 320%
+
+
+
+
+
+
+SP Return
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+ 30
+
+
+
+
+
+
+Duration (s)
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+
+
+
+
+Ultimate Energy Gain
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+ 16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Winter's Devourer
+
+
+Combo Skill
+
+
+
+
+
+
+
+
+COMBO TRIGGER:
+ When an enemy has 3 or more 
+Cryo Infliction
+ stacks. 
+SKILL DESCRIPTION:
+ Encases the target enemy in icicles and shatters them to 
+consume
+ all 
+Cryo Infliction
+ stacks of the said enemy. The number of 
+Cryo Infliction
+ stacks 
+consumed
+ determines the amount of 
+Cryo DMG
+ dealt to the said enemy and Ultimate Energy gained by Last Rite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cooldown
+
+
+ 9
+
+
+ 9
+
+
+ 9
+
+
+ 9
+
+
+ 9
+
+
+ 9
+
+
+ 9
+
+
+ 9
+
+
+ 9
+
+
+ 9
+
+
+ 9
+
+
+ 8
+
+
+
+
+
+
+Ice Shard DMG Multiplier
+
+
+ 71%
+
+
+ 78%
+
+
+ 85%
+
+
+ 92%
+
+
+ 99%
+
+
+ 107%
+
+
+ 114%
+
+
+ 121%
+
+
+ 128%
+
+
+ 137%
+
+
+ 147%
+
+
+ 160%
+
+
+
+
+
+
+Slash Base DMG Multiplier
+
+
+ 71%
+
+
+ 78%
+
+
+ 85%
+
+
+ 92%
+
+
+ 99%
+
+
+ 107%
+
+
+ 114%
+
+
+ 121%
+
+
+ 128%
+
+
+ 137%
+
+
+ 147%
+
+
+ 160%
+
+
+
+
+
+
+Slash Stagger
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+
+
+
+
+Bonus DMG Multiplier per Infliction Stack
+
+
+ 107%
+
+
+ 117%
+
+
+ 128%
+
+
+ 139%
+
+
+ 149%
+
+
+ 160%
+
+
+ 171%
+
+
+ 181%
+
+
+ 192%
+
+
+ 205%
+
+
+ 221%
+
+
+ 240%
+
+
+
+
+
+
+Base Ultimate Energy Gain
+
+
+ 40
+
+
+ 40
+
+
+ 40
+
+
+ 40
+
+
+ 40
+
+
+ 40
+
+
+ 40
+
+
+ 40
+
+
+ 40
+
+
+ 40
+
+
+ 40
+
+
+ 40
+
+
+
+
+
+
+Additional Ultimate Energy Gain per Infliction Stack
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+ 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vigil Services
+
+
+Ultimate
+
+
+
+
+
+
+
+
+SKILL DESCRIPTION:
+ Last Rite encases herself in frost armor, creates an ice scythe to perform 3 slashes, and gains immunity to all damages while this state is active. 
+Each slash deals massive 
+Cryo DMG
+. 
+
+Last Rite can only gain Ultimate Energy from her own battle skills and combo skills.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate Energy Cost
+
+
+ 240
+
+
+ 240
+
+
+ 240
+
+
+ 240
+
+
+ 240
+
+
+ 240
+
+
+ 240
+
+
+ 240
+
+
+ 240
+
+
+ 240
+
+
+ 240
+
+
+ 240
+
+
+
+
+
+
+SEQ 1 DMG Multiplier
+
+
+ 178%
+
+
+ 196%
+
+
+ 213%
+
+
+ 231%
+
+
+ 249%
+
+
+ 267%
+
+
+ 284%
+
+
+ 302%
+
+
+ 320%
+
+
+ 342%
+
+
+ 369%
+
+
+ 400%
+
+
+
+
+
+
+SEQ 1 Stagger
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+
+
+
+
+SEQ 2 DMG Multiplier
+
+
+ 178%
+
+
+ 196%
+
+
+ 213%
+
+
+ 231%
+
+
+ 249%
+
+
+ 267%
+
+
+ 284%
+
+
+ 302%
+
+
+ 320%
+
+
+ 342%
+
+
+ 369%
+
+
+ 400%
+
+
+
+
+
+
+SEQ 2 Stagger
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+ 5
+
+
+
+
+
+
+SEQ 3 DMG Multiplier
+
+
+ 356%
+
+
+ 391%
+
+
+ 427%
+
+
+ 462%
+
+
+ 498%
+
+
+ 533%
+
+
+ 569%
+
+
+ 604%
+
+
+ 640%
+
+
+ 684%
+
+
+ 738%
+
+
+ 800%
+
+
+
+
+
+
+SEQ 3 Stagger
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+ 10
+
+
+
+
+
+
+
+
+
+
+Skill upgrades
+
+
+6
+1
+1K
+
+
+12
+2
+2.7K
+
+
+16
+1
+3.2K
+
+
+21
+1
+4.2K
+
+
+27
+2
+5.4K
+
+
+6
+1
+8.2K
+
+
+8
+1
+10.5K
+
+
+15
+2
+18K
+
+
+Dance of Rime
+1
+15
+6
+3
+24K
+Esoteric Legacy of Seš'qa
+1
+15
+6
+3
+24K
+Winter's Devourer
+1
+15
+6
+3
+24K
+Vigil Services
+1
+15
+6
+3
+24K
+
+
+Dance of Rime
+2
+24
+16
+6
+30K
+Esoteric Legacy of Seš'qa
+2
+24
+16
+6
+30K
+Winter's Devourer
+2
+24
+16
+6
+30K
+Vigil Services
+2
+24
+16
+6
+30K
+
+
+Dance of Rime
+3
+50
+36
+12
+65K
+Esoteric Legacy of Seš'qa
+3
+50
+36
+12
+65K
+Winter's Devourer
+3
+50
+36
+12
+65K
+Vigil Services
+3
+50
+36
+12
+65K
+
+
+
+
+Talents
+
+
+
+
+
+
+ Forged
+
+
+
+
+
+
+
+
+
+
+Operator Strength +10.
+
+
+
+
+
+
+
+
+
+Operator Strength +15.
+
+
+
+
+
+
+
+
+
+Operator Strength +15.
+
+
+
+
+
+
+
+
+
+Operator Strength +20.
+
+
+
+
+
+
+
+
+
+ Hypothermia
+
+
+
+
+
+
+
+
+
+
+After Last Rite 
+consumes
+ any 
+Arts Infliction
+, she applies 
+Cryo Susceptibility
+ to the target with the effect of [Number of 
+Arts Infliction
+ stacks 
+consumed
+ × 
+2%
+] for 
+15
+s. This effect cannot stack.
+
+
+
+
+
+
+
+
+
+After Last Rite 
+consumes
+ any 
+Arts Infliction
+, she applies 
+Cryo Susceptibility
+ to the target with the effect of [Number of 
+Arts Infliction
+ stacks 
+consumed
+ × 
+4%
+] for 
+15
+s. This effect cannot stack.
+
+
+
+
+
+
+
+
+
+ Cryogenic Embrittlement
+
+
+
+
+
+
+
+
+
+
+Ultimate 
+Vigil Services
+ improved: When the ultimate deals DMG to an enemy with 
+Cryo Susceptibility
+, the effect of that 
+Cryo Susceptibility
+ is 
+1.2
+ times the original.
+
+
+
+
+
+
+
+
+
+Ultimate 
+Vigil Services
+ improved: When the ultimate deals DMG to an enemy with 
+Cryo Susceptibility
+, the effect of that 
+Cryo Susceptibility
+ is 
+1.5
+ times the original.
+
+
+
+
+
+
+
+
+
+ Outfitting
+
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip blue quality gear
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip purple quality gear
+
+
+
+
+
+
+
+
+
+Activate this to let the operator equip gold quality gear
+
+
+
+
+
+
+
+Talent upgrades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+1K
+
+
+
+
+
+
+10
+1.8K
+
+
+
+
+
+
+10
+6K
+
+
+
+
+
+
+20
+12K
+
+
+
+
+
+
+
+
+
+
+
+
+12
+2.4K
+
+
+
+
+
+
+40
+8.6K
+
+
+
+
+
+–
+
+
+
+–
+
+
+
+
+
+
+
+
+
+–
+
+
+
+
+48
+10K
+
+
+
+
+
+
+28
+24K
+
+
+
+
+
+–
+
+
+
+
+
+
+
+
+
+
+1.6K
+
+
+
+
+
+
+6.5K
+
+
+
+
+
+
+18K
+
+
+
+
+
+–
+
+
+
+
+
+
+Base Skills
+
+
+
+
+
+
+ Cemetery Gardening
+
+
+
+
+
+
+
+
+
+
+Assign to Growth Chamber to grant vitrified plant growth rate +20%
+
+
+
+
+
+
+
+
+
+Assign to Growth Chamber to grant vitrified plant growth rate +30%
+
+
+
+
+
+
+
+
+
+ Fame of the Royal Courts
+
+
+
+
+
+
+
+
+
+
+Assign to Reception Room to grant operators a small Clue 7 Rate-UP: Seš'qa (activates upon assignment; effects of the same type cannot stack)
+
+
+
+
+
+
+
+
+
+Assign to Reception Room to grant operators Clue 7 Rate-UP: Seš'qa (activates upon assignment; effects of the same type cannot stack)
+
+
+
+
+
+
+
+Base Skill upgrades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+1.6K
+
+
+
+
+
+–
+
+
+
+
+12
+8K
+
+
+
+
+
+–
+
+
+
+
+
+
+
+
+
+–
+
+
+
+
+12
+3K
+
+
+
+
+
+–
+
+
+
+
+20
+20K
+
+
+
+
+
+
+Changelog
+
+
+
+
+Zeroth Directive
+
+
+Battle Skill Esoteric Legacy of Seš'qa
+
+Mirage Additional ATK DMG Multiplier reduced from 151% - 340% to 142% - 320%.
+
+
+Combo Skill Winter's Devourer
+
+Bonus DMG Multiplier per Infliction Stack reduced by 1% on Skill Rank 5, 8, M1 and M2. (Other ranks unchanged.)
+
+
+Ultimate Vigil Services
+
+SEQ 1 DMG Multiplier reduced from 200% - 450% to 178% - 400%.
+
+
+SEQ 2 DMG Multiplier reduced from 200% - 450% to 178% - 400%.
+
+
+SEQ 3 DMG Multiplier reduced from 400% - 900% to 356% - 800%.
+
+
+Base Skill Cemetery Gardening
+
+Vitrified plant growth rate increaed from 10% / 20% to 20% / 30%.
+
+
+Base Skill Expert MFG changed to Fame of the Royal Courts
+
+Old: Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 10% / 14%.
+
+
+New: Assign to Reception Room to grant operators [a small] Clue 7 Rate-UP: Seš'qa (activates upon assignment; effects of the same type cannot stack).
+
+
+Beta Test II
+ introduced.
+
+
+Navigation
+
+
+View or edit this template
+Operators
+ Guard
+
+
+Endministrator
+
+
+Lifeng
+
+
+Chen Qianyu
+
+
+Estella
+
+
+ Defender
+
+
+Ember
+
+
+Snowshine
+
+
+Catcher
+
+
+ Supporter
+
+
+Ardelia
+
+
+Gilberta
+
+
+Xaihi
+
+
+Antal
+
+
+ Caster
+
+
+Perlica
+
+
+Wulfgard
+
+
+Fluorite
+
+
+ Striker
+
+
+Laevatain
+
+
+Last Rite
+
+
+Yvonne
+
+
+Avywenna
+
+
+Da Pan
+
+
+ Vanguard
+
+
+Pogranichnik
+
+
+Alesh
+
+
+Arclight
+
+
+Akekuri
+
+
+
+
+
+
+
+
+

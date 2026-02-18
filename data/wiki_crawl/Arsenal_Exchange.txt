@@ -1,0 +1,208 @@
+URL: https://endfield.wiki.gg/wiki/Arsenal_Exchange
+
+This article is about the Arsenal Exchange. For Operator Headhunting, see 
+Headhunting
+.
+
+
+
+
+
+
+Arsenal Exchange
+
+
+
+
+Issues
+
+
+
+
+Arsenal Exchange
+ is a method for players to obtain 
+Weapons
+ in 
+Arknights: Endfield
+. It is one of the game's core "gacha" systems.
+
+
+
+Overview: Arsenal Exchange
+
+
+In the 
+Arsenal Exchange
+ the player can use 
+Arsenal Tickets
+ (
+ 
+) to exchange for supplies, mainly 
+weapons
+.
+
+There are two ways to spend in Arsenal Exchange: Purchasing and Pulling.
+
+
+
+Purchase Weapons
+
+
+Some weapons are put on sale permanently or rotates regularly; the amount of Arsenal Tickets required correspond to the rarity:
+
+
+
+4★ weapons cost 
+20 
+
+
+5★ weapons cost 
+400 
+
+
+6★ weapons cost 
+2480 
+
+
+Pulling Weapons
+
+
+Weapons can be obtained through gacha. There are two types of banners known as 
+Issues
+, one being rotating with the Operator's banner, and one being permanent. Each issue attempt costs 
+1980 
+ and gives 10 random weapons from the list of available weapons, with the following rates:
+
+
+
+
+
+
+
+Rarity
+
+
+
+Percentage
+
+
+
+
+
+4★
+
+
+81%
+
+
+
+
+
+5★
+
+
+15%
+
+
+
+
+
+6★
+
+
+4%
+
+
+
+Issuing features "fail-safe" mechanisms:
+
+
+
+At least one 5★ or better weapon is guaranteed to appear in any of the issues.
+
+In other words, if the first nine weapons are not 5★ or 6★ weapons, then the tenth weapon will be 5★ at minimum. This does not guarantee a 6★ Weapon, however.
+
+
+If you don't get a 6★ weapon after 3 consecutive issues, the next issue will guarantee a 6★ weapon. This does not guarantee a Rate-UP weapon.
+
+
+When obtaining a 6★ weapon, there is a 25% chance to get the Rate-UP Weapon.
+
+
+One time per banner, there's a guarantee system that if you did not get the Rate-UP 6★ weapon after 7 consecutive issues, the Rate-UP 6★ weapon is guaranteed in the 8th issue. This does not carry over to other issue banners and will be reset when the issue ends.
+
+At the 10th issue, one weapon selection box will be given. At the 18th issue, the Rate-UP 6★ weapon will be given instead. The cycle follows on every 8 issues afterwards. The number of issues accounted will be reset when the issue ends.
+
+
+View or edit this template
+Arknights: Endfield
+ features
+Event
+(Overview)
+Upcoming
+ • 
+Former
+ (
+2026
+)
+Missions
+Main Mission
+ • 
+Exploration Mission
+ • 
+Side Mission
+ • 
+Event Mission
+ • 
+Commission
+Enemy
+Common
+ • 
+Advanced
+ • 
+Elite
+ • 
+Alpha
+ • 
+Boss
+Operator
+Class
+ • 
+Element
+ • 
+Weapon
+List
+6★
+ • 
+5★
+ • 
+4★
+Headhunting
+Banners
+Upcoming
+ • 
+Former
+ (
+2026
+)
+Items
+Upgrade material
+ • 
+Promotion material
+ • 
+Skill Summary
+ • 
+Building material
+ • 
+Operator
+ • 
+Token
+ • 
+Event
+
+
+
+
+
+
+

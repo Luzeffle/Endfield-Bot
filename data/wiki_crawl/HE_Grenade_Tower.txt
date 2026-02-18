@@ -1,0 +1,333 @@
+URL: https://endfield.wiki.gg/wiki/HE_Grenade_Tower
+
+HE Grenade Tower
+In Other Languages
+Simplified Chinese
+
+
+高爆榴弹塔
+Traditional Chinese
+
+
+高爆榴彈塔
+Japanese
+
+
+高火力榴弾塔
+Korean
+
+
+고폭 유탄 타워
+Spanish
+
+
+Torre de granadas HE
+Russian
+
+
+ОФ гранатометная вышка
+General Information
+Type
+
+Facilities
+Rarity
+
+4
+Power Use
+
+20
+
+
+HE Grenade Tower
+ is an 
+AIC
+ 
+Combat & Support
+ in 
+Arknights: Endfield
+.
+
+
+
+Item description
+A launcher of compressed high explosive (HE) Originium grenades. This facility deals more devastating area damage compared to its standard counterpart.
+
+
+Usage
+
+
+ATK
+: 
+5585
+
+
+Attack Interval
+: 
+3
+s
+
+
+Attack Range
+: 
+12.5
+ meters
+
+
+Mode of Attack
+: Attacks enemies by launching Mk Ⅱ grenades along a ballistic trajectory that detonate above ground near enemies. The grenade explosion deals area of effect 
+Heat DMG
+ and leaves a burning zone that deals DMG to enemies within it.
+
+
+Power Use : 20
+
+
+Acquisition
+
+
+Production: 
+Wuling AIC Plan - Wuling AIC I - HE Granade Tower
+
+
+
+
+
+
+Facility
+
+
+
+Cost
+
+
+
+Product
+
+
+
+Time
+
+
+
+
+
+Construct
+
+
+
+
+20
+
+
+
+
+1
+
+
+
+
+-
+
+
+
+Navigation
+
+
+View or edit this template
+Facilities
+Resourcing
+ 
+Portable Originium Rig
+ • 
+ 
+Electric Mining Rig
+ • 
+ 
+Electric Mining Rig Mk II
+ • 
+ 
+Fluid Pump
+Logistics Units
+ 
+Item Control Port
+ • 
+ 
+Splitter
+ • 
+ 
+Belt Bridge
+ • 
+ 
+Converger
+ • 
+ 
+Pipe Control Port
+ • 
+ 
+Pipe Splitter
+ • 
+ 
+Pipe Bridge
+ • 
+ 
+Pipe Converger
+Depot Access
+ 
+Protocol Stash
+ • 
+ 
+Depot Loader
+ • 
+ 
+Depot Unloader
+ • 
+ 
+Fluid Tank
+ • 
+ 
+Depot Bus Section
+ • 
+ 
+Depot Bus Port
+Production I
+ 
+Refining Unit
+ • 
+ 
+Shredding Unit
+ • 
+ 
+Fitting Unit
+ • 
+ 
+Moulding Unit
+ • 
+ 
+Planting Unit
+ • 
+ 
+Seed-Picking Unit
+Production II
+ 
+Gearing Unit
+ • 
+ 
+Filling Unit
+ • 
+ 
+Packaging Unit
+ • 
+ 
+Grinding Unit
+ • 
+ 
+Reactor Crucible
+ • 
+ 
+Forge of the Sky
+ • 
+ 
+Separating Unit
+Power
+ 
+Electric Pylon
+ • 
+ 
+Relay Tower
+ • 
+ 
+Xiranite Pylon
+ • 
+ 
+Xiranite Relay
+ • 
+ 
+Thermal Bank
+Miscellaneous
+ 
+Easy Stash
+ • 
+ 
+Memo Beacon
+ • 
+ 
+Zipline Pylon
+ • 
+ 
+Zipline Tower
+ • 
+ 
+Sprinkler
+ • 
+ 
+Fluid Supply Unit
+Combat & Support
+ 
+Gun Tower
+ • 
+ 
+Medical Tower
+ • 
+ 
+Grenade Tower
+ • 
+ 
+LN Tower
+ • 
+ 
+Heavy Gun Tower
+ • 
+ 
+Omnidirectional Sonic Tower
+ • 
+ 
+Beam Tower
+ • 
+ 
+Surge Tower
+ • 
+ 
+Sentry Tower
+ • 
+ 
+HE Grenade Tower
+ • 
+ 
+Marsh Gas Mk I
+Planting
+ 
+Buckflower Plot
+ • 
+ 
+Citrome Plot
+ • 
+ 
+Sandleaf Plot
+ • 
+ 
+Aketine Plot
+ • 
+ 
+Jincao Plot
+ • 
+ 
+Yazhen Plot
+ • 
+ 
+Reed Rye Plot
+ • 
+ 
+Tartpepper Plot
+ • 
+ 
+Redjade Ginseng Plot
+ • 
+ 
+Amber Rice Plot
+
+
+
+
+
+
+
