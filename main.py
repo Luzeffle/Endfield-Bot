@@ -12,14 +12,14 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-from langchain_classic.chains import create_retrieval_chain, create_history_aware_retriever
-from langchain_classic.chains.combine_documents import create_stuff_documents_chain
+from langchain.chains import create_retrieval_chain, create_history_aware_retriever
+from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.messages import HumanMessage, AIMessage
 
 if not os.path.exists("endfield_db"):
     with zipfile.ZipFile("endfield_db.zip", 'r') as zip_ref:
         zip_ref.extractall(".")
-        
+
 # --- CONFIGURATION ---
 # Set the API key so LangChain can find it automatically
 os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
