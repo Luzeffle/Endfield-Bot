@@ -1,0 +1,15 @@
+[theme]
+# The main accent color (e.g., for loading spinners and buttons) - Let's use an Endfield Cyan/Teal
+primaryColor = "#FFFF33"
+
+# The main background color - Deep dark grey/blue
+backgroundColor = "#0b101e"
+
+# The background for the chat input box and sidebar
+secondaryBackgroundColor = "#161b2a"
+
+# The color of the text
+textColor = "#e0e6ed"
+
+# The font style (sans serif, serif, or monospace). Monospace feels very "terminal/hacker"
+font = "monospace"

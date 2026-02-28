@@ -1,0 +1,14 @@
+# Ignore offline scraping and ingestion files
+data/
+crawl_wiki.py
+ingest.py
+jsonconverter.py
+blueprints_raw.json
+
+# Ignore Python cache and environment files
+__pycache__/
+.env
+
+.streamlit/secrets.toml
+
+endfield_db/
