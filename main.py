@@ -26,7 +26,7 @@ if not os.path.exists("endfield_db"):
 os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
 
 # --- SETUP RAG PIPELINE (CACHED) ---
-# We use @st.cache_resource so the database and AI only load ONCE when the app starts.
+# I use @st.cache_resource so the database and AI only load ONCE when the app starts.
 @st.cache_resource
 def setup_rag_pipeline():
     # 1. Load the Local Knowledge Base
