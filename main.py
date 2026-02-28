@@ -82,19 +82,15 @@ def setup_rag_pipeline():
 # Initialize the pipeline
 rag_chain = setup_rag_pipeline()
 
-
-# MUST BE THE FIRST STREAMLIT COMMAND (Put this right after your imports!)
 st.set_page_config(page_title="Endfield_Bot", layout="wide", initial_sidebar_state="expanded")
 
 # --- CUSTOM CSS ---
 st.markdown("""
     <style>
-    /* Hide top menu and footer */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     header {visibility: hidden;}
 
-    /* AGGRESSIVELY HIDE SIDEBAR TOGGLES */
     [data-testid="collapsedControl"],
     [data-testid="stSidebarCollapsedControl"],
     [data-testid="stSidebarCollapseButton"],
@@ -102,40 +98,35 @@ st.markdown("""
         display: none !important;
     }
 
-    /* Lock Sidebar Width */
     section[data-testid="stSidebar"] {
         width: 320px !important;
         min-width: 320px !important;
         max-width: 320px !important;
     }
 
-    /* Clean up Main Container padding */
     .block-container {
         padding-top: 3rem !important;
     }
     
-    /* Chat Box Glow */
     .stChatInputContainer {
         border: 1px solid #F2C100; 
         box-shadow: 0 0 10px rgba(242, 193, 0, 0.2);
     }
     
-    /* STYLE THE BUTTON WHEN EMPTY (Faded out) */
     [data-testid="stChatInputSubmitButton"]:disabled {
         background-color: transparent !important;
     }
     [data-testid="stChatInputSubmitButton"]:disabled svg {
-        fill: rgba(226, 232, 240, 0.5) !important; /* Faded white arrow */
+        fill: rgba(226, 232, 240, 0.5) !important;
     }
 
-    /* STYLE THE BUTTON WHEN TYPING (Solid Yellow with Black Arrow) */
     [data-testid="stChatInputSubmitButton"]:not(:disabled) {
         background-color: #FFFF33 !important;
         border-radius: 8px !important;
         padding: 4px !important;
     }
     [data-testid="stChatInputSubmitButton"]:not(:disabled) svg {
-        fill: #000000 !important; /* Arrow turns sharp black! */
+        fill: #000000 !important;
         color: #000000 !important;
     }
             
@@ -165,7 +156,6 @@ with st.sidebar:
     st.markdown("Welcome, Operator. You are connected to the comprehensive Talos-II master database.")
     st.markdown("Ask me about Operator profiles, factory blueprints, combat mechanics, or planetary lore.")
     
-# Setup the Gemini-Style Top Header (Unified so it never overlaps!)
 st.markdown(
     """
     <div style='border-bottom: 1px solid #1A1E26; padding-bottom: 10px; margin-bottom: 20px;'>
@@ -176,11 +166,11 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# 2. Setup Memory for the Webpage
+# Setup Memory for the Webpage
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# 3. Display the Chat History on the Screen
+# Display the Chat History on the Screen
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
@@ -188,7 +178,7 @@ for message in st.session_state.messages:
 # User Input
 if user_question := st.chat_input("Operator, what is your question?"):
     
-    # 1. Translate Streamlit history into LangChain format BEFORE adding the new question
+    # Translate Streamlit history into LangChain format BEFORE adding the new question
     langchain_history = []
     for msg in st.session_state.messages:
         if msg["role"] == "user":
@@ -196,12 +186,12 @@ if user_question := st.chat_input("Operator, what is your question?"):
         else:
             langchain_history.append(AIMessage(content=msg["content"]))
 
-    # 2. Show the user's question and save it visually
+    # Show the user's question and save it visually
     with st.chat_message("user"):
         st.markdown(user_question)
     st.session_state.messages.append({"role": "user", "content": user_question})
 
-    # 3. The Bot's Turn to Answer
+    # The Bot's Turn to Answer
     with st.chat_message("assistant"):
         with st.spinner("Routing query through Perlica's terminal..."):
             try:
