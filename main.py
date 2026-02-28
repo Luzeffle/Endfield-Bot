@@ -146,7 +146,7 @@ st.markdown("""
         content: "";
         position: absolute;
         top: 0;
-        right: 5%;
+        right: 3%;
         width: 45px;
         height: 140px;
         background-color: #FFFF33;
