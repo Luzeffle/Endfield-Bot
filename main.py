@@ -218,8 +218,8 @@ if user_question := st.chat_input("Operator, what is your question?"):
                 
                 st.markdown(bot_response)
                 execution_time = end_time - start_time
-                st.caption(f"⏱️ Response generated in {execution_time:.2f} seconds")
-                
+                st.caption(f"Response generated in {execution_time:.2f} seconds")
+
                 st.session_state.messages.append({"role": "assistant", "content": bot_response})
                 
             except Exception as e:
