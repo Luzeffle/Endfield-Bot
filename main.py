@@ -7,6 +7,7 @@ except ImportError:
 
 import streamlit as st
 import os
+import time
 import zipfile
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -204,14 +205,21 @@ if user_question := st.chat_input("Operator, what is your question?"):
     with st.chat_message("assistant"):
         with st.spinner("Routing query through Perlica's terminal..."):
             try:
+
+                start_time = time.time()
                 # Pass BOTH the question and the memory to LangChain
                 response = rag_chain.invoke({
                     "input": user_question,
                     "chat_history": langchain_history
                 })
                 bot_response = response['answer']
+
+                end_time = time.time()
                 
                 st.markdown(bot_response)
+                execution_time = end_time - start_time
+                st.caption(f"⏱️ Response generated in {execution_time:.2f} seconds")
+                
                 st.session_state.messages.append({"role": "assistant", "content": bot_response})
                 
             except Exception as e:
