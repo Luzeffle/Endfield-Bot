@@ -140,13 +140,13 @@ st.markdown("""
     
     .block-container::before {
         content: "";
-        position: fixed;
+        position: absolute;
         top: 0;
-        right: 10%;
+        right: 5%;
         width: 45px;
         height: 140px;
         background-color: #FFFF33;
-        z-index: 100;
+        z-index: 0;
         box-shadow: 4px 4px 0px rgba(0,0,0,0.1);
     }
             
