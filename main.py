@@ -137,6 +137,10 @@ st.markdown("""
         fill: #000000 !important; /* Arrow turns sharp black! */
         color: #000000 !important;
     }
+            
+    [data-testid="stVerticalBlock"] {
+        position: relative;
+    }
     
     .block-container::before {
         content: "";
@@ -146,7 +150,7 @@ st.markdown("""
         width: 45px;
         height: 140px;
         background-color: #FFFF33;
-        z-index: 0;
+        z-index: 1;
         box-shadow: 4px 4px 0px rgba(0,0,0,0.1);
     }
             
